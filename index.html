@@ -1,4 +1,16 @@
 ---
 layout: default
 ---
-Hello World
+
+<h1>Hello, word!</h1>
+<p>
+  Hi! I am a Computer Engineering Student at Franklin W. Olin College of Engineering. My goal is to develop technology which can help make project-based and hands-on learning accessible to a larger audience of people. This comes from an interest in innovative education, robotics, embedded systems and software development. 
+  <p>
+
+  {% for post in site.posts %}
+<a class="tile-link" href="{{ post.url | remove_first: "/" }}">
+<span class="tile-container">
+<img id="{{ post.title | split:": " | first | split: " " | last }}-img" class="tile" src="">
+</span>
+</a>
+{% endfor %}
