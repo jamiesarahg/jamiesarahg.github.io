@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jamie Gorson</title>
+    <description>My Portfolio</description>
+    <link>http://jamiegorson.com/</link>
+    <atom:link href="http://jamiegorson.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 31 Oct 2015 16:40:20 -0400</pubDate>
+    <lastBuildDate>Sat, 31 Oct 2015 16:40:20 -0400</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>15: Hands On Learning For Underserved Kids in India</title>
+        <description>&lt;center&gt;&lt;img src=&quot;images/projects/elevator.jpg&quot; width=&quot;70%&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
+
+&lt;p&gt;I’m currently working on a project in an Affordable Design and Entrepreneurship course to increase hands-on learning and curiosity in STEM fields in India and Ghana with business and engineering students and professors. We are developing a light-projector and curriculum to aid in the teaching of optics. In January, we will be going to India to deliver the first iteration of this product to Agastya International Foundation, one of our partnering institutions. Agastya runs a Lab in a Box program to bring hands-on science curriculum to rural, underserved schools in India.  In the Lab in a Box program, a trainer brings the curriculum and projector to the teacher and instructs them on how to run the labs.  Our eventual goal is to send 600 boxes to the Lab in a Box program reaching across India, as well as a few hundred to African Women’s Advocacy Group in Ghana. &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hfid.olin.edu/sa2013/s_engr3220-unibros/final.php&quot;&gt;Check out our project page&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://tcr.github.io/elevator-kiosk/&quot;&gt;Check out our live prototype&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Teammates: &lt;a href=&quot;http://twitter.com/wcdolphin&quot;&gt;Cory Dolphin&lt;/a&gt;, Inigio Betia, and &lt;a href=&quot;http://twitter.com/timcameronryan&quot;&gt;Tim Ryan&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 Oct 2015 00:00:00 -0400</pubDate>
+        <link>http://jamiegorson.com/Project15.html</link>
+        <guid isPermaLink="true">http://jamiegorson.com/Project15.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>7: S2: Results from User Centered Design project on Volunteer Physicians</title>
+        <description>&lt;center&gt;&lt;img src=&quot;images/projects/UOCDposter.png&quot; width=&quot;95%&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
+
+&lt;p&gt;For Olin’s User Oriented Collaborative Design course, I worked on a team to understand and design for volunteer physicians. In a semester, we took the challenge of making a significant impact on the lives of Volunteer Physicians. On a team of five students, we engaged in a User Centered Design process where we challenged ourselves to epathize and understand our users. We visited clinics and hospitals, interviewed physicians and researched the work of our users. We identified areas of opportunities, which helped us build personas and journies to extract deeper meaning. We ferociously ideated ideas and codesigned with our users.
+In the end, we developed the S2, an intellegent note-taking add-on to a stethosocope. Volunteer physicians resent the overhaul of their field by technology and reject doctors who spend their appointment time glued to the computer instead of interacting with patients. We were able to turn their apprehension towards technology into an asset by designing a device which would help the physicians increase time interacting with their patients.&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;images/projects/journey.jpg&quot; width=&quot;30%&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
+
+&lt;!-- Add carusel of images from slide deck --&gt;
+&lt;p&gt;Teammates: &lt;a href=&quot;eqwang.weebly.com&quot;&gt;Emily Wang&lt;/a&gt;, Justin Poh, Mitchell Cieminski, Jack Fan&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 May 2014 00:00:00 -0400</pubDate>
+        <link>http://jamiegorson.com/Project7.html</link>
+        <guid isPermaLink="true">http://jamiegorson.com/Project7.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>6: Do Doctors Listen? A Data Science Project on Prescribing Rates of NSAIDs as influenced by the National Health Service of the UK</title>
+        <description>&lt;center&gt;&lt;img src=&quot;images/projects/lesspeaks.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
+
+&lt;p&gt;For a data science course, my partner and I evaluated the reactions of doctors to directives published by the National Health Service of the UK. This was specifically related to drugs that the doctors prescribed to patients, relative to either generic or similar versions. We worked with the National Healh Service’s Open Data that they published in a transparency initiative. We built a &lt;a href=&quot;https://www.dropbox.com/s/eviombgon1jb9ji/NSAIDmapTimeseries.avi?dl=0&quot;&gt;timeseries&lt;/a&gt; which displays how each of the different regions reacted to a directive by time.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/s/z354fimlei0zgcu/NHS___Data_Science.pdf?dl=0&quot;&gt;See our final report&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt;&lt;img src=&quot;images/thumbnails/6.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;  &lt;/p&gt;
+
+&lt;p&gt;Teammate: Rachel Boy&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 May 2014 00:00:00 -0400</pubDate>
+        <link>http://jamiegorson.com/Project6.html</link>
+        <guid isPermaLink="true">http://jamiegorson.com/Project6.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>5: Teaching the Principles of Motors: Electricity and Magnetism</title>
+        <description>&lt;center&gt;&lt;img src=&quot;images/projects/EMMotor.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
+
+&lt;p&gt;For a Physics: Electricity and Magnetism Course, my partner and I designed and executed a classroom lesson and activity for third graders. We taught them the principles of electricity and magnetism through easily comprehendible demos. The students then each built their own motor by putting the principles they just learned into action. Above, you can see and example of the motor that they built using the activity instructions, below. Below, you can see my partner Rahil working with students at the school&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/s/cfb0ia273m1k4q5/EMLessonPlan.pdf?dl=0&quot;&gt;See our lesson plan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/s/1ve2jb65aaeil5o/lab_instructions.pdf?dl=0&quot;&gt;See our activity instructions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt;&lt;img src=&quot;images/projects/EMRahilHelping.jpg&quot; width=&quot;30%&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
+&lt;center&gt;&lt;img src=&quot;images/thumbnails/5.jpg&quot; width=&quot;30%&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
+
+&lt;p&gt;Teammate: Rahil Dedhia&lt;/p&gt;
+</description>
+        <pubDate>Sat, 21 Dec 2013 00:00:00 -0500</pubDate>
+        <link>http://jamiegorson.com/Project5.html</link>
+        <guid isPermaLink="true">http://jamiegorson.com/Project5.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>4: FPGA Piano</title>
+        <description>&lt;p&gt;For a computer architecture coure, we made and FPGA piano. We programed an FPGA to play simple music. We attempted to implement two different kinds of modes: a free-play mode where the user was able to play a combination of seven different notes in a major scale and a song mode where a predetermined song would play. In order to produce different notes, we divided the FPGA’s clock by different values which yielded the various notes we wanted. We opted to use seven separate GPIO pins on the FPGA to produce notes, and we were able to play all the notes using a single speaker by building a simple analog signal adder. &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://wikis.olin.edu/ca/doku.php?id=projects:fpga_piano&quot;&gt;Check out our Wiki with complete project details&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Teammates: Mason del Rosario, Evan Dorsky, Rahil Dedhia, Jack Fan&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Dec 2013 00:00:00 -0500</pubDate>
+        <link>http://jamiegorson.com/Project4.html</link>
+        <guid isPermaLink="true">http://jamiegorson.com/Project4.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>2: 3D Competitive Snake Game</title>
+        <description>&lt;center&gt;&lt;img src=&quot;images/projects/snakegame.jpg&quot; width=&quot;70%&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
+
+&lt;p&gt;For a project for a software design course, my team and I made snake game taken to the next level. We used visual python to make a 3-d snake game where the user plays in first person. Secondly, we made a 2-d version of the game that is a competitive version. Two users can play against each other while on different computers.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/benkahle/snake3d&quot;&gt;Check out our GitHub repo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Teammates: Cullen Ross, Cameron Anderson, Ben Kahle&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 May 2013 00:00:00 -0400</pubDate>
+        <link>http://jamiegorson.com/Project2.html</link>
+        <guid isPermaLink="true">http://jamiegorson.com/Project2.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>1: Design Nature Transporter</title>
+        <description>&lt;center&gt;&lt;img src=&quot;images/projects/transporterteam.jpg&quot; width=&quot;70%&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hfid.olin.edu/sa2013/s_engr3220-unibros/final.php&quot;&gt;Check out our project page&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/home/DocumentsforWebsite?preview=Me_playing_game.MOV&quot;&gt;See a video of me using our final design&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Teammates: &lt;a href=&quot;http://mylescooper.me&quot;&gt;Myles Cooper&lt;/a&gt;, Deborah Hellen, Jessica Diller, Thomas Nattastad&lt;/p&gt;
+</description>
+        <pubDate>Thu, 20 Dec 2012 00:00:00 -0500</pubDate>
+        <link>http://jamiegorson.com/Project1.html</link>
+        <guid isPermaLink="true">http://jamiegorson.com/Project1.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+  </channel>
+</rss>

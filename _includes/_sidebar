@@ -1,0 +1,14 @@
+<div class="col-sm-3 hidden-xs sidebar">
+  <div class="contact-card">
+    <img src="images/headshot.jpg" width="100%">
+    <br><br>
+    <span>
+      Github: <a href="http://github.com/jamiesarahg"> JamieSarahG </a>
+      <br>
+      School Email: <a href="mailto:jamie.gorson@students.olin.edu"> jamie.gorson@students.olin.edu </a>
+      Personal Email: <a href="mailto:jamie@gorson@gorsonfamily.com"> jamie@gorson@gorsonfamily.com </a>
+      <br>
+      Resume: <a href="">View / Download</a>
+    </span>
+  </div>
+</div>
