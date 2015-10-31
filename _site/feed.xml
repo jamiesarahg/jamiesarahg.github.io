@@ -5,25 +5,39 @@
     <description>My Portfolio</description>
     <link>http://jamiegorson.com/</link>
     <atom:link href="http://jamiegorson.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 31 Oct 2015 16:40:20 -0400</pubDate>
-    <lastBuildDate>Sat, 31 Oct 2015 16:40:20 -0400</lastBuildDate>
+    <pubDate>Sat, 31 Oct 2015 18:02:56 -0400</pubDate>
+    <lastBuildDate>Sat, 31 Oct 2015 18:02:56 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>15: Hands On Learning For Underserved Kids in India</title>
-        <description>&lt;center&gt;&lt;img src=&quot;images/projects/elevator.jpg&quot; width=&quot;70%&quot; /&gt;&lt;/center&gt;
+        <title>16: Current Project: Mobile App for Kids to Learn a Key Step in the Design Process</title>
+        <description>&lt;center&gt;&lt;img src=&quot;images/projects/scopeTeamPhoto.jpg&quot; width=&quot;70%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt; &lt;/p&gt;
 
-&lt;p&gt;I’m currently working on a project in an Affordable Design and Entrepreneurship course to increase hands-on learning and curiosity in STEM fields in India and Ghana with business and engineering students and professors. We are developing a light-projector and curriculum to aid in the teaching of optics. In January, we will be going to India to deliver the first iteration of this product to Agastya International Foundation, one of our partnering institutions. Agastya runs a Lab in a Box program to bring hands-on science curriculum to rural, underserved schools in India.  In the Lab in a Box program, a trainer brings the curriculum and projector to the teacher and instructs them on how to run the labs.  Our eventual goal is to send 600 boxes to the Lab in a Box program reaching across India, as well as a few hundred to African Women’s Advocacy Group in Ghana. &lt;/p&gt;
+&lt;p&gt;For my Senior Capstone Project in Engineering, I am building a design application for children aged four to fourteen in conjunction with DS SolidWorks. As the Product Owner, I ensure that the team is going on the correct path to both meet the team’s goals and DS SolidWorks’ objectives. This includes convincing DS SolidWorks to change their designs based on evidence corroborated by our user research. While the product is under NDA, I can divulge that it will expose students to the creative aspects of engineering, which may encourage females and underrepresented groups to pursue engineering study. The demographic is kids 4 to 14 years of age, from Kindergarten to 8th grade. The app should inspire the kids and prepare them to tackle their own projects. This application will open young eyes to the design process, motivating and preparing them to tackle their own projects. &lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://hfid.olin.edu/sa2013/s_engr3220-unibros/final.php&quot;&gt;Check out our project page&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://tcr.github.io/elevator-kiosk/&quot;&gt;Check out our live prototype&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Teammates: Ben Kahle, Nicole Rifkin, Thomas Chen&lt;/p&gt;
 
-&lt;p&gt;Teammates: &lt;a href=&quot;http://twitter.com/wcdolphin&quot;&gt;Cory Dolphin&lt;/a&gt;, Inigio Betia, and &lt;a href=&quot;http://twitter.com/timcameronryan&quot;&gt;Tim Ryan&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Advisor: &lt;a href=&quot;http://www.olin.edu/faculty/profile/c-jason-woodard/&quot;&gt;Jason Woodard&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 30 Oct 2015 00:00:00 -0400</pubDate>
+        <pubDate>Tue, 12 May 2015 00:00:00 -0400</pubDate>
+        <link>http://jamiegorson.com/Project16.html</link>
+        <guid isPermaLink="true">http://jamiegorson.com/Project16.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>15: Current Project: Hands On Learning For Underserved Kids in India</title>
+        <description>&lt;p&gt;I’m currently working on a project in an Affordable Design and Entrepreneurship course to increase hands-on learning and curiosity in STEM fields in India and Ghana with business and engineering students and professors. We are developing a light-projector and curriculum to aid in the teaching of optics. In January, we will be going to India to deliver the first iteration of this product to Agastya International Foundation, one of our partnering institutions. Agastya runs a Lab in a Box program to bring hands-on science curriculum to rural, underserved schools in India.  In the Lab in a Box program, a trainer brings the curriculum and projector to the teacher and instructs them on how to run the labs.  Our eventual goal is to send 600 boxes to the Lab in a Box program reaching across India, as well as a few hundred to African Women’s Advocacy Group in Ghana. &lt;/p&gt;
+
+&lt;p&gt;Teammates: Mary Morse, Kiki Chandra, Subhash Gubba, Yasmine Idriss, Forrest Landy, Makhimba Simon&lt;/p&gt;
+
+&lt;p&gt;Advisor: &lt;a href=&quot;http://www.olin.edu/faculty/profile/siddhartan-govindasamy/&quot;&gt;Siddhartan Govindasamy&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 May 2015 00:00:00 -0400</pubDate>
         <link>http://jamiegorson.com/Project15.html</link>
         <guid isPermaLink="true">http://jamiegorson.com/Project15.html</guid>
         
@@ -33,22 +47,24 @@
       </item>
     
       <item>
-        <title>7: S2: Results from User Centered Design project on Volunteer Physicians</title>
-        <description>&lt;center&gt;&lt;img src=&quot;images/projects/UOCDposter.png&quot; width=&quot;95%&quot; /&gt;&lt;/center&gt;
+        <title>11: Independent Study and Consulting work in Belgium for KU Leuven and Thomas Moore</title>
+        <description>&lt;p&gt;During my semester abroad in Belgium, I was a liaison of Olin College to two universities in Belgium: KU Leuven and Thomas Moore. I have been working directly with Inge Vervoot and her colleagues on her mission to engage engineering students in real world experience and expose them to the social sector. In order to accomplish this, the programs will be emphasizing user centered design, design thinking, real world experiences and societal awareness and the social profit sector. This group is working on a number of projects, some of which span the European Union. As a student of Olin College, I assisted this team in two of their programs, which will be explained below. I will be using my experience as a student at Olin College, my design and education courses, and the knowledge I’ve acquired while working for the Collaboratory to write recommendations and proposals to the group. &lt;/p&gt;
+
+&lt;p&gt;The first program that I worked with is Community Service Engineering, or CSE. CSE has been developed by Inge and her colleague Jan to educate recent graduates or professionals as to being socially aware engineers. A larger, longer existing program called the Postgraduate Programme in Innovation and Entrepreneurship in Engineering, has a complementary mission. To enhance both programs, they decided to integrate them. As an outsider with experience in curriculum and user centered design, I gave my opinions and perspective to best integrate the programs to attract more students and give them the best educational opportunities. In order to best accomplish this, I have met with students from both programs who are working on a variety of projects as well as coaches, mentors and administrators of the programs, as well as attended CSE to get the best vantage point of the course. You can read my proposal &lt;a href=&quot;https://www.dropbox.com/s/o3n20tam538soha/FINALintegrationReport.pdf?dl=0&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The second program I worked with is the Social Ingenious degree supplement at Thomas Moore. At Thomas Moore University, they value having well rounded graduates. Inge and Jan are working to design a degree supplement for bachelor engineering students of some majors and campuses of Thomas Moore. This degree supplement will fit into their existing degree and only require one extra course of 3 ECTS. I have been in meetings with Jan and the department heads of the respective majors to understand the current curriculum set-up, the goals of the program and the opinions of both parties. I have also met with many students to see what they value and desire for their programs.  I have used these experiences in user centered design workshops that I have conducted for Inge and Jan to help understand their students better and design a great program. You can read this proposal &lt;a href=&quot;https://www.dropbox.com/s/6bqx4wtqsdgn9e0/SocialIngeniusReport.pdf?dl=0&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I ran workshops for the teaching team where they used the design process to develop their curriculum, bringing the theories the professors were attempting to teach into practice.  I converted their office into a design space, with butcher paper and post-its covering the walls, in which user interviews drove the brainstorming content. I provided the professors the exposure to the design process required to internalize how to teach the process to students. This experience helped me realize the importance of exposing STEM and design teachers to innovative learning styles and provided me the opportunity to reflect on the challenges of transforming heavily constrained traditional programs into innovative classrooms.&lt;/p&gt;
+&lt;center&gt;&lt;img src=&quot;images/projects/placement1.jpg&quot; width=&quot;30%&quot; /&gt;&lt;img src=&quot;images/projects/placement2.jpg&quot; width=&quot;30%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt; &lt;/p&gt;
 
-&lt;p&gt;For Olin’s User Oriented Collaborative Design course, I worked on a team to understand and design for volunteer physicians. In a semester, we took the challenge of making a significant impact on the lives of Volunteer Physicians. On a team of five students, we engaged in a User Centered Design process where we challenged ourselves to epathize and understand our users. We visited clinics and hospitals, interviewed physicians and researched the work of our users. We identified areas of opportunities, which helped us build personas and journies to extract deeper meaning. We ferociously ideated ideas and codesigned with our users.
-In the end, we developed the S2, an intellegent note-taking add-on to a stethosocope. Volunteer physicians resent the overhaul of their field by technology and reject doctors who spend their appointment time glued to the computer instead of interacting with patients. We were able to turn their apprehension towards technology into an asset by designing a device which would help the physicians increase time interacting with their patients.&lt;/p&gt;
-
-&lt;center&gt;&lt;img src=&quot;images/projects/journey.jpg&quot; width=&quot;30%&quot; /&gt;&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
-
-&lt;!-- Add carusel of images from slide deck --&gt;
-&lt;p&gt;Teammates: &lt;a href=&quot;eqwang.weebly.com&quot;&gt;Emily Wang&lt;/a&gt;, Justin Poh, Mitchell Cieminski, Jack Fan&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jamiesarahg.weebly.com/education-blog&quot;&gt;Throughout my semester, I kept a blog about the work that I was doing.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-        <pubDate>Tue, 20 May 2014 00:00:00 -0400</pubDate>
-        <link>http://jamiegorson.com/Project7.html</link>
-        <guid isPermaLink="true">http://jamiegorson.com/Project7.html</guid>
+        <pubDate>Tue, 28 Apr 2015 00:00:00 -0400</pubDate>
+        <link>http://jamiegorson.com/Project11.html</link>
+        <guid isPermaLink="true">http://jamiegorson.com/Project11.html</guid>
         
         
         <category>projects</category>
@@ -56,11 +72,51 @@ In the end, we developed the S2, an intellegent note-taking add-on to a stethoso
       </item>
     
       <item>
-        <title>6: Do Doctors Listen? A Data Science Project on Prescribing Rates of NSAIDs as influenced by the National Health Service of the UK</title>
+        <title>10: Discrete Math View of the Enigma Machine</title>
+        <description>&lt;p&gt;For a discrete mathmatics course, my team and I evaluated the Enigma machine. We calculated the total possible encodings and then compared it to the number of encodings that we calculated that was possibe with all of the mistakes the Germans made.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/s/8bddzbijhv4uj9j/Enigma_Machine.pdf?dl=0&quot;&gt;See an explination of our work!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- Add carusel of images from slide deck --&gt;
+&lt;p&gt;Teammates: Shane Skikne, Cameron Anderson&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Dec 2014 00:00:00 -0500</pubDate>
+        <link>http://jamiegorson.com/Project10.html</link>
+        <guid isPermaLink="true">http://jamiegorson.com/Project10.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>8: S2: Results from User Centered Design project on Volunteer Physicians</title>
+        <description>&lt;center&gt;&lt;img src=&quot;images/projects/UOCDposter.png&quot; width=&quot;95%&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
+
+&lt;p&gt;For Olin’s User Oriented Collaborative Design course, I worked on a team to understand and design for volunteer physicians. In a semester, we took the challenge of making a significant impact on the lives of Volunteer Physicians. On a team of five students, we engaged in a User Centered Design process where we challenged ourselves to epathize and understand our users. We visited clinics and hospitals, interviewed physicians and researched the work of our users. We identified areas of opportunities, which helped us build personas and journies to extract deeper meaning. We ferociously ideated ideas and codesigned with our users.
+In the end, we developed the S2, an intellegent note-taking add-on to a stethosocope. Volunteer physicians resent the overhaul of their field by technology and reject doctors who spend their appointment time glued to the computer instead of interacting with patients. We were able to turn their apprehension towards technology into an asset by designing a device which would help the physicians increase time interacting with their patients.&lt;/p&gt;
+
+&lt;!-- Add carusel of images from slide deck --&gt;
+&lt;p&gt;Teammates: &lt;a href=&quot;eqwang.weebly.com&quot;&gt;Emily Wang&lt;/a&gt;, Justin Poh, Mitchell Cieminski, Jack Fan&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 May 2014 00:00:00 -0400</pubDate>
+        <link>http://jamiegorson.com/Project8.html</link>
+        <guid isPermaLink="true">http://jamiegorson.com/Project8.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>7: Do Doctors Listen? A Data Science Project on Prescribing Rates of NSAIDs as influenced by the National Health Service of the UK</title>
         <description>&lt;center&gt;&lt;img src=&quot;images/projects/lesspeaks.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt; &lt;/p&gt;
 
-&lt;p&gt;For a data science course, my partner and I evaluated the reactions of doctors to directives published by the National Health Service of the UK. This was specifically related to drugs that the doctors prescribed to patients, relative to either generic or similar versions. We worked with the National Healh Service’s Open Data that they published in a transparency initiative. We built a &lt;a href=&quot;https://www.dropbox.com/s/eviombgon1jb9ji/NSAIDmapTimeseries.avi?dl=0&quot;&gt;timeseries&lt;/a&gt; which displays how each of the different regions reacted to a directive by time.&lt;/p&gt;
+&lt;p&gt;For a data science course, my partner and I evaluated the reactions of doctors to directives published by the National Health Service of the UK. We worked with the National Healh Service’s Open Data that they published in a transparency initiative. Specifically, we analyzed how doctors responded to different actions by the NHS with two specific NSAID’s. We built a &lt;a href=&quot;https://www.dropbox.com/s/eviombgon1jb9ji/NSAIDmapTimeseries.avi?dl=0&quot;&gt;timeseries&lt;/a&gt; which displays how well each of the different regions reacted to the directive.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/s/z354fimlei0zgcu/NHS___Data_Science.pdf?dl=0&quot;&gt;See our final report&lt;/a&gt;&lt;/li&gt;
@@ -72,6 +128,41 @@ In the end, we developed the S2, an intellegent note-taking add-on to a stethoso
 &lt;p&gt;Teammate: Rachel Boy&lt;/p&gt;
 </description>
         <pubDate>Tue, 20 May 2014 00:00:00 -0400</pubDate>
+        <link>http://jamiegorson.com/Project7.html</link>
+        <guid isPermaLink="true">http://jamiegorson.com/Project7.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>6: Robotic Player Guitar</title>
+        <description>&lt;center&gt;&lt;img src=&quot;images/projects/guitar.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
+
+&lt;p&gt;A member of the team to conceptualize, design, and build an autonomous playing guitar. The system can play multiple songs on the guitar. 
+It’s a mechatronic system interfacing with an Arduino Uno and a Python software base. Using tablature formatted music it plays the songs through a system of solenoids that push frets and lock actuators that pluck the strings. I was in charge of all of the software systems, both a python component and arduino. I also assisted in the debugging of the entire system and assembling the electrical system.&lt;/p&gt;
+
+&lt;p&gt;The Software system has two components: a python backend to interpret guitar tablature and create a GUI and arduino script to run the mechanical system. The two interact through the serial port of the arduino by sending from python to the EEPROM and then the arduino reads the EEPROM.&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;images/projects/fret.jpg&quot; width=&quot;30%&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt; 
+In order to press the fret to tune a note we used 30 pull solenoids. The challenge of using these was  finding a way to fit 30 solenoids within the span of 5 frets at the top of the guitar, with room to attach them to a fret actuation system. In the end, we designed two, three-tiered shelving units that stagger the solenoids laterally, allowing us to dedicate a single string of the guitar to each string. We then used sheet metal parts to transfer power from the solenoids to the strings and neck of the guitar.&lt;/p&gt;
+&lt;center&gt;&lt;img src=&quot;images/projects/strum.jpg&quot; width=&quot;30%&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt; 
+Our strumming mechanism is composed of a structural component, linear car-door lock actuators, and finger-like pick-holding extensions. The structural component is created from several laser-cut MDF pieces.  Each structural component holds three linear car-door lock actuators side-by-side. The linear car-door lock actuators are powered by 5 volts. By reversing the voltage, we were able to make the actuators move in and out of their casing. The finger-like pick-holding extensions are connected to the linear car-door lock actuators by small acrylic plates and fasteners and hold picks.&lt;/p&gt;
+
+&lt;p&gt;Our electrical system is centered around an Arduino Uno microprocessor. Because the Arduino Uno doesn’t possess enough output channels to power all of our solenoids and our lock actuators, we used three Logos Electromechanical 4x4 driver shields which provided us with 48 high power outputs as opposed to the 13 we could use off the arduino. Outputs were assigned to individual solenoids or to half h-bridge chips (L293Ds) that allow us to drive our lock actuators in both directions. The three boards and the Arduino were powered off of a desktop computer power supply at five volts for the lock actuators and twelve volts for the solenoids.&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;images/projects/newGuitar.jpg&quot; width=&quot;30%&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
+
+&lt;p&gt;When the semeter ended, our team decided to continue working on the guitar project to improve it for permanent display. This would include a raspberry pi controlled interface where a user can choose a song, a more robust electrical system and a tuned up mechanical system.&lt;/p&gt;
+
+&lt;p&gt;Teammates: Emily Guthrie, Sean Karagianes, Joe Kochevar, Lauren Froschauer&lt;/p&gt;
+</description>
+        <pubDate>Sun, 22 Dec 2013 00:00:00 -0500</pubDate>
         <link>http://jamiegorson.com/Project6.html</link>
         <guid isPermaLink="true">http://jamiegorson.com/Project6.html</guid>
         
@@ -132,7 +223,7 @@ In the end, we developed the S2, an intellegent note-taking add-on to a stethoso
         <description>&lt;center&gt;&lt;img src=&quot;images/projects/snakegame.jpg&quot; width=&quot;70%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt; &lt;/p&gt;
 
-&lt;p&gt;For a project for a software design course, my team and I made snake game taken to the next level. We used visual python to make a 3-d snake game where the user plays in first person. Secondly, we made a 2-d version of the game that is a competitive version. Two users can play against each other while on different computers.&lt;/p&gt;
+&lt;p&gt;For a project for a software design course, my team and I created a multi-player version of snake game in three dimensions. We networked two computers to play against each other and developed capabilities to play in first person view.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/benkahle/snake3d&quot;&gt;Check out our GitHub repo&lt;/a&gt;&lt;/li&gt;
@@ -143,27 +234,6 @@ In the end, we developed the S2, an intellegent note-taking add-on to a stethoso
         <pubDate>Fri, 10 May 2013 00:00:00 -0400</pubDate>
         <link>http://jamiegorson.com/Project2.html</link>
         <guid isPermaLink="true">http://jamiegorson.com/Project2.html</guid>
-        
-        
-        <category>projects</category>
-        
-      </item>
-    
-      <item>
-        <title>1: Design Nature Transporter</title>
-        <description>&lt;center&gt;&lt;img src=&quot;images/projects/transporterteam.jpg&quot; width=&quot;70%&quot; /&gt;&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://hfid.olin.edu/sa2013/s_engr3220-unibros/final.php&quot;&gt;Check out our project page&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/home/DocumentsforWebsite?preview=Me_playing_game.MOV&quot;&gt;See a video of me using our final design&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Teammates: &lt;a href=&quot;http://mylescooper.me&quot;&gt;Myles Cooper&lt;/a&gt;, Deborah Hellen, Jessica Diller, Thomas Nattastad&lt;/p&gt;
-</description>
-        <pubDate>Thu, 20 Dec 2012 00:00:00 -0500</pubDate>
-        <link>http://jamiegorson.com/Project1.html</link>
-        <guid isPermaLink="true">http://jamiegorson.com/Project1.html</guid>
         
         
         <category>projects</category>

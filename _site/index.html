@@ -56,9 +56,33 @@
   <p>
 
   
+<a class="tile-link" href="Project16.html">
+<span class="tile-container">
+<img id="16-img" class="tile" src="">
+</span>
+</a>
+
 <a class="tile-link" href="Project15.html">
 <span class="tile-container">
 <img id="15-img" class="tile" src="">
+</span>
+</a>
+
+<a class="tile-link" href="Project11.html">
+<span class="tile-container">
+<img id="11-img" class="tile" src="">
+</span>
+</a>
+
+<a class="tile-link" href="Project10.html">
+<span class="tile-container">
+<img id="10-img" class="tile" src="">
+</span>
+</a>
+
+<a class="tile-link" href="Project8.html">
+<span class="tile-container">
+<img id="8-img" class="tile" src="">
 </span>
 </a>
 
@@ -152,7 +176,83 @@
           });
       }
         
+          var proj_num = "16";
+          var proj_id = "#"+proj_num
+          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
+          var blank_img_url = "images/blank.jpg";
+        // $(proj_id+'-img').error(function(){
+        //     $(proj_id+'-img').attr("src", blank_img_url);
+        //   }).attr("src", proj_img_url);
+        if(urlExists(proj_img_url) == 200) {
+            $(proj_id+'-img').attr("src", proj_img_url);
+        }
+        else {
+            $(proj_id+'-img').attr("src", blank_img_url);
+        }
+          $(proj_id+'-img').width(200);
+          $(proj_id+'-img').height(150);
+          $(proj_id+'-text').hover(function(){
+            $( this ).find( ".tile-para" ).toggle();
+          });
+        
           var proj_num = "15";
+          var proj_id = "#"+proj_num
+          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
+          var blank_img_url = "images/blank.jpg";
+        // $(proj_id+'-img').error(function(){
+        //     $(proj_id+'-img').attr("src", blank_img_url);
+        //   }).attr("src", proj_img_url);
+        if(urlExists(proj_img_url) == 200) {
+            $(proj_id+'-img').attr("src", proj_img_url);
+        }
+        else {
+            $(proj_id+'-img').attr("src", blank_img_url);
+        }
+          $(proj_id+'-img').width(200);
+          $(proj_id+'-img').height(150);
+          $(proj_id+'-text').hover(function(){
+            $( this ).find( ".tile-para" ).toggle();
+          });
+        
+          var proj_num = "11";
+          var proj_id = "#"+proj_num
+          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
+          var blank_img_url = "images/blank.jpg";
+        // $(proj_id+'-img').error(function(){
+        //     $(proj_id+'-img').attr("src", blank_img_url);
+        //   }).attr("src", proj_img_url);
+        if(urlExists(proj_img_url) == 200) {
+            $(proj_id+'-img').attr("src", proj_img_url);
+        }
+        else {
+            $(proj_id+'-img').attr("src", blank_img_url);
+        }
+          $(proj_id+'-img').width(200);
+          $(proj_id+'-img').height(150);
+          $(proj_id+'-text').hover(function(){
+            $( this ).find( ".tile-para" ).toggle();
+          });
+        
+          var proj_num = "10";
+          var proj_id = "#"+proj_num
+          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
+          var blank_img_url = "images/blank.jpg";
+        // $(proj_id+'-img').error(function(){
+        //     $(proj_id+'-img').attr("src", blank_img_url);
+        //   }).attr("src", proj_img_url);
+        if(urlExists(proj_img_url) == 200) {
+            $(proj_id+'-img').attr("src", proj_img_url);
+        }
+        else {
+            $(proj_id+'-img').attr("src", blank_img_url);
+        }
+          $(proj_id+'-img').width(200);
+          $(proj_id+'-img').height(150);
+          $(proj_id+'-text').hover(function(){
+            $( this ).find( ".tile-para" ).toggle();
+          });
+        
+          var proj_num = "8";
           var proj_id = "#"+proj_num
           var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
