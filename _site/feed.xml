@@ -5,8 +5,8 @@
     <description>My Portfolio</description>
     <link>http://jamiegorson.com/</link>
     <atom:link href="http://jamiegorson.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 31 Oct 2015 18:02:56 -0400</pubDate>
-    <lastBuildDate>Sat, 31 Oct 2015 18:02:56 -0400</lastBuildDate>
+    <pubDate>Sun, 01 Nov 2015 10:15:11 -0500</pubDate>
+    <lastBuildDate>Sun, 01 Nov 2015 10:15:11 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -100,7 +100,7 @@
 In the end, we developed the S2, an intellegent note-taking add-on to a stethosocope. Volunteer physicians resent the overhaul of their field by technology and reject doctors who spend their appointment time glued to the computer instead of interacting with patients. We were able to turn their apprehension towards technology into an asset by designing a device which would help the physicians increase time interacting with their patients.&lt;/p&gt;
 
 &lt;!-- Add carusel of images from slide deck --&gt;
-&lt;p&gt;Teammates: &lt;a href=&quot;eqwang.weebly.com&quot;&gt;Emily Wang&lt;/a&gt;, Justin Poh, Mitchell Cieminski, Jack Fan&lt;/p&gt;
+&lt;p&gt;Teammates: &lt;a href=&quot;eqwang.weebly.com&quot;&gt;Emily Wang&lt;/a&gt;, Justin Poh, &lt;a href=&quot;http://linkedin.com/in/mcieminski&quot;&gt;Mitchell Cieminski&lt;/a&gt;, Jack Fan&lt;/p&gt;
 </description>
         <pubDate>Tue, 20 May 2014 00:00:00 -0400</pubDate>
         <link>http://jamiegorson.com/Project8.html</link>
@@ -112,7 +112,7 @@ In the end, we developed the S2, an intellegent note-taking add-on to a stethoso
       </item>
     
       <item>
-        <title>7: Do Doctors Listen? A Data Science Project on Prescribing Rates of NSAIDs as influenced by the National Health Service of the UK</title>
+        <title>7: A Data Science Project on Prescribing Rates of NSAIDs as influenced by the National Health Service of the UK</title>
         <description>&lt;center&gt;&lt;img src=&quot;images/projects/lesspeaks.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt; &lt;/p&gt;
 
@@ -160,7 +160,7 @@ Our strumming mechanism is composed of a structural component, linear car-door l
 
 &lt;p&gt;When the semeter ended, our team decided to continue working on the guitar project to improve it for permanent display. This would include a raspberry pi controlled interface where a user can choose a song, a more robust electrical system and a tuned up mechanical system.&lt;/p&gt;
 
-&lt;p&gt;Teammates: Emily Guthrie, Sean Karagianes, Joe Kochevar, Lauren Froschauer&lt;/p&gt;
+&lt;p&gt;Teammates: Emily Guthrie, Sean Karagianes, &lt;a href=&quot;http://joekochevar.com&quot;&gt;Joe Kochevar&lt;/a&gt;, Lauren Froschauer&lt;/p&gt;
 </description>
         <pubDate>Sun, 22 Dec 2013 00:00:00 -0500</pubDate>
         <link>http://jamiegorson.com/Project6.html</link>
@@ -207,7 +207,7 @@ Our strumming mechanism is composed of a structural component, linear car-door l
   &lt;li&gt;&lt;a href=&quot;http://wikis.olin.edu/ca/doku.php?id=projects:fpga_piano&quot;&gt;Check out our Wiki with complete project details&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Teammates: Mason del Rosario, Evan Dorsky, Rahil Dedhia, Jack Fan&lt;/p&gt;
+&lt;p&gt;Teammates: Mason del Rosario, &lt;a href=&quot;http://evandorsky.github.io&quot;&gt;Evan Dorsky&lt;/a&gt;, Rahil Dedhia, Jack Fan&lt;/p&gt;
 </description>
         <pubDate>Fri, 20 Dec 2013 00:00:00 -0500</pubDate>
         <link>http://jamiegorson.com/Project4.html</link>

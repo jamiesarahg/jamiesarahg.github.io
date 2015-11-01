@@ -2,3 +2,46 @@
 layout: default
 ---
 <h1> Current Projects </h1>
+
+{% for post in site.posts %}
+  {% if post.current == "True" %}
+        <span class="tile-container">    
+
+    <a class="tile-link" href="{{ post.url | remove_first: "/" }}">
+        <img id="{{ post.title | split:": " | first | split: " " | last }}-img" class=" project tile" src="" />
+        <p class="tile-text"> {{ post.title | split:": " | last}} </p>
+       
+    </a>
+          </span>
+
+  
+  {% endif %}
+{% endfor %}
+<br>
+
+<h1> Past Projects </h1>
+
+
+{% for post in site.posts %}
+  {% if post.current == "False" %}
+
+          <span class="tile-container">    
+
+    <a class="tile-link" href="{{ post.url | remove_first: "/" }}">
+        <img id="{{ post.title | split:": " | first | split: " " | last }}-img" class=" project tile" src="" />
+        <p class="tile-text"> {{ post.title | split:": " | last}} </p>
+       
+    </a>
+          </span>
+
+<!--           
+    <a class="tile-link" href="{{ post.url | remove_first: "/" }}">
+      <span class="tile-container">
+        <img id="{{ post.title | split:": " | first | split: " " | last }}-img" class=" project tile" src="" />
+         <h4> {{ post.title | split:": " | last}} </h4>
+      </span>
+       
+    </a> -->
+  
+  {% endif %}
+{% endfor %}

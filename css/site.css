@@ -128,15 +128,17 @@ h3{
 }
 
 .tile-text{
-    display: block;
+    display: none;
     position: absolute;
     top: -70px;
+    left: 0px;
     width: 200px;
     height: 150px;
     padding: 20px;
     padding-top: 40px;
-    color: white;
-    text-align: left;
+    color: black;
+    background-color: purple;
+    /*text-align: left;*/
 }
 .tile-container:hover .tile-text {
     display: block;
@@ -184,3 +186,31 @@ ul li{
 .tile-container.caption{
   text-align: left;
 }
+
+/*span.idbox {
+  float: left;
+  width: 130px;
+  padding-left: 30px;
+}
+span.idbox h4 {
+  color:black;
+}*/
+
+/*.tile-link { 
+   position: relative; 
+   width: 100%; 
+   padding-bottom: 200px;
+   margin-bottom: 200px;
+}
+
+.tile-container h4 { 
+   position: absolute; 
+   left: 0; 
+   width: 100%; 
+   color: black;
+   margin-bottom: 100px;
+}
+
+.tile {
+
+}*/
