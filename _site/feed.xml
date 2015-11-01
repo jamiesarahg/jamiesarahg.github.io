@@ -5,8 +5,8 @@
     <description>My Portfolio</description>
     <link>http://jamiegorson.com/</link>
     <atom:link href="http://jamiegorson.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 01 Nov 2015 10:15:11 -0500</pubDate>
-    <lastBuildDate>Sun, 01 Nov 2015 10:15:11 -0500</lastBuildDate>
+    <pubDate>Sun, 01 Nov 2015 10:21:12 -0500</pubDate>
+    <lastBuildDate>Sun, 01 Nov 2015 10:21:12 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -122,7 +122,7 @@ In the end, we developed the S2, an intellegent note-taking add-on to a stethoso
   &lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/s/z354fimlei0zgcu/NHS___Data_Science.pdf?dl=0&quot;&gt;See our final report&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;center&gt;&lt;img src=&quot;images/thumbnails/6.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;images/thumbnails/7.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;  &lt;/p&gt;
 
 &lt;p&gt;Teammate: Rachel Boy&lt;/p&gt;
@@ -172,7 +172,7 @@ Our strumming mechanism is composed of a structural component, linear car-door l
       </item>
     
       <item>
-        <title>5: Teaching the Principles of Motors: Electricity and Magnetism</title>
+        <title>5: Teaching the Principles of Motors -  Electricity and Magnetism</title>
         <description>&lt;center&gt;&lt;img src=&quot;images/projects/EMMotor.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt; &lt;/p&gt;
 
