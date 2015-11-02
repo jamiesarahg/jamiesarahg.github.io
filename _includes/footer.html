@@ -48,5 +48,40 @@
 
       </script>
     {% endif %}
+
+
+    {% if page.url == "/index.html" %}
+      <script type="text/javascript">
+        function urlExists(testUrl) {
+          // this will return 200 on success, and 0 or negative value on error
+        var http = jQuery.ajax({
+            type:"HEAD",
+            url: testUrl,
+            async: false
+          })
+          return http.status;
+      }
+      {% for post in site.posts  %}
+          var proj_num = "{{ post.title | split:": " | first | split: " " | last }}";
+          var proj_id = "#"+proj_num
+          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
+          var blank_img_url = "images/blank.jpg";
+
+        if(urlExists(proj_img_url) == 200) {
+            $(proj_id+'-img').attr("src", proj_img_url);
+        }
+        else {
+            $(proj_id+'-img').attr("src", blank_img_url);
+          $(proj_id+'-img').width(200);
+          $(proj_id+'-img').height(150);
+          $(proj_id+'-text').hover(function(){
+            $( this ).find( ".tile-para" ).toggle();
+          });
+        }
+        {% endfor %}
+
+      </script>
+    {% endif %}
+
     
 </footer>

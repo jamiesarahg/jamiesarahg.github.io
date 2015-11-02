@@ -5,8 +5,8 @@
     <description>My Portfolio</description>
     <link>http://jamiegorson.com/</link>
     <atom:link href="http://jamiegorson.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 01 Nov 2015 10:24:02 -0500</pubDate>
-    <lastBuildDate>Sun, 01 Nov 2015 10:24:02 -0500</lastBuildDate>
+    <pubDate>Sun, 01 Nov 2015 22:32:53 -0500</pubDate>
+    <lastBuildDate>Sun, 01 Nov 2015 22:32:53 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -52,7 +52,7 @@
 
 &lt;p&gt;The first program that I worked with is Community Service Engineering, or CSE. CSE has been developed by Inge and her colleague Jan to educate recent graduates or professionals as to being socially aware engineers. A larger, longer existing program called the Postgraduate Programme in Innovation and Entrepreneurship in Engineering, has a complementary mission. To enhance both programs, they decided to integrate them. As an outsider with experience in curriculum and user centered design, I gave my opinions and perspective to best integrate the programs to attract more students and give them the best educational opportunities. In order to best accomplish this, I have met with students from both programs who are working on a variety of projects as well as coaches, mentors and administrators of the programs, as well as attended CSE to get the best vantage point of the course. You can read my proposal &lt;a href=&quot;https://www.dropbox.com/s/o3n20tam538soha/FINALintegrationReport.pdf?dl=0&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;The second program I worked with is the Social Ingenious degree supplement at Thomas Moore. At Thomas Moore University, they value having well rounded graduates. Inge and Jan are working to design a degree supplement for bachelor engineering students of some majors and campuses of Thomas Moore. This degree supplement will fit into their existing degree and only require one extra course of 3 ECTS. I have been in meetings with Jan and the department heads of the respective majors to understand the current curriculum set-up, the goals of the program and the opinions of both parties. I have also met with many students to see what they value and desire for their programs.  I have used these experiences in user centered design workshops that I have conducted for Inge and Jan to help understand their students better and design a great program. You can read this proposal &lt;a href=&quot;https://www.dropbox.com/s/6bqx4wtqsdgn9e0/SocialIngeniusReport.pdf?dl=0&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The second program I worked with is the Social Ingenious degree supplement at Thomas Moore. At Thomas Moore University, they value having well rounded graduates. The project directors, Inge and Jan, are working to design a degree supplement for bachelor engineering students of some majors and campuses of Thomas Moore. This degree supplement will fit into their existing degree and only require one extra course of 3 ECTS. I have been in meetings with Jan and the department heads of the respective majors to understand the current curriculum set-up, the goals of the program and the opinions of both parties. I have also met with many students to see what they value and desire for their programs.  I have used these experiences in user centered design workshops that I have conducted for Inge and Jan to help understand their students better and design a great program. You can read this proposal &lt;a href=&quot;https://www.dropbox.com/s/6bqx4wtqsdgn9e0/SocialIngeniusReport.pdf?dl=0&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;I ran workshops for the teaching team where they used the design process to develop their curriculum, bringing the theories the professors were attempting to teach into practice.  I converted their office into a design space, with butcher paper and post-its covering the walls, in which user interviews drove the brainstorming content. I provided the professors the exposure to the design process required to internalize how to teach the process to students. This experience helped me realize the importance of exposing STEM and design teachers to innovative learning styles and provided me the opportunity to reflect on the challenges of transforming heavily constrained traditional programs into innovative classrooms.&lt;/p&gt;
 &lt;center&gt;&lt;img src=&quot;images/projects/placement1.jpg&quot; width=&quot;30%&quot; /&gt;&lt;img src=&quot;images/projects/placement2.jpg&quot; width=&quot;30%&quot; /&gt;&lt;/center&gt;
@@ -92,12 +92,325 @@
       </item>
     
       <item>
-        <title>8: S2: Results from User Centered Design project on Volunteer Physicians</title>
+        <title>8: S2 - User Centered Design project on Volunteer Physicians</title>
         <description>&lt;center&gt;&lt;img src=&quot;images/projects/UOCDposter.png&quot; width=&quot;95%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt; &lt;/p&gt;
 
 &lt;p&gt;For Olin’s User Oriented Collaborative Design course, I worked on a team to understand and design for volunteer physicians. In a semester, we took the challenge of making a significant impact on the lives of Volunteer Physicians. On a team of five students, we engaged in a User Centered Design process where we challenged ourselves to epathize and understand our users. We visited clinics and hospitals, interviewed physicians and researched the work of our users. We identified areas of opportunities, which helped us build personas and journies to extract deeper meaning. We ferociously ideated ideas and codesigned with our users.
 In the end, we developed the S2, an intellegent note-taking add-on to a stethosocope. Volunteer physicians resent the overhaul of their field by technology and reject doctors who spend their appointment time glued to the computer instead of interacting with patients. We were able to turn their apprehension towards technology into an asset by designing a device which would help the physicians increase time interacting with their patients.&lt;/p&gt;
+
+&lt;h4&gt; Below is our slide deck which details the design processes we went through &lt;/h4&gt;
+
+&lt;div id=&quot;featuredProjectsCarousel&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+  &lt;!-- Indicators --&gt;
+  &lt;ol class=&quot;carousel-indicators&quot;&gt;
+    &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;3&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;4&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;5&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;6&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;7&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;8&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;9&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;10&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;11&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;12&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;13&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;14&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;15&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;16&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;17&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;18&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;19&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;20&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;21&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;22&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;23&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;24&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;25&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;26&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;27&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;28&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;29&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;30&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;31&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;32&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;33&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;34&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;35&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;36&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;37&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;38&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;39&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;40&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;41&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;42&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;43&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;44&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;45&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;46&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;47&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;48&quot;&gt;&lt;/li&gt;
+    
+  &lt;/ol&gt;
+  &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;
+    &lt;div class=&quot;item active&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_1.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+    &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_2.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_3.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_4.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_5.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_6.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_7.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_8.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_9.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_10.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_11.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_12.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_13.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_14.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_15.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_16.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_17.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_18.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_19.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_20.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_21.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_22.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_23.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_24.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_25.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_26.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_27.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_28.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_29.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_30.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_31.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_32.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_33.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_34.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_35.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_36.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_37.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_38.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_39.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_40.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_41.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_42.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_43.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_44.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_45.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_46.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_47.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_48.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item&quot;&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_49.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;/div&gt;
+    
+  &lt;/div&gt;
+    &lt;!-- Left and right controls --&gt;
+  &lt;a class=&quot;left carousel-control&quot; href=&quot;#featuredProjectsCarousel&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+    &lt;span class=&quot;glyphicon glyphicon-chevron-left&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+    &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
+  &lt;/a&gt;
+  &lt;a class=&quot;right carousel-control&quot; href=&quot;#featuredProjectsCarousel&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+    &lt;span class=&quot;glyphicon glyphicon-chevron-right&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+    &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 
 &lt;!-- Add carusel of images from slide deck --&gt;
 &lt;p&gt;Teammates: &lt;a href=&quot;eqwang.weebly.com&quot;&gt;Emily Wang&lt;/a&gt;, Justin Poh, &lt;a href=&quot;http://linkedin.com/in/mcieminski&quot;&gt;Mitchell Cieminski&lt;/a&gt;, Jack Fan&lt;/p&gt;

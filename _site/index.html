@@ -84,75 +84,106 @@
     <h1>About Me:</h1>
 <h5>
   Hi! I am a senior at Franklin W. Olin College of Engineering studying Computer Engineering with a concentration in Innovative Education. My my career goal is to use technology to make project based and hands-on learning accessible to a broader range of people. This is derived from a lifelong interest in education and technolgy.
-  <h5>
+  </h5>
+<br>
+<br>
+ <h3> Featured Projects:</h3>
+
+<div id="featuredProjectsCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+    <li data-target="#myCarousel" data-slide-to="3"></li>
+  </ol>
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox" >
+    
+     
+      
+        <div class="item">
+         <center> 
+            <img src="" id="16-img" class="featuredProjectCarouselImg">
+          <p> Mobile App for Kids to Learn a Key Step in the Design Process </p>
+        </center>
+          
+        </div>
+      
+    
+     
+        <div class="item active">
+          <center> <img src="" id="15-img" class="featuredProjectCarouselImg"> <p class = 'featuredCarouselText'> Hands On Learning For Underserved Kids in India </p> </center>
+          
+        </div>
+      
+      
+    
+     
+      
+        <div class="item">
+         <center> 
+            <img src="" id="11-img" class="featuredProjectCarouselImg">
+          <p> Independent Study and Consulting work in Belgium for KU Leuven and Thomas Moore </p>
+        </center>
+          
+        </div>
+      
+    
+     
+      
+    
+     
+      
+        <div class="item">
+         <center> 
+            <img src="" id="8-img" class="featuredProjectCarouselImg">
+          <p> S2 - User Centered Design project on Volunteer Physicians </p>
+        </center>
+          
+        </div>
+      
+    
+     
+      
+    
+     
+      
+        <div class="item">
+         <center> 
+            <img src="" id="6-img" class="featuredProjectCarouselImg">
+          <p> Robotic Player Guitar </p>
+        </center>
+          
+        </div>
+      
+    
+     
+      
+    
+     
+      
+    
+     
+      
+    
+     
+      
+    
 
 
-<a class="tile-link" href="Project16.html">
-<span class="tile-container">
-<img id="16-img" class="tile" src="">
-</span>
-</a>
+  </div>
 
-<a class="tile-link" href="Project15.html">
-<span class="tile-container">
-<img id="15-img" class="tile" src="">
-</span>
-</a>
-
-<a class="tile-link" href="Project11.html">
-<span class="tile-container">
-<img id="11-img" class="tile" src="">
-</span>
-</a>
-
-<a class="tile-link" href="Project10.html">
-<span class="tile-container">
-<img id="10-img" class="tile" src="">
-</span>
-</a>
-
-<a class="tile-link" href="Project8.html">
-<span class="tile-container">
-<img id="8-img" class="tile" src="">
-</span>
-</a>
-
-<a class="tile-link" href="Project7.html">
-<span class="tile-container">
-<img id="7-img" class="tile" src="">
-</span>
-</a>
-
-<a class="tile-link" href="Project6.html">
-<span class="tile-container">
-<img id="6-img" class="tile" src="">
-</span>
-</a>
-
-<a class="tile-link" href="Project5.html">
-<span class="tile-container">
-<img id="5-img" class="tile" src="">
-</span>
-</a>
-
-<a class="tile-link" href="Project4.html">
-<span class="tile-container">
-<img id="4-img" class="tile" src="">
-</span>
-</a>
-
-<a class="tile-link" href="Project2.html">
-<span class="tile-container">
-<img id="2-img" class="tile" src="">
-</span>
-</a>
-
-<a class="tile-link" href="Project1.html">
-<span class="tile-container">
-<img id="1-img" class="tile" src="">
-</span>
-</a>
-
+  <!-- Left and right controls -->
+  <a class="left carousel-control" href="#featuredProjectsCarousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#featuredProjectsCarousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
     </div>
   
   </div>
@@ -172,6 +203,211 @@
   </script>
   
     
+
+
+    
+      <script type="text/javascript">
+        function urlExists(testUrl) {
+          // this will return 200 on success, and 0 or negative value on error
+        var http = jQuery.ajax({
+            type:"HEAD",
+            url: testUrl,
+            async: false
+          })
+          return http.status;
+      }
+      
+          var proj_num = "16";
+          var proj_id = "#"+proj_num
+          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
+          var blank_img_url = "images/blank.jpg";
+
+        if(urlExists(proj_img_url) == 200) {
+            $(proj_id+'-img').attr("src", proj_img_url);
+        }
+        else {
+            $(proj_id+'-img').attr("src", blank_img_url);
+          $(proj_id+'-img').width(200);
+          $(proj_id+'-img').height(150);
+          $(proj_id+'-text').hover(function(){
+            $( this ).find( ".tile-para" ).toggle();
+          });
+        }
+        
+          var proj_num = "15";
+          var proj_id = "#"+proj_num
+          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
+          var blank_img_url = "images/blank.jpg";
+
+        if(urlExists(proj_img_url) == 200) {
+            $(proj_id+'-img').attr("src", proj_img_url);
+        }
+        else {
+            $(proj_id+'-img').attr("src", blank_img_url);
+          $(proj_id+'-img').width(200);
+          $(proj_id+'-img').height(150);
+          $(proj_id+'-text').hover(function(){
+            $( this ).find( ".tile-para" ).toggle();
+          });
+        }
+        
+          var proj_num = "11";
+          var proj_id = "#"+proj_num
+          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
+          var blank_img_url = "images/blank.jpg";
+
+        if(urlExists(proj_img_url) == 200) {
+            $(proj_id+'-img').attr("src", proj_img_url);
+        }
+        else {
+            $(proj_id+'-img').attr("src", blank_img_url);
+          $(proj_id+'-img').width(200);
+          $(proj_id+'-img').height(150);
+          $(proj_id+'-text').hover(function(){
+            $( this ).find( ".tile-para" ).toggle();
+          });
+        }
+        
+          var proj_num = "10";
+          var proj_id = "#"+proj_num
+          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
+          var blank_img_url = "images/blank.jpg";
+
+        if(urlExists(proj_img_url) == 200) {
+            $(proj_id+'-img').attr("src", proj_img_url);
+        }
+        else {
+            $(proj_id+'-img').attr("src", blank_img_url);
+          $(proj_id+'-img').width(200);
+          $(proj_id+'-img').height(150);
+          $(proj_id+'-text').hover(function(){
+            $( this ).find( ".tile-para" ).toggle();
+          });
+        }
+        
+          var proj_num = "8";
+          var proj_id = "#"+proj_num
+          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
+          var blank_img_url = "images/blank.jpg";
+
+        if(urlExists(proj_img_url) == 200) {
+            $(proj_id+'-img').attr("src", proj_img_url);
+        }
+        else {
+            $(proj_id+'-img').attr("src", blank_img_url);
+          $(proj_id+'-img').width(200);
+          $(proj_id+'-img').height(150);
+          $(proj_id+'-text').hover(function(){
+            $( this ).find( ".tile-para" ).toggle();
+          });
+        }
+        
+          var proj_num = "7";
+          var proj_id = "#"+proj_num
+          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
+          var blank_img_url = "images/blank.jpg";
+
+        if(urlExists(proj_img_url) == 200) {
+            $(proj_id+'-img').attr("src", proj_img_url);
+        }
+        else {
+            $(proj_id+'-img').attr("src", blank_img_url);
+          $(proj_id+'-img').width(200);
+          $(proj_id+'-img').height(150);
+          $(proj_id+'-text').hover(function(){
+            $( this ).find( ".tile-para" ).toggle();
+          });
+        }
+        
+          var proj_num = "6";
+          var proj_id = "#"+proj_num
+          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
+          var blank_img_url = "images/blank.jpg";
+
+        if(urlExists(proj_img_url) == 200) {
+            $(proj_id+'-img').attr("src", proj_img_url);
+        }
+        else {
+            $(proj_id+'-img').attr("src", blank_img_url);
+          $(proj_id+'-img').width(200);
+          $(proj_id+'-img').height(150);
+          $(proj_id+'-text').hover(function(){
+            $( this ).find( ".tile-para" ).toggle();
+          });
+        }
+        
+          var proj_num = "5";
+          var proj_id = "#"+proj_num
+          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
+          var blank_img_url = "images/blank.jpg";
+
+        if(urlExists(proj_img_url) == 200) {
+            $(proj_id+'-img').attr("src", proj_img_url);
+        }
+        else {
+            $(proj_id+'-img').attr("src", blank_img_url);
+          $(proj_id+'-img').width(200);
+          $(proj_id+'-img').height(150);
+          $(proj_id+'-text').hover(function(){
+            $( this ).find( ".tile-para" ).toggle();
+          });
+        }
+        
+          var proj_num = "4";
+          var proj_id = "#"+proj_num
+          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
+          var blank_img_url = "images/blank.jpg";
+
+        if(urlExists(proj_img_url) == 200) {
+            $(proj_id+'-img').attr("src", proj_img_url);
+        }
+        else {
+            $(proj_id+'-img').attr("src", blank_img_url);
+          $(proj_id+'-img').width(200);
+          $(proj_id+'-img').height(150);
+          $(proj_id+'-text').hover(function(){
+            $( this ).find( ".tile-para" ).toggle();
+          });
+        }
+        
+          var proj_num = "2";
+          var proj_id = "#"+proj_num
+          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
+          var blank_img_url = "images/blank.jpg";
+
+        if(urlExists(proj_img_url) == 200) {
+            $(proj_id+'-img').attr("src", proj_img_url);
+        }
+        else {
+            $(proj_id+'-img').attr("src", blank_img_url);
+          $(proj_id+'-img').width(200);
+          $(proj_id+'-img').height(150);
+          $(proj_id+'-text').hover(function(){
+            $( this ).find( ".tile-para" ).toggle();
+          });
+        }
+        
+          var proj_num = "1";
+          var proj_id = "#"+proj_num
+          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
+          var blank_img_url = "images/blank.jpg";
+
+        if(urlExists(proj_img_url) == 200) {
+            $(proj_id+'-img').attr("src", proj_img_url);
+        }
+        else {
+            $(proj_id+'-img').attr("src", blank_img_url);
+          $(proj_id+'-img').width(200);
+          $(proj_id+'-img').height(150);
+          $(proj_id+'-text').hover(function(){
+            $( this ).find( ".tile-para" ).toggle();
+          });
+        }
+        
+
+      </script>
+    
+
     
 </footer>
 
