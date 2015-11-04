@@ -23,17 +23,20 @@ layout: default
     {% for post in site.posts %}
      {% if post.featured == "First" %}
         <div class="item active">
-          <center> <img src="" id="{{ post.title | split:": " | first | split: " " | last }}-img" class="featuredProjectCarouselImg"> <p class = 'featuredCarouselText'> {{ post.title | split:": " | last}} </p> </center>
+          <a class="tile-link" href="{{ post.url | remove_first: "/" }}">
+          <center> <img src="" id="{{ post.title | split:": " | first | split: " " | last }}-img" class="featuredProjectCarouselImg"> <p class = 'featuredCarouselText'> {{ post.title | split:": " | last}} </p> </center> </a>
           
         </div>
       {% endif %}
       {% if post.featured == "True" %}
         <div class="item">
-         <center> 
+         <a class="tile-link" href="{{ post.url | remove_first: "/" }}">
+          <center> 
             <img src="" id="{{ post.title | split:": " | first | split: " " | last }}-img" class="featuredProjectCarouselImg">
-          <p> {{ post.title | split:": " | last}} </p>
-        </center>
-          
+            <p> {{ post.title | split:": " | last}} </p>
+          </center>
+        </a>
+
         </div>
       {% endif %}
     {% endfor %}

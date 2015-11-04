@@ -5,8 +5,8 @@
     <description>My Portfolio</description>
     <link>http://jamiegorson.com/</link>
     <atom:link href="http://jamiegorson.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 01 Nov 2015 22:32:53 -0500</pubDate>
-    <lastBuildDate>Sun, 01 Nov 2015 22:32:53 -0500</lastBuildDate>
+    <pubDate>Mon, 02 Nov 2015 17:51:36 -0500</pubDate>
+    <lastBuildDate>Mon, 02 Nov 2015 17:51:36 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -33,9 +33,14 @@
         <title>15: Current Project: Hands On Learning For Underserved Kids in India</title>
         <description>&lt;p&gt;I’m currently working on a project in an Affordable Design and Entrepreneurship course to increase hands-on learning and curiosity in STEM fields in India and Ghana with business and engineering students and professors. We are developing a light-projector and curriculum to aid in the teaching of optics. In January, we will be going to India to deliver the first iteration of this product to Agastya International Foundation, one of our partnering institutions. Agastya runs a Lab in a Box program to bring hands-on science curriculum to rural, underserved schools in India.  In the Lab in a Box program, a trainer brings the curriculum and projector to the teacher and instructs them on how to run the labs.  Our eventual goal is to send 600 boxes to the Lab in a Box program reaching across India, as well as a few hundred to African Women’s Advocacy Group in Ghana. &lt;/p&gt;
 
-&lt;p&gt;Teammates: Mary Morse, Kiki Chandra, Subhash Gubba, Yasmine Idriss, Forrest Landy, Makhimba Simon&lt;/p&gt;
+&lt;p&gt;Here is the product being tested in Ghana&lt;/p&gt;
+&lt;center&gt;&lt;img src=&quot;images/projects/ADEinGhana.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
 
-&lt;p&gt;Advisor: &lt;a href=&quot;http://www.olin.edu/faculty/profile/siddhartan-govindasamy/&quot;&gt;Siddhartan Govindasamy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Teammates: Mary Morse, Kiki Chandra, Subhash Gubba, Yasmine Idriss, Forrest Landy, Makhimba Simon
+Advisor: &lt;a href=&quot;http://www.olin.edu/faculty/profile/siddhartan-govindasamy/&quot;&gt;Siddhartan Govindasamy&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;&lt;img src=&quot;images/projects/ADEteam.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
+
 </description>
         <pubDate>Mon, 11 May 2015 00:00:00 -0400</pubDate>
         <link>http://jamiegorson.com/Project15.html</link>
@@ -455,9 +460,11 @@ In the end, we developed the S2, an intellegent note-taking add-on to a stethoso
 &lt;p&gt;&lt;br /&gt; &lt;/p&gt;
 
 &lt;p&gt;A member of the team to conceptualize, design, and build an autonomous playing guitar. The system can play multiple songs on the guitar. 
-It’s a mechatronic system interfacing with an Arduino Uno and a Python software base. Using tablature formatted music it plays the songs through a system of solenoids that push frets and lock actuators that pluck the strings. I was in charge of all of the software systems, both a python component and arduino. I also assisted in the debugging of the entire system and assembling the electrical system.&lt;/p&gt;
-
-&lt;p&gt;The Software system has two components: a python backend to interpret guitar tablature and create a GUI and arduino script to run the mechanical system. The two interact through the serial port of the arduino by sending from python to the EEPROM and then the arduino reads the EEPROM.&lt;/p&gt;
+It’s a mechatronic system interfacing with an Arduino Uno and a Python software base. Using tablature formatted music it plays the songs through a system of solenoids that push frets and lock actuators that pluck the strings. I was in charge of all of the software systems, both a python component and arduino. I also assisted in the debugging of the entire system and assembling the electrical system.
+&amp;lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://youtu.be/KJzecia7yO0&quot;&amp;gt;
+&amp;lt;/iframe&amp;gt;
+&amp;lt;iframe width=&quot;854&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/KJzecia7yO0&quot; frameborder=&quot;0&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;
+The Software system has two components: a python backend to interpret guitar tablature and create a GUI and arduino script to run the mechanical system. The two interact through the serial port of the arduino by sending from python to the EEPROM and then the arduino reads the EEPROM.&lt;/p&gt;
 
 &lt;center&gt;&lt;img src=&quot;images/projects/fret.jpg&quot; width=&quot;30%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt; 

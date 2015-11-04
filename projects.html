@@ -25,23 +25,13 @@ layout: default
 {% for post in site.posts %}
   {% if post.current == "False" %}
 
-          <span class="tile-container">    
-
+  <span class="tile-container">    
     <a class="tile-link" href="{{ post.url | remove_first: "/" }}">
-        <img id="{{ post.title | split:": " | first | split: " " | last }}-img" class=" project tile" src="" />
-        <p class="tile-text"> {{ post.title | split:": " | last}} </p>
+      <img id="{{ post.title | split:": " | first | split: " " | last }}-img" class=" project tile" src="" />
+      <p class="tile-text tile"> {{ post.title | split:": " | last}} </p>
        
     </a>
-          </span>
-
-<!--           
-    <a class="tile-link" href="{{ post.url | remove_first: "/" }}">
-      <span class="tile-container">
-        <img id="{{ post.title | split:": " | first | split: " " | last }}-img" class=" project tile" src="" />
-         <h4> {{ post.title | split:": " | last}} </h4>
-      </span>
-       
-    </a> -->
+  </span>
   
   {% endif %}
 {% endfor %}
