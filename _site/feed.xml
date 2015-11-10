@@ -5,8 +5,8 @@
     <description>My Portfolio</description>
     <link>http://jamiegorson.com/</link>
     <atom:link href="http://jamiegorson.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 02 Nov 2015 17:51:36 -0500</pubDate>
-    <lastBuildDate>Mon, 02 Nov 2015 17:51:36 -0500</lastBuildDate>
+    <pubDate>Tue, 10 Nov 2015 10:17:03 -0500</pubDate>
+    <lastBuildDate>Tue, 10 Nov 2015 10:17:03 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -81,7 +81,7 @@ Advisor: &lt;a href=&quot;http://www.olin.edu/faculty/profile/siddhartan-govinda
         <description>&lt;p&gt;For a discrete mathmatics course, my team and I evaluated the Enigma machine. We calculated the total possible encodings and then compared it to the number of encodings that we calculated that was possibe with all of the mistakes the Germans made.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/s/8bddzbijhv4uj9j/Enigma_Machine.pdf?dl=0&quot;&gt;See an explination of our work!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/s/8bddzbijhv4uj9j/Enigma_Machine.pdf?dl=0&quot;&gt;See an explanation of our work!&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;!-- Add carusel of images from slide deck --&gt;
@@ -461,10 +461,9 @@ In the end, we developed the S2, an intellegent note-taking add-on to a stethoso
 
 &lt;p&gt;A member of the team to conceptualize, design, and build an autonomous playing guitar. The system can play multiple songs on the guitar. 
 It’s a mechatronic system interfacing with an Arduino Uno and a Python software base. Using tablature formatted music it plays the songs through a system of solenoids that push frets and lock actuators that pluck the strings. I was in charge of all of the software systems, both a python component and arduino. I also assisted in the debugging of the entire system and assembling the electrical system.
-&amp;lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://youtu.be/KJzecia7yO0&quot;&amp;gt;
-&amp;lt;/iframe&amp;gt;
-&amp;lt;iframe width=&quot;854&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/KJzecia7yO0&quot; frameborder=&quot;0&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;
-The Software system has two components: a python backend to interpret guitar tablature and create a GUI and arduino script to run the mechanical system. The two interact through the serial port of the arduino by sending from python to the EEPROM and then the arduino reads the EEPROM.&lt;/p&gt;
+&lt;a href=&quot;https://youtu.be/KJzecia7yO0&quot;&gt;See a Video of our Robotic Play Guitar here!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The Software system has two components: a python backend to interpret guitar tablature and create a GUI and arduino script to run the mechanical system. The two interact through the serial port of the arduino by sending from python to the EEPROM and then the arduino reads the EEPROM.&lt;/p&gt;
 
 &lt;center&gt;&lt;img src=&quot;images/projects/fret.jpg&quot; width=&quot;30%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt; 

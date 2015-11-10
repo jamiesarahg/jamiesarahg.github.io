@@ -27,6 +27,16 @@
           <li>
           {% endif %}
             <a href="/projects.html">Projects</a></li>
+
+          {% if page.url == "/experience.html" %}
+          <li class="active">
+          {% endif %}
+          {% if page.url != "/experience.html" %}
+          <li>
+          {% endif %}
+            <a href="/experience.html">Experience</a></li>
+
+
           {% if page.url == "/contact.html" %}
           <li class="active">
           {% endif %}

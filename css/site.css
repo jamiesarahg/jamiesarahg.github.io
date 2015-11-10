@@ -152,6 +152,10 @@ h3{
   display: none;
 }
 
+.pageTitle{
+  border-bottom: thin solid #000;
+}
+
 .contact-card{
   padding: 10px;
   background-color: white;
