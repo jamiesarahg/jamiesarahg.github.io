@@ -9,9 +9,14 @@ layout: default
     {{ content }}
   <br>
   <hr>
-  <a href="{{page.previous.url}}"> Previous Project </a>
 
-  <span style="float:right"><a href="{{page.next.url}}"> Next Project </a></span>
+  {% if page.previous.url %}
+    <a href="{{page.previous.url}}"> Previous Project </a>
+  {% endif %}
+
+  {% if page.next.url %}
+    <span style="float:right"><a href="{{page.next.url}}"> Next Project </a></span>
+  {% endif %}
 
 
   </article>

@@ -5,8 +5,8 @@
     <description>My Portfolio</description>
     <link>http://jamiegorson.com/</link>
     <atom:link href="http://jamiegorson.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 12 Nov 2015 22:25:29 -0500</pubDate>
-    <lastBuildDate>Thu, 12 Nov 2015 22:25:29 -0500</lastBuildDate>
+    <pubDate>Fri, 13 Nov 2015 16:54:09 -0500</pubDate>
+    <lastBuildDate>Fri, 13 Nov 2015 16:54:09 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -31,15 +31,24 @@
     
       <item>
         <title>15: Current Project: Hands On Learning For Underserved Kids in India</title>
-        <description>&lt;p&gt;I’m currently working on a project in an Affordable Design and Entrepreneurship course to increase hands-on learning and curiosity in STEM fields in India and Ghana with business and engineering students and professors. We are developing a light-projector and curriculum to aid in the teaching of optics. In January, we will be going to India to deliver the first iteration of this product to Agastya International Foundation, one of our partnering institutions. Agastya runs a Lab in a Box program to bring hands-on science curriculum to rural, underserved schools in India.  In the Lab in a Box program, a trainer brings the curriculum and projector to the teacher and instructs them on how to run the labs.  Our eventual goal is to send 600 boxes to the Lab in a Box program reaching across India, as well as a few hundred to African Women’s Advocacy Group in Ghana. &lt;/p&gt;
+        <description>&lt;p&gt;I’m currently working on a project in an Affordable Design and Entrepreneurship course to increase hands-on learning and curiosity in STEM fields in India and Ghana with business and engineering students and professors. We are working with two partners, &lt;a href=&quot;http://www.agastya.org/&quot;&gt;Agastya International Foundation&lt;/a&gt; and &lt;a href=&quot;http://www.africanwomenadvocacyproject.org/&quot;&gt;African Women’s Advocacy Project&lt;/a&gt;. We are developing a ray projector, called the &lt;a href=&quot;http://brightbox1.weebly.com/&quot;&gt;BrightBox&lt;/a&gt;, and curriculum as material for the teaching of optics. In January, we will be going to India to deliver the first iteration of this product. This project is going to be included in Agastya’s Lab in a Box program, which brings hands-on science curriculum to rural, underserved schools in India.  In the Lab in a Box program, a trainer brings the curriculum and projector to the teacher and instructs them on how to run the labs.  Our eventual goal is to send 600 boxes to the Lab in a Box program reaching across India, as well as a few hundred to African Women’s Advocacy Group in Ghana. &lt;/p&gt;
 
-&lt;p&gt;Here is the product being tested in Ghana&lt;/p&gt;
-&lt;center&gt;&lt;img src=&quot;images/projects/ADEinGhana.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;We have made great progress this semester both in development of the box and curriculum. I am the Project Manager of the team, so part of my role is to coordinate the three other engineering students, the three business students, two advisors and the class. I have been working on the electrical circuit and spend most of my effort developing the curriculum.&lt;/p&gt;
+
+&lt;p&gt;Our first prototype went to Ghana in October and was tested by the African Women’s Advocacy Project&lt;/p&gt;
+&lt;center&gt;&lt;img src=&quot;images/projects/ADE/ADEinGhana.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt; &lt;/p&gt;
+
+&lt;p&gt;In the middle of November, we brought the BrightBox to a local classroom to observe the students interacting with the box as well as the completeness of the teacher instructions.&lt;/p&gt;
+&lt;center&gt;&lt;img src=&quot;images/projects/ADE/framingham.jpeg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
+
+&lt;p&gt;We will be launching our Kickstarter to raise funds for this project soon!
+* &lt;a href=&quot;http://brightbox1.weebly.com/&quot;&gt;Check out our product site&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Teammates: Mary Morse, Kiki Chandra, Subhash Gubba, Yasmine Idriss, Forrest Landy, Makhimba Simon
 Advisor: &lt;a href=&quot;http://www.olin.edu/faculty/profile/siddhartan-govindasamy/&quot;&gt;Siddhartan Govindasamy&lt;/a&gt;&lt;/p&gt;
-&lt;center&gt;&lt;img src=&quot;images/projects/ADEteam.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;images/projects/ADE/ADEteam.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
 
 </description>
         <pubDate>Mon, 11 May 2015 00:00:00 -0400</pubDate>
