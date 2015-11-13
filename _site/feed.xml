@@ -5,8 +5,8 @@
     <description>My Portfolio</description>
     <link>http://jamiegorson.com/</link>
     <atom:link href="http://jamiegorson.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 10 Nov 2015 10:17:03 -0500</pubDate>
-    <lastBuildDate>Tue, 10 Nov 2015 10:17:03 -0500</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2015 22:25:29 -0500</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2015 22:25:29 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -109,103 +109,103 @@ In the end, we developed the S2, an intellegent note-taking add-on to a stethoso
 &lt;div id=&quot;featuredProjectsCarousel&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
   &lt;!-- Indicators --&gt;
   &lt;ol class=&quot;carousel-indicators&quot;&gt;
-    &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;3&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;3&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;4&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;4&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;5&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;5&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;6&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;6&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;7&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;7&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;8&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;8&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;9&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;9&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;10&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;10&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;11&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;11&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;12&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;12&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;13&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;13&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;14&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;14&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;15&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;15&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;16&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;16&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;17&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;17&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;18&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;18&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;19&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;19&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;20&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;20&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;21&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;21&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;22&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;22&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;23&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;23&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;24&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;24&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;25&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;25&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;26&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;26&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;27&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;27&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;28&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;28&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;29&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;29&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;30&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;30&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;31&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;31&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;32&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;32&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;33&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;33&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;34&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;34&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;35&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;35&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;36&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;36&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;37&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;37&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;38&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;38&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;39&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;39&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;40&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;40&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;41&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;41&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;42&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;42&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;43&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;43&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;44&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;44&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;45&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;45&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;46&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;46&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;47&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;47&quot;&gt;&lt;/li&gt;
     
-      &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;48&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;48&quot;&gt;&lt;/li&gt;
     
   &lt;/ol&gt;
   &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;
@@ -456,12 +456,12 @@ In the end, we developed the S2, an intellegent note-taking add-on to a stethoso
     
       <item>
         <title>6: Robotic Player Guitar</title>
-        <description>&lt;center&gt;&lt;img src=&quot;images/projects/guitar.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
+        <description>&lt;p&gt;A member of the team to conceptualize, design, and build an autonomous playing guitar. The system can play multiple songs on the guitar. 
+It’s a mechatronic system interfacing with an Arduino Uno and a Python software base. Using tablature formatted music it plays the songs through a system of solenoids that push frets and lock actuators that pluck the strings. I was in charge of all of the software systems, both a python component and arduino. I also assisted in the debugging of the entire system and assembling the electrical system.&lt;/p&gt;
 
-&lt;p&gt;A member of the team to conceptualize, design, and build an autonomous playing guitar. The system can play multiple songs on the guitar. 
-It’s a mechatronic system interfacing with an Arduino Uno and a Python software base. Using tablature formatted music it plays the songs through a system of solenoids that push frets and lock actuators that pluck the strings. I was in charge of all of the software systems, both a python component and arduino. I also assisted in the debugging of the entire system and assembling the electrical system.
-&lt;a href=&quot;https://youtu.be/KJzecia7yO0&quot;&gt;See a Video of our Robotic Play Guitar here!&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;video-container&quot;&gt;
+&lt;iframe class=&quot;video&quot; width=&quot;854&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/KJzecia7yO0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;The Software system has two components: a python backend to interpret guitar tablature and create a GUI and arduino script to run the mechanical system. The two interact through the serial port of the arduino by sending from python to the EEPROM and then the arduino reads the EEPROM.&lt;/p&gt;
 
@@ -474,7 +474,7 @@ Our strumming mechanism is composed of a structural component, linear car-door l
 
 &lt;p&gt;Our electrical system is centered around an Arduino Uno microprocessor. Because the Arduino Uno doesn’t possess enough output channels to power all of our solenoids and our lock actuators, we used three Logos Electromechanical 4x4 driver shields which provided us with 48 high power outputs as opposed to the 13 we could use off the arduino. Outputs were assigned to individual solenoids or to half h-bridge chips (L293Ds) that allow us to drive our lock actuators in both directions. The three boards and the Arduino were powered off of a desktop computer power supply at five volts for the lock actuators and twelve volts for the solenoids.&lt;/p&gt;
 
-&lt;center&gt;&lt;img src=&quot;images/projects/newGuitar.jpg&quot; width=&quot;30%&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;images/projects/guitar.jpg&quot; width=&quot;42%&quot; align=&quot;left&quot; /&gt;&lt;img src=&quot;images/projects/newGuitar.jpg&quot; width=&quot;40%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt; &lt;/p&gt;
 
 &lt;p&gt;When the semeter ended, our team decided to continue working on the guitar project to improve it for permanent display. This would include a raspberry pi controlled interface where a user can choose a song, a more robust electrical system and a tuned up mechanical system.&lt;/p&gt;

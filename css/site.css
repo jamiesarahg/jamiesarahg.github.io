@@ -115,6 +115,7 @@ h3{
 .tile-container{
   margin: 2px;
   position: relative;
+
 }
 
 .tile-link{
@@ -154,6 +155,7 @@ h3{
 
 .pageTitle{
   border-bottom: thin solid #000;
+  font-size: 35px;
 }
 
 .contact-card{
@@ -190,11 +192,11 @@ ul li{
   text-align: left;
 }
 
-.featuredProjectCarousel{
+.featuredProjectCarousel {
   width: 60%;
 }
 
-.featuredProjectCarouselImg{
+.featuredProjectCarouselImg {
   width: auto;
   height: 200px;
   max-height: 200px;
@@ -202,10 +204,15 @@ ul li{
   align:"middle";
 }
 
-.featuredProjectCarouselImgUOCD{
+.featuredProjectCarouselImgUOCD {
   width: auto;
   height: 450px;
   max-height: 450px;
   text-align: center;
   align:"middle";
+}
+
+.video {
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
