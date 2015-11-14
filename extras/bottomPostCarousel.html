@@ -1,0 +1,65 @@
+      <h3 class="post-footer">Select Another Projects</h3>
+    
+      <div class="carousel slide" id="myCarousel">
+        <div class="carousel-inner">
+          {% for post in site.posts %}
+            {% if post.featured == "First" %}
+              <div class="item active">
+            {% else %}
+              <div class="item">
+            {% endif %}
+
+               <!--  <div class="col-lg-4 col-xs-4 col-md-4 col-sm-4"> -->
+                  <a href="{{ post.url | remove_first: "/" }}"><img src="images/thumbnails/{{ post.title | split:": " | first | split: " " | last }}.jpg" id="{{ post.title | split:": " | first | split: " " | last }}-img" class="featuredProjectCarouselImg" width="200px">{{ post.title | split:": " | last}} <p class="tile-text" display=""> {{ post.title | split:": " | last}} </p>
+</a>
+                <!-- </div> -->
+              </div>
+          {% endfor %}
+        </div>
+<!--       <a class="left carousel-control" href="#myCarousel" data-slide="prev"><i class="glyphicon glyphicon-chevron-left"></i></a>
+      <a class="right carousel-control" href="#myCarousel" data-slide="next"><i class="glyphicon glyphicon-chevron-right"></i></a> -->
+    </div>
+ </article>
+
+<script type="text/javascript">
+  $('#myCarousel').carousel({
+    interval: 1
+  });
+
+  $('#myCarousel .item').each(function(){
+    var next = $(this).next();
+    if (!next.length) {
+      next = $(this).siblings(':first');
+    }
+    next.children(':first-child').clone().appendTo($(this));
+
+    if (next.next().length>0) {
+   
+        next.next().children(':first-child').clone().appendTo($(this)).addClass('rightest');
+        
+    }
+    else {
+        $(this).siblings(':first').children(':first-child').clone().appendTo($(this));
+       
+    }
+  });
+  $(".item").hover(function(){
+    console.log($(this).find(".tile-text"));
+    $(this).find(".tile-text").display = "block";
+  });
+
+</script>
+
+#myCarousel .carousel-inner .active.left { left: -33%; }
+#myCarousel .carousel-inner .next        { left:  33%; }
+#myCarousel .carousel-inner .prev        { left: -33%; }
+#myCarousel .carousel-control.left,.carousel-control.right {background-image:none;}
+#myCarousel .item:not(.prev) {visibility: visible;}
+#myCarousel .item.right:not(.prev) {visibility: hidden;}
+.carousel-inner > .item {
+    -webkit-transition: 5s linear left;
+    -moz-transition: 5s linear left;
+    -o-transition: 5s linear left;
+    transition: 5s linear left;
+}
+/*#myCarousel .rightest{ visibility: visible;}*/
