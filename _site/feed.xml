@@ -5,12 +5,12 @@
     <description>My Portfolio</description>
     <link>http://jamiegorson.com/</link>
     <atom:link href="http://jamiegorson.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 13 Nov 2015 16:54:09 -0500</pubDate>
-    <lastBuildDate>Fri, 13 Nov 2015 16:54:09 -0500</lastBuildDate>
+    <pubDate>Sat, 14 Nov 2015 08:19:55 -0500</pubDate>
+    <lastBuildDate>Sat, 14 Nov 2015 08:19:55 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>16: Current Project: Mobile App for Kids to Learn a Key Step in the Design Process</title>
+        <title>16: Current Project: Mobile Design App for Kids</title>
         <description>&lt;center&gt;&lt;img src=&quot;images/projects/scopeTeamPhoto.jpg&quot; width=&quot;70%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt; &lt;/p&gt;
 
@@ -30,7 +30,7 @@
       </item>
     
       <item>
-        <title>15: Current Project: Hands On Learning For Underserved Kids in India</title>
+        <title>15: Current Project: Hands-on Learning for Rural India</title>
         <description>&lt;p&gt;I’m currently working on a project in an Affordable Design and Entrepreneurship course to increase hands-on learning and curiosity in STEM fields in India and Ghana with business and engineering students and professors. We are working with two partners, &lt;a href=&quot;http://www.agastya.org/&quot;&gt;Agastya International Foundation&lt;/a&gt; and &lt;a href=&quot;http://www.africanwomenadvocacyproject.org/&quot;&gt;African Women’s Advocacy Project&lt;/a&gt;. We are developing a ray projector, called the &lt;a href=&quot;http://brightbox1.weebly.com/&quot;&gt;BrightBox&lt;/a&gt;, and curriculum as material for the teaching of optics. In January, we will be going to India to deliver the first iteration of this product. This project is going to be included in Agastya’s Lab in a Box program, which brings hands-on science curriculum to rural, underserved schools in India.  In the Lab in a Box program, a trainer brings the curriculum and projector to the teacher and instructs them on how to run the labs.  Our eventual goal is to send 600 boxes to the Lab in a Box program reaching across India, as well as a few hundred to African Women’s Advocacy Group in Ghana. &lt;/p&gt;
 
 &lt;p&gt;We have made great progress this semester both in development of the box and curriculum. I am the Project Manager of the team, so part of my role is to coordinate the three other engineering students, the three business students, two advisors and the class. I have been working on the electrical circuit and spend most of my effort developing the curriculum.&lt;/p&gt;
@@ -61,7 +61,7 @@ Advisor: &lt;a href=&quot;http://www.olin.edu/faculty/profile/siddhartan-govinda
       </item>
     
       <item>
-        <title>11: Independent Study and Consulting work in Belgium for KU Leuven and Thomas Moore</title>
+        <title>11: Bringing Design Thinking to Belgium</title>
         <description>&lt;p&gt;During my semester abroad in Belgium, I was a liaison of Olin College to two universities in Belgium: KU Leuven and Thomas Moore. I have been working directly with Inge Vervoot and her colleagues on her mission to engage engineering students in real world experience and expose them to the social sector. In order to accomplish this, the programs will be emphasizing user centered design, design thinking, real world experiences and societal awareness and the social profit sector. This group is working on a number of projects, some of which span the European Union. As a student of Olin College, I assisted this team in two of their programs, which will be explained below. I will be using my experience as a student at Olin College, my design and education courses, and the knowledge I’ve acquired while working for the Collaboratory to write recommendations and proposals to the group. &lt;/p&gt;
 
 &lt;p&gt;The first program that I worked with is Community Service Engineering, or CSE. CSE has been developed by Inge and her colleague Jan to educate recent graduates or professionals as to being socially aware engineers. A larger, longer existing program called the Postgraduate Programme in Innovation and Entrepreneurship in Engineering, has a complementary mission. To enhance both programs, they decided to integrate them. As an outsider with experience in curriculum and user centered design, I gave my opinions and perspective to best integrate the programs to attract more students and give them the best educational opportunities. In order to best accomplish this, I have met with students from both programs who are working on a variety of projects as well as coaches, mentors and administrators of the programs, as well as attended CSE to get the best vantage point of the course. You can read my proposal &lt;a href=&quot;https://www.dropbox.com/s/o3n20tam538soha/FINALintegrationReport.pdf?dl=0&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -86,7 +86,7 @@ Advisor: &lt;a href=&quot;http://www.olin.edu/faculty/profile/siddhartan-govinda
       </item>
     
       <item>
-        <title>10: Discrete Math View of the Enigma Machine</title>
+        <title>10: Discrete Math Evaluation of the Enigma Machine</title>
         <description>&lt;p&gt;For a discrete mathmatics course, my team and I evaluated the Enigma machine. We calculated the total possible encodings and then compared it to the number of encodings that we calculated that was possibe with all of the mistakes the Germans made.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -106,7 +106,7 @@ Advisor: &lt;a href=&quot;http://www.olin.edu/faculty/profile/siddhartan-govinda
       </item>
     
       <item>
-        <title>8: S2 - User Centered Design project on Volunteer Physicians</title>
+        <title>8: S2 - User Centered Design</title>
         <description>&lt;center&gt;&lt;img src=&quot;images/projects/UOCDposter.png&quot; width=&quot;95%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt; &lt;/p&gt;
 
@@ -439,7 +439,7 @@ In the end, we developed the S2, an intellegent note-taking add-on to a stethoso
       </item>
     
       <item>
-        <title>7: A Data Science Project on Prescribing Rates of NSAIDs as influenced by the National Health Service of the UK</title>
+        <title>7: Prescribing Drugs in UK: A Data Science Project</title>
         <description>&lt;center&gt;&lt;img src=&quot;images/projects/lesspeaks.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt; &lt;/p&gt;
 
@@ -500,7 +500,7 @@ Our strumming mechanism is composed of a structural component, linear car-door l
       </item>
     
       <item>
-        <title>5: Teaching the Principles of Motors -  Electricity and Magnetism</title>
+        <title>5: Teaching the Principles of Motors</title>
         <description>&lt;center&gt;&lt;img src=&quot;images/projects/EMMotor.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt; &lt;/p&gt;
 
