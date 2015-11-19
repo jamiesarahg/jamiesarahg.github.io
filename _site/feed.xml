@@ -5,8 +5,8 @@
     <description>My Portfolio</description>
     <link>http://jamiegorson.com/</link>
     <atom:link href="http://jamiegorson.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 15 Nov 2015 20:23:52 -0500</pubDate>
-    <lastBuildDate>Sun, 15 Nov 2015 20:23:52 -0500</lastBuildDate>
+    <pubDate>Thu, 19 Nov 2015 15:42:51 -0500</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2015 15:42:51 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -73,7 +73,8 @@ Advisor: &lt;a href=&quot;http://www.olin.edu/faculty/profile/siddhartan-govinda
 &lt;p&gt;&lt;br /&gt; &lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://jamiesarahg.weebly.com/education-blog&quot;&gt;Throughout my semester, I kept a blog about the work that I was doing.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jamiesarahg.weebly.com/education-blog&quot;&gt;Throughout my semester, I kept a blog about the work that I was doing.&lt;/a&gt;
+*&lt;a href=&quot;http://associatie.kuleuven.be/gezamenlijke-opleidingen/cse/folder_contents&quot;&gt;Here is the CSE Website&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 28 Apr 2015 00:00:00 -0400</pubDate>
@@ -465,14 +466,15 @@ In the end, we developed the S2, an intellegent note-taking add-on to a stethoso
     
       <item>
         <title>6: Robotic Player Guitar</title>
-        <description>&lt;p&gt;A member of the team to conceptualize, design, and build an autonomous playing guitar. The system can play multiple songs on the guitar. 
-It’s a mechatronic system interfacing with an Arduino Uno and a Python software base. Using tablature formatted music it plays the songs through a system of solenoids that push frets and lock actuators that pluck the strings. I was in charge of all of the software systems, both a python component and arduino. I also assisted in the debugging of the entire system and assembling the electrical system.&lt;/p&gt;
+        <description>&lt;p&gt;I am a member of the team which conceptualized, designed, and built an autonomous playing guitar. The mechatronic system interfaces with an Arduino Uno and a Python software base. The software inputes tablature formatted music and plays the songs through a system of solenoids that push frets and lock actuators that pluck the strings. I was in charge of all of the software systems, both the python backend and arduino controller. I also assisted in the debugging of the entire system and assembling the electrical system.&lt;/p&gt;
 
 &lt;div class=&quot;video-container&quot;&gt;
 &lt;iframe class=&quot;video&quot; width=&quot;854&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/KJzecia7yO0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;p&gt;The Software system has two components: a python backend to interpret guitar tablature and create a GUI and arduino script to run the mechanical system. The two interact through the serial port of the arduino by sending from python to the EEPROM and then the arduino reads the EEPROM.&lt;/p&gt;
+&lt;p&gt;The software system has two components: a python backend, which interprets guitar tablature and creates a GUI, and an arduino script, which controls the mechanical components. The two interact through the serial port of the arduino.&lt;/p&gt;
+
+&lt;p&gt;Our electrical system is centered around an Arduino Uno microprocessor. Because the Arduino Uno doesn’t possess enough output channels to power all of our solenoids and our lock actuators, we used three Logos Electromechanical 4x4 driver shields which provided us with 48 high power outputs as opposed to the 13 we could use off the arduino. Outputs were assigned to individual solenoids or to half h-bridge chips (L293Ds) that allow us to drive our lock actuators in both directions. The three boards and the Arduino were powered off of a desktop computer power supply at five volts for the lock actuators and twelve volts for the solenoids.&lt;/p&gt;
 
 &lt;center&gt;&lt;img src=&quot;images/projects/fret.jpg&quot; width=&quot;30%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt; 
@@ -481,14 +483,13 @@ In order to press the fret to tune a note we used 30 pull solenoids. The challen
 &lt;p&gt;&lt;br /&gt; 
 Our strumming mechanism is composed of a structural component, linear car-door lock actuators, and finger-like pick-holding extensions. The structural component is created from several laser-cut MDF pieces.  Each structural component holds three linear car-door lock actuators side-by-side. The linear car-door lock actuators are powered by 5 volts. By reversing the voltage, we were able to make the actuators move in and out of their casing. The finger-like pick-holding extensions are connected to the linear car-door lock actuators by small acrylic plates and fasteners and hold picks.&lt;/p&gt;
 
-&lt;p&gt;Our electrical system is centered around an Arduino Uno microprocessor. Because the Arduino Uno doesn’t possess enough output channels to power all of our solenoids and our lock actuators, we used three Logos Electromechanical 4x4 driver shields which provided us with 48 high power outputs as opposed to the 13 we could use off the arduino. Outputs were assigned to individual solenoids or to half h-bridge chips (L293Ds) that allow us to drive our lock actuators in both directions. The three boards and the Arduino were powered off of a desktop computer power supply at five volts for the lock actuators and twelve volts for the solenoids.&lt;/p&gt;
-
 &lt;center&gt;&lt;img src=&quot;images/projects/guitar.jpg&quot; width=&quot;42%&quot; align=&quot;left&quot; /&gt;&lt;img src=&quot;images/projects/newGuitar.jpg&quot; width=&quot;40%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt; &lt;/p&gt;
 
-&lt;p&gt;When the semeter ended, our team decided to continue working on the guitar project to improve it for permanent display. This would include a raspberry pi controlled interface where a user can choose a song, a more robust electrical system and a tuned up mechanical system.&lt;/p&gt;
+&lt;p&gt;When the semeter ended, our team decided to continue working on the guitar project to improve it for permanent display. There is now a web-interface to choose a song and is run off of a raspberry pi. The electrical system is much more reliable and safe and the mechanical system is robust and tuned.&lt;/p&gt;
 
-&lt;p&gt;Teammates: Emily Guthrie, Sean Karagianes, &lt;a href=&quot;http://joekochevar.com&quot;&gt;Joe Kochevar&lt;/a&gt;, Lauren Froschauer&lt;/p&gt;
+&lt;p&gt;Teammates: Emily Guthrie, Sean Karagianes, &lt;a href=&quot;http://joekochevar.com&quot;&gt;Joe Kochevar&lt;/a&gt;, Lauren Froschauer
+Contributers in phase two: &lt;a href=&quot;http://evandorsky.github.io&quot;&gt;Evan Dorsky&lt;/a&gt;, Ben Kahle&lt;/p&gt;
 </description>
         <pubDate>Sun, 22 Dec 2013 00:00:00 -0500</pubDate>
         <link>http://jamiegorson.com/Project6.html</link>
@@ -504,7 +505,7 @@ Our strumming mechanism is composed of a structural component, linear car-door l
         <description>&lt;center&gt;&lt;img src=&quot;images/projects/EMMotor.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt; &lt;/p&gt;
 
-&lt;p&gt;For a Physics: Electricity and Magnetism Course, my partner and I designed and executed a classroom lesson and activity for third graders. We taught them the principles of electricity and magnetism through easily comprehendible demos. The students then each built their own motor by putting the principles they just learned into action. Above, you can see and example of the motor that they built using the activity instructions, below. Below, you can see my partner Rahil working with students at the school&lt;/p&gt;
+&lt;p&gt;For a ‘Physics: Electricity and Magnetism’ course, my partner and I designed and executed a classroom lesson and activity for third graders. Through easily comprehendible demonstrations, we showed them the principles of electricity and magnetism in order to explain how a motor worked.  Then students then each built their own motor by putting the principles they just learned into action. We ran this curricula for three classes. By the end of the lesson, the students had a basic understanding of the workings of a motor. Above, you can see and example of the motor that they built using the activity instructions, below. Below, you can see my partner Rahil working with students at the school.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/s/cfb0ia273m1k4q5/EMLessonPlan.pdf?dl=0&quot;&gt;See our lesson plan&lt;/a&gt;&lt;/li&gt;
