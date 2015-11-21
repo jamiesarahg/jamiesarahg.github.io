@@ -122,30 +122,31 @@
 
   </header>
   <article class="post-content">
-    <p>I am a member of the team which conceptualized, designed, and built an autonomous playing guitar. The mechatronic system interfaces with an Arduino Uno and a Python software base. The software inputes tablature formatted music and plays the songs through a system of solenoids that push frets and lock actuators that pluck the strings. I was in charge of all of the software systems, both the python backend and arduino controller. I also assisted in the debugging of the entire system and assembling the electrical system.</p>
+    <p>I, along with a group of mechanical and electrical engineers, decided to take a class project to the next level. We began this project for a Principles of Engineering course, which required us to create something with an electrical, mechanical and software component. We decided to make a Robotic Player Guitar. I am the software lead on the team and in charge of the interface, backend and embedded system. Before even starting the project, our professor warned us that we were taking on a task much greater than the class required or that he thought we could handle in this time period. But, we were driven to make this work. Which may be why after it successfully worked for the class, we are still improving it (two years later) for permanent display at Olin College.</p>
+
+<p>Our first iteration was driven by an Arduino Uno and controlled by a python backend. I wrote code to interpret Guitar Tablature, communicate across a serial port to an Arduino, convert it into a binary string and control the actuators and solinoids via SPI.</p>
+
+<p>The second iteration takes MIDI files as inputs and uses an Arduino Due to provide more power.</p>
+
+<p>The current iteration is run off of a NodeJS Web App and is controlled by a RaspberryPi. </p>
+
+<ul>
+  <li><a href="http://www.rockin-robot.com">Check out our website for all of the details</a></li>
+</ul>
 
 <div class="video-container">
 <iframe class="video" width="854" height="480" src="https://www.youtube.com/embed/KJzecia7yO0" frameborder="0" allowfullscreen=""></iframe>
 </div>
 
-<p>The software system has two components: a python backend, which interprets guitar tablature and creates a GUI, and an arduino script, which controls the mechanical components. The two interact through the serial port of the arduino.</p>
-
-<p>Our electrical system is centered around an Arduino Uno microprocessor. Because the Arduino Uno doesn’t possess enough output channels to power all of our solenoids and our lock actuators, we used three Logos Electromechanical 4x4 driver shields which provided us with 48 high power outputs as opposed to the 13 we could use off the arduino. Outputs were assigned to individual solenoids or to half h-bridge chips (L293Ds) that allow us to drive our lock actuators in both directions. The three boards and the Arduino were powered off of a desktop computer power supply at five volts for the lock actuators and twelve volts for the solenoids.</p>
-
-<center><img src="images/projects/fret.jpg" width="30%" /></center>
-<p><br /> 
-In order to press the fret to tune a note we used 30 pull solenoids. The challenge of using these was  finding a way to fit 30 solenoids within the span of 5 frets at the top of the guitar, with room to attach them to a fret actuation system. In the end, we designed two, three-tiered shelving units that stagger the solenoids laterally, allowing us to dedicate a single string of the guitar to each string. We then used sheet metal parts to transfer power from the solenoids to the strings and neck of the guitar.</p>
-<center><img src="images/projects/strum.jpg" width="30%" /></center>
-<p><br /> 
-Our strumming mechanism is composed of a structural component, linear car-door lock actuators, and finger-like pick-holding extensions. The structural component is created from several laser-cut MDF pieces.  Each structural component holds three linear car-door lock actuators side-by-side. The linear car-door lock actuators are powered by 5 volts. By reversing the voltage, we were able to make the actuators move in and out of their casing. The finger-like pick-holding extensions are connected to the linear car-door lock actuators by small acrylic plates and fasteners and hold picks.</p>
+<center>&lt;img src="images/projects/fret.jpg" width="30%"align="left" &gt;<img src="images/projects/strum.jpg" width="30%" /></center>
+<p><br /> </p>
 
 <center><img src="images/projects/guitar.jpg" width="42%" align="left" /><img src="images/projects/newGuitar.jpg" width="40%" /></center>
 <p><br /> </p>
 
-<p>When the semeter ended, our team decided to continue working on the guitar project to improve it for permanent display. There is now a web-interface to choose a song and is run off of a raspberry pi. The electrical system is much more reliable and safe and the mechanical system is robust and tuned.</p>
+<p>Teammates: Emily Guthrie, Sean Karagianes, <a href="http://joekochevar.com">Joe Kochevar</a>, Lauren Froschauer</p>
 
-<p>Teammates: Emily Guthrie, Sean Karagianes, <a href="http://joekochevar.com">Joe Kochevar</a>, Lauren Froschauer
-Contributers in phase two: <a href="http://evandorsky.github.io">Evan Dorsky</a>, Ben Kahle</p>
+<p>Contributers in phase two: <a href="http://evandorsky.github.io">Evan Dorsky</a>, Ben Kahle</p>
 
   <br>
   <hr>
