@@ -5,8 +5,8 @@
     <description>My Portfolio</description>
     <link>http://jamiegorson.com/</link>
     <atom:link href="http://jamiegorson.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 21 Nov 2015 18:10:21 -0500</pubDate>
-    <lastBuildDate>Sat, 21 Nov 2015 18:10:21 -0500</lastBuildDate>
+    <pubDate>Mon, 30 Nov 2015 19:55:43 -0500</pubDate>
+    <lastBuildDate>Mon, 30 Nov 2015 19:55:43 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -16,11 +16,16 @@
 
 &lt;p&gt;For my Senior Capstone Project in Engineering, I am building a design application for children aged four to fourteen in conjunction with DS SolidWorks. I am one of the four Software Engineers on the project as also play the role as the Product Owner As the Product Owner, I ensure that the team is going on the correct path to meet the team’s goals, our user’s needs and DS SolidWorks’ objectives. This includes convincing DS SolidWorks to change their designs based on evidence corroborated by our user research. While the product is under NDA, I can divulge that it will expose students to the creative aspects of engineering, which may encourage females and underrepresented groups to pursue engineering study. The demographic is kids 4 to 14 years of age, from Kindergarten to 8th grade. The app should inspire the kids and prepare them to tackle their own projects. This application will open young eyes to the design process, motivating and preparing them to tackle their own projects. &lt;/p&gt;
 
-&lt;p&gt;Teammates: Ben Kahle, Nicole Rifkin, Thomas Chen&lt;/p&gt;
-
-&lt;p&gt;Advisor: &lt;a href=&quot;http://www.olin.edu/faculty/profile/c-jason-woodard/&quot;&gt;Jason Woodard&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Teammates: Ben Kahle, Nicole Rifkin, Thomas Chen&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Advisor: &lt;a href=&quot;http://www.olin.edu/faculty/profile/c-jason-woodard/&quot;&gt;Jason Woodard&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 </description>
-        <pubDate>Tue, 12 May 2015 00:00:00 -0400</pubDate>
+        <pubDate>Thu, 12 May 2016 00:00:00 -0400</pubDate>
         <link>http://jamiegorson.com/Project16.html</link>
         <guid isPermaLink="true">http://jamiegorson.com/Project16.html</guid>
         
@@ -51,9 +56,37 @@ Advisor: &lt;a href=&quot;http://www.olin.edu/faculty/profile/siddhartan-govinda
 &lt;center&gt;&lt;img src=&quot;images/projects/ADE/ADEteam.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
 
 </description>
-        <pubDate>Mon, 11 May 2015 00:00:00 -0400</pubDate>
+        <pubDate>Wed, 11 May 2016 00:00:00 -0400</pubDate>
         <link>http://jamiegorson.com/Project15.html</link>
         <guid isPermaLink="true">http://jamiegorson.com/Project15.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>13: Computational Robotics</title>
+        <description>&lt;h2&gt; Robot guided by head tilt and pan - Computer Vision Project &lt;/h2&gt;
+
+&lt;p&gt;For a computational robotics course, we developed a dataset, model and software to interpret the head tilt and pan of any user. The head tilt determined how fast the robot moved and the head pan determined angular velocity.&lt;/p&gt;
+
+&lt;p&gt;Here is the video of our project in action:&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;
+&lt;iframe width=&quot;854&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/S-CmvTUCd8c&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/jamiesarahg/CVFaceDetection&quot;&gt;GitHub repo&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Teammates: Nicole Rifkin&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sun, 20 Dec 2015 00:00:00 -0500</pubDate>
+        <link>http://jamiegorson.com/Project13.html</link>
+        <guid isPermaLink="true">http://jamiegorson.com/Project13.html</guid>
         
         
         <category>projects</category>
@@ -546,28 +579,6 @@ In the end, we developed the S2, an intellegent note-taking add-on to a stethoso
         <pubDate>Fri, 20 Dec 2013 00:00:00 -0500</pubDate>
         <link>http://jamiegorson.com/Project4.html</link>
         <guid isPermaLink="true">http://jamiegorson.com/Project4.html</guid>
-        
-        
-        <category>projects</category>
-        
-      </item>
-    
-      <item>
-        <title>2: 3D Competitive Snake Game</title>
-        <description>&lt;center&gt;&lt;img src=&quot;images/projects/snakegame.jpg&quot; width=&quot;70%&quot; /&gt;&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
-
-&lt;p&gt;For a project for a software design course, my team and I created a multi-player version of snake game in three dimensions. There are two modes of play. The first is a single player mode in a three-dimentional environment viewed in first person. The second is a two-dimensional We networked two computers to play against each other and developed capabilities to play in first person view.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/benkahle/snake3d&quot;&gt;Check out our GitHub repo&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Teammates: Cullen Ross, Cameron Anderson, Ben Kahle&lt;/p&gt;
-</description>
-        <pubDate>Fri, 10 May 2013 00:00:00 -0400</pubDate>
-        <link>http://jamiegorson.com/Project2.html</link>
-        <guid isPermaLink="true">http://jamiegorson.com/Project2.html</guid>
         
         
         <category>projects</category>
