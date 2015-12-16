@@ -5,8 +5,8 @@
     <description>My Portfolio</description>
     <link>http://jamiegorson.com/</link>
     <atom:link href="http://jamiegorson.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 30 Nov 2015 22:15:56 -0500</pubDate>
-    <lastBuildDate>Mon, 30 Nov 2015 22:15:56 -0500</lastBuildDate>
+    <pubDate>Tue, 15 Dec 2015 21:25:33 -0500</pubDate>
+    <lastBuildDate>Tue, 15 Dec 2015 21:25:33 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -36,7 +36,7 @@
     
       <item>
         <title>15: Current Project: Hands-on Learning for Rural India</title>
-        <description>&lt;p&gt;I’m currently working on a project in an Affordable Design and Entrepreneurship course to increase hands-on learning and curiosity in STEM fields in India and Ghana with business and engineering students and professors. We are working with two partners, &lt;a href=&quot;http://www.agastya.org/&quot;&gt;Agastya International Foundation&lt;/a&gt; and &lt;a href=&quot;http://www.africanwomenadvocacyproject.org/&quot;&gt;African Women’s Advocacy Project&lt;/a&gt;. We are developing a ray projector, called the &lt;a href=&quot;http://brightbox1.weebly.com/&quot;&gt;BrightBox&lt;/a&gt;, and curriculum as material for the teaching of optics. In January, we will be going to India to deliver the first iteration of this product. This project is going to be included in Agastya’s Lab in a Box program, which brings hands-on science curriculum to rural, underserved schools in India.  In the Lab in a Box program, a trainer brings the curriculum and projector to the teacher and instructs them on how to run the labs.  Our eventual goal is to send 600 boxes to the Lab in a Box program reaching across India, as well as a few hundred to African Women’s Advocacy Group in Ghana. &lt;/p&gt;
+        <description>&lt;p&gt;I’m currently working on a project in an Affordable Design and Entrepreneurship course to increase hands-on learning and curiosity in STEM fields in India and Ghana with business and engineering students and professors. We are working with two partners, &lt;a href=&quot;http://www.agastya.org/&quot;&gt;Agastya International Foundation&lt;/a&gt; and &lt;a href=&quot;http://www.africanwomenadvocacyproject.org/&quot;&gt;African Women’s Advocacy Project&lt;/a&gt;. We are developing a ray projector, called the Bright Box, and curriculum as material for the teaching of optics. In January, we will be going to India to deliver the first iteration of this product. This project is going to be included in Agastya’s Lab in a Box program, which brings hands-on science curriculum to rural, underserved schools in India.  In the Lab in a Box program, a trainer brings the curriculum and projector to the teacher and instructs them on how to run the labs.  Our eventual goal is to send 600 boxes to the Lab in a Box program reaching across India, as well as a few hundred to African Women’s Advocacy Group in Ghana. &lt;/p&gt;
 
 &lt;p&gt;We have made great progress this semester both in development of the box and curriculum. I am the Project Manager of the team, so part of my role is to coordinate the three other engineering students, the three business students, two advisors and the class. I have been working on the electrical circuit and spend most of my effort developing the curriculum.&lt;/p&gt;
 
@@ -44,15 +44,16 @@
 &lt;center&gt;&lt;img src=&quot;images/projects/ADE/ADEinGhana.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt; &lt;/p&gt;
 
-&lt;p&gt;In the middle of November, we brought the BrightBox to a local classroom to observe the students interacting with the box as well as the completeness of the teacher instructions.&lt;/p&gt;
+&lt;p&gt;In the middle of November and the beginning of December, we brought the BrightBox to local classrooms to observe the students interacting with the box as well as the completeness of the teacher instructions.&lt;/p&gt;
 &lt;center&gt;&lt;img src=&quot;images/projects/ADE/framingham.jpeg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt; &lt;/p&gt;
 
-&lt;p&gt;We will be launching our Kickstarter to raise funds for this project soon!
-* &lt;a href=&quot;http://brightbox1.weebly.com/&quot;&gt;Check out our product site&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We will be launching our Fundraising Campaign to raise funds for this project soon!
+&lt;!-- * [Check out our product site](http://brightbox1.weebly.com/) --&gt;&lt;/p&gt;
 
-&lt;p&gt;Teammates: Mary Morse, Kiki Chandra, Subhash Gubba, Yasmine Idriss, Forrest Landy, Makhimba Simon
-Advisor: &lt;a href=&quot;http://www.olin.edu/faculty/profile/siddhartan-govindasamy/&quot;&gt;Siddhartan Govindasamy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Teammates: Mary Morse, Kiki Chandra, Subhash Gubba, Yasmine Idriss, Forrest Landy, Makhimba Simon&lt;/p&gt;
+
+&lt;p&gt;Advisor: &lt;a href=&quot;http://www.olin.edu/faculty/profile/siddhartan-govindasamy/&quot;&gt;Siddhartan Govindasamy&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;&lt;img src=&quot;images/projects/ADE/ADEteam.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
 
 </description>
@@ -97,22 +98,54 @@ Advisor: &lt;a href=&quot;http://www.olin.edu/faculty/profile/siddhartan-govinda
         <title>11: Bringing Design Thinking to Belgium</title>
         <description>&lt;p&gt;This past spring, I traveled to Belgium to do a semester-long independent study in engineering education and to incorporate design thinking and collaboration into university engineering programs. I used qualitative research techniques to study the current state of the bachelors and postgraduate programs at two renowned universities in Belgium, KU Leuven and Thomas Moore. At my first classroom visit, the students gave a mid-year update on their project. Although they were supposed to have a component of user centered design, one of the students failed to even articulate who his users were! The professors were lost, arguing that they provided the students readings on the method. In this moment, I realized that since the professors themselves had never experienced the design process, they were not able to effectively teach it. In response, I ran workshops for the teaching team where they used the design process to develop their curriculum, bringing the theories the professors were attempting to teach into practice.  I converted their office into a design space, with butcher paper and post-its covering the walls, in which user interviews drove the brainstorming content. I provided the professors the exposure to the design process required to internalize how to teach the process to students. This experience helped me realize the importance of exposing STEM and design teachers to innovative learning styles and provided me the opportunity to reflect on the challenges of transforming heavily constrained traditional programs into innovative classrooms. In the end, the experience allowed me to impact the programs in two Belgian universities, as well as learn about conducting independent research, gathering and processing data, writing proposals, and developing workshops.&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;#&quot; class=&quot;read_more&quot;&gt;Show More&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;#&quot; class=&quot;read_less&quot; style=&quot;display:none&quot;&gt;Show Less&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;more_text&quot; style=&quot;display:none&quot;&gt;
+
+
+
 &lt;h3&gt; More details of the programs: &lt;/h3&gt;
 
-&lt;p&gt;I worked directly with Inge Vervoot and her colleagues on a mission to engage engineering students in real world experiences and expose them to the social sector. In order to accomplish this, the programs emphasizes user centered design, design thinking, real world experiences and societal awareness and the social profit sector. This group wors on a number of projects, some of which in partnerships which span the European Union. As a student of Olin College, I assisted this team on two of their programs, explained below. I used my experience as a student at Olin College, my design and education courses, and the knowledge I’ve acquired while working for the Collaboratory to write recommendations and proposals to the group. &lt;/p&gt;
+I worked directly with Inge Vervoot and her colleagues on a mission to engage engineering students in real world experiences and expose them to the social sector. In order to accomplish this, the programs emphasizes user centered design, design thinking, real world experiences and societal awareness and the social profit sector. This group works on a number of projects, some of which in partnerships which span the European Union. As a student of Olin College, I assisted this team on two of their programs, explained below. I used my experience as a student at Olin College, my design and education courses, and the knowledge I’ve acquired while working for the Collaboratory to write recommendations and proposals to the group. 
+&lt;br /&gt;
+&lt;br /&gt;
+The first program that I worked with is &lt;a href=&quot;http://associatie.kuleuven.be/gezamenlijke-opleidingen/cse/folder_contents&quot;&gt; Community Service Engineering&lt;/a&gt;, or CSE. CSE has been developed by Inge and her colleague Jan to educate recent graduates or professionals as to being socially aware engineers. There is a larger, longer existing program called the Postgraduate Programme in Innovation and Entrepreneurship in Engineering which is also in the school of engineering and has a complementary mission. To enhance both programs, they decided to integrate them. As an outsider with experience in curriculum and user centered design, I gave my opinions and perspective to best integrate the programs to attract more students and give them the most beneficial educational opportunities. In order to best accomplish this, I  met with students from both programs who are working on a variety of projects as well as coaches, mentors and administrators of the programs. I attended the CSE classtime to get the best vantage point of the course. You can read my proposal &lt;a href=&quot;https://www.dropbox.com/s/o3n20tam538soha/FINALintegrationReport.pdf?dl=0&quot;&gt; here&lt;/a&gt;.
+&lt;br /&gt;
+&lt;br /&gt;
+The second program that I worked with is the Social Ingenious bachelor&#39;s degree supplement at Thomas Moore. At Thomas Moore University, they value having well rounded graduates. The project directors, Inge and Jan, are working to design a degree supplement for bachelor engineering students of some majors and campuses of Thomas Moore. This degree supplement will fit into their existing degree and only require one extra course of 3 ECTS. I conducted meetings with Jan and the department heads of the respective majors to understand the current curriculum set-up, the goals of the program and the opinions of both parties. I  also met with many students to see what they value and desire for their programs. You can read this proposal &lt;a href=&quot;https://www.dropbox.com/s/6bqx4wtqsdgn9e0/SocialIngeniusReport.pdf?dl=0&quot;&gt;here&lt;/a&gt;.
+&lt;br /&gt;
+&lt;br /&gt;
+I ran workshops for the teaching team where they used the design process to develop their curriculum, bringing the theories the professors were attempting to teach into practice.  I converted their office into a design space, with butcher paper and post-its covering the walls, in which user interviews drove the brainstorming content. I provided the professors the exposure to the design process required to internalize how to teach the process to students. This experience helped me realize the importance of exposing STEM and design teachers to innovative learning styles and provided me the opportunity to reflect on the challenges of transforming heavily constrained traditional programs into innovative classrooms.
 
-&lt;p&gt;The first program that I worked with is &lt;a href=&quot;http://associatie.kuleuven.be/gezamenlijke-opleidingen/cse/folder_contents&quot;&gt;Community Service Engineering&lt;/a&gt;, or CSE. CSE has been developed by Inge and her colleague Jan to educate recent graduates or professionals as to being socially aware engineers. There is a larger, longer existing program called the Postgraduate Programme in Innovation and Entrepreneurship in Engineering which is also in the scool of engineering and has a complementary mission. To enhance both programs, they decided to integrate them. As an outsider with experience in curriculum and user centered design, I gave my opinions and perspective to best integrate the programs to attract more students and give them the most beneficial educational opportunities. In order to best accomplish this, I  met with students from both programs who are working on a variety of projects as well as coaches, mentors and administrators of the programs, as well as attended CSE to get the best vantage point of the course. You can read my proposal &lt;a href=&quot;https://www.dropbox.com/s/o3n20tam538soha/FINALintegrationReport.pdf?dl=0&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The second program that I worked with is the Social Ingenious bachelor’s degree supplement at Thomas Moore. At Thomas Moore University, they value having well rounded graduates. The project directors, Inge and Jan, are working to design a degree supplement for bachelor engineering students of some majors and campuses of Thomas Moore. This degree supplement will fit into their existing degree and only require one extra course of 3 ECTS. I conducted meetings with Jan and the department heads of the respective majors to understand the current curriculum set-up, the goals of the program and the opinions of both parties. I  also met with many students to see what they value and desire for their programs. You can read this proposal &lt;a href=&quot;https://www.dropbox.com/s/6bqx4wtqsdgn9e0/SocialIngeniusReport.pdf?dl=0&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I ran workshops for the teaching team where they used the design process to develop their curriculum, bringing the theories the professors were attempting to teach into practice.  I converted their office into a design space, with butcher paper and post-its covering the walls, in which user interviews drove the brainstorming content. I provided the professors the exposure to the design process required to internalize how to teach the process to students. This experience helped me realize the importance of exposing STEM and design teachers to innovative learning styles and provided me the opportunity to reflect on the challenges of transforming heavily constrained traditional programs into innovative classrooms.&lt;/p&gt;
+&lt;/div&gt;
 &lt;center&gt;&lt;img src=&quot;images/projects/placement1.jpg&quot; width=&quot;30%&quot; /&gt;&lt;img src=&quot;images/projects/placement2.jpg&quot; width=&quot;30%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt; &lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://jamiesarahg.weebly.com/education-blog&quot;&gt;Throughout my semester, I kept a blog about the work that I was doing.&lt;/a&gt;
-)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jamiesarahg.weebly.com/education-blog&quot;&gt;Throughout my semester, I kept a blog about the work that I was doing.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;script text=&quot;text/javascript&quot;&gt;
+    $(&#39;a.read_more&#39;).click(function(event){ /* find all a.read_more elements and bind the following code to them */
+
+        event.preventDefault(); /* prevent the a from changing the url */
+        // $(this).parents(&#39;.item&#39;).find(&#39;.more_text&#39;).show(); /* show the .more_text span */
+        $(&#39;.more_text&#39;).show(); /* show the .more_text span */
+        $(&#39;.read_less&#39;).show(); /* show the .more_text span */
+        $(&#39;.read_more&#39;).hide(); /* show the .more_text span */
+
+    });
+    $(&#39;a.read_less&#39;).click(function(event){ /* find all a.read_more elements and bind the following code to them */
+
+        event.preventDefault(); /* prevent the a from changing the url */
+        // $(this).parents(&#39;.item&#39;).find(&#39;.more_text&#39;).show(); /* show the .more_text span */
+        $(&#39;.more_text&#39;).hide(); /* show the .more_text span */
+        $(&#39;.read_less&#39;).hide(); /* show the .more_text span */
+        $(&#39;.read_more&#39;).show(); /* show the .more_text span */
+    });
+&lt;/script&gt;
+
 </description>
         <pubDate>Tue, 28 Apr 2015 00:00:00 -0400</pubDate>
         <link>http://jamiegorson.com/Project11.html</link>
@@ -148,7 +181,7 @@ Advisor: &lt;a href=&quot;http://www.olin.edu/faculty/profile/siddhartan-govinda
         <description>&lt;center&gt;&lt;img src=&quot;images/projects/UOCDposter.png&quot; width=&quot;95%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt; &lt;/p&gt;
 
-&lt;p&gt;For Olin’s User Oriented Collaborative Design course, I worked on a team to understand and design for volunteer physicians. In a semester, we were tasked to design something which would make a significant impact on the lives of Volunteer Physicians. The team, four other students and myself, engaged in a User Centered Design process where we challenged ourselves to epathize and understand our users. We visited clinics and hospitals, interviewed physicians and met with anyone who could be related. We identified areas of opportunities, which helped us build personas and journies to extract deeper meaning. Once we had a full understanding of the values and needs of our users, ferociously ideated and strategically codesigned.
+&lt;p&gt;For Olin’s User Oriented Collaborative Design course, I worked on a team to understand and design for volunteer physicians. In a semester, we were tasked to design something which would make a significant impact on the lives of Volunteer Physicians. The team, four other students and myself, engaged in a User Centered Design process where we challenged ourselves to epathize and understand our users. We visited clinics and hospitals, interviewed physicians and met with anyone who could be related. We identified areas of opportunities, which helped us build personas and journeys to extract deeper meaning. Once we had a full understanding of the values and needs of our users, ferociously ideated and strategically codesigned.
 In the end, we developed the S2, an intellegent note-taking add-on to a stethosocope. Volunteer physicians resent the overhaul of their field by technology and reject doctors who spend their appointment time glued to the computer instead of interacting with patients. We were able to turn their apprehension towards technology into an asset by designing a device which would help the physicians increase time interacting with their patient.&lt;/p&gt;
 
 &lt;h4&gt; Below is our slide deck which details the design processes we went through &lt;/h4&gt;
@@ -503,13 +536,14 @@ In the end, we developed the S2, an intellegent note-taking add-on to a stethoso
     
       <item>
         <title>6: Robotic Player Guitar</title>
-        <description>&lt;p&gt;I, along with a group of mechanical and electrical engineers, decided to take a class project to the next level. We began this project for a Principles of Engineering course, which required us to create something with an electrical, mechanical and software component. We decided to make a Robotic Player Guitar. I am the software lead on the team and in charge of the interface, backend and embedded system. Before even starting the project, our professor warned us that we were taking on a task much greater than the class required or that he thought we could handle in this time period. But, we were driven to make this work. Which may be why after it successfully worked for the class, we are still improving it (two years later) for permanent display at Olin College.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;images/projects/newGuitar.jpg&quot; width=&quot;40%&quot; align=&quot;right&quot; /&gt;
+I, along with a group of mechanical and electrical engineers, decided to take a class project to the next level. We began this project for a Principles of Engineering course, which required us to create something with an electrical, mechanical and software component. We decided to make a Robotic Player Guitar. I am the software lead on the team and in charge of the interface, backend and embedded system. Before even starting the project, our professor warned us that we were taking on a task much greater than the class required or that he thought we could handle in this time period. But, we were driven to make this work. This may be why after it successfully worked for the class, we are still improving it (two years later) for permanent display at Olin College.&lt;/p&gt;
 
 &lt;p&gt;Our first iteration was driven by an Arduino Uno and controlled by a python backend. I wrote code to interpret Guitar Tablature, communicate across a serial port to an Arduino, convert it into a binary string and control the actuators and solinoids via SPI.&lt;/p&gt;
 
 &lt;p&gt;The second iteration takes MIDI files as inputs and uses an Arduino Due to provide more power.&lt;/p&gt;
 
-&lt;p&gt;The current iteration is run off of a NodeJS Web App and is controlled by a RaspberryPi. &lt;/p&gt;
+&lt;p&gt;The current iteration uses a NodeJS Web App and is controlled by a RaspberryPi. &lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.rockin-robot.com&quot;&gt;Check out our website for all of the details&lt;/a&gt;&lt;/li&gt;
@@ -518,12 +552,9 @@ In the end, we developed the S2, an intellegent note-taking add-on to a stethoso
 &lt;div class=&quot;video-container&quot;&gt;
 &lt;iframe class=&quot;video&quot; width=&quot;854&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/KJzecia7yO0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
+&lt;blockquote&gt;
 
-&lt;center&gt;&amp;lt;img src=&quot;images/projects/fret.jpg&quot; width=&quot;30%&quot;align=&quot;left&quot; &amp;gt;&lt;img src=&quot;images/projects/strum.jpg&quot; width=&quot;30%&quot; /&gt;&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
-
-&lt;center&gt;&lt;img src=&quot;images/projects/guitar.jpg&quot; width=&quot;42%&quot; align=&quot;left&quot; /&gt;&lt;img src=&quot;images/projects/newGuitar.jpg&quot; width=&quot;40%&quot; /&gt;&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;Teammates: Emily Guthrie, Sean Karagianes, &lt;a href=&quot;http://joekochevar.com&quot;&gt;Joe Kochevar&lt;/a&gt;, Lauren Froschauer&lt;/p&gt;
 
