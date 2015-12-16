@@ -13,13 +13,15 @@ layout: default
   <br>
   <hr>
 
-  {% if page.previous.url %}
-    <a href="{{page.previous.url}}"> Previous Project </a>
+   {% if page.next.url %}
+    <a href="{{page.next.url}}"> Previous Project </a>
   {% endif %}
 
-  {% if page.next.url %}
-    <span style="float:right"><a href="{{page.next.url}}"> Next Project </a></span>
+  {% if page.previous.url %}
+    <span style="float:right"><a href="{{page.previous.url}}"> Next Project </a></span>
   {% endif %}
+
+ 
 
 
   </article>

@@ -5,16 +5,51 @@
     <description>My Portfolio</description>
     <link>http://jamiegorson.com/</link>
     <atom:link href="http://jamiegorson.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 15 Dec 2015 21:25:33 -0500</pubDate>
-    <lastBuildDate>Tue, 15 Dec 2015 21:25:33 -0500</lastBuildDate>
+    <pubDate>Wed, 16 Dec 2015 15:48:41 -0500</pubDate>
+    <lastBuildDate>Wed, 16 Dec 2015 15:48:41 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>16: Current Project: Mobile Design App for Kids</title>
-        <description>&lt;center&gt;&lt;img src=&quot;images/projects/scopeTeamPhoto.jpg&quot; width=&quot;70%&quot; /&gt;&lt;/center&gt;
+        <title>16: Current Project: Hands-on Learning for Rural India</title>
+        <description>&lt;p&gt;I’m currently working on a project in an Affordable Design and Entrepreneurship course to increase hands-on learning and curiosity in STEM fields in India and Ghana with business and engineering students and professors. We are working with two partners, &lt;a href=&quot;http://www.agastya.org/&quot;&gt;Agastya International Foundation&lt;/a&gt; and &lt;a href=&quot;http://www.africanwomenadvocacyproject.org/&quot;&gt;African Women Advocacy Project&lt;/a&gt;. We are developing a ray projector, called the Brightbox, and curriculum as material for the teaching of optics. In January, we will be going to India to deliver the first iteration of this product. This project is going to be included in Agastya’s &lt;i&gt;Lab in a Box&lt;/i&gt; program, which brings hands-on science curriculum to rural, underserved schools in India.  In the Lab in a Box program, a trainer brings the curriculum and projector to the teacher and instructs them on how to run the labs.  Our eventual goal is to send 600 boxes to be deployed in the Lab in a Box program, to be distributed across India, as well as a few hundred to African Women Advocacy Group in Ghana. &lt;/p&gt;
+
+&lt;p&gt;We have made great progress this semester both in development of the box and curriculum. My role on the team is the Project Manager. I keep the team on track to succeed and balance communication amongst the three other engineering students, three business students, two advisors and our partners. I also focus on curriculum development and help on the electrical team. Our first prototype went to Ghana in October and was tested by the African Women Advocacy Project&lt;/p&gt;
+&lt;center&gt;&lt;img src=&quot;images/projects/ADE/ADEinGhana.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt; &lt;/p&gt;
 
-&lt;p&gt;For my Senior Capstone Project in Engineering, I am building a design application for children aged four to fourteen in conjunction with DS SolidWorks. I am one of the four Software Engineers on the project as also play the role as the Product Owner As the Product Owner, I ensure that the team is going on the correct path to meet the team’s goals, our user’s needs and DS SolidWorks’ objectives. This includes convincing DS SolidWorks to change their designs based on evidence corroborated by our user research. While the product is under NDA, I can divulge that it will expose students to the creative aspects of engineering, which may encourage females and underrepresented groups to pursue engineering study. The demographic is kids 4 to 14 years of age, from Kindergarten to 8th grade. The app should inspire the kids and prepare them to tackle their own projects. This application will open young eyes to the design process, motivating and preparing them to tackle their own projects. &lt;/p&gt;
+&lt;p&gt;In the middle of November and the beginning of December, I tested our prototypes and curriculum in two Massachusetts classrooms and observed as each teacher taught our lesson and students interacted with the technology. &lt;/p&gt;
+&lt;center&gt;&lt;img src=&quot;images/projects/ADE/framingham.jpeg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
+
+&lt;p&gt;Soon, we will be launching our fundraising campaign to raise funds for this project soon.
+&lt;!-- * [Check out our product site](http://brightbox1.weebly.com/) --&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Teammates: Mary Morse, Kiki Chandra, Subhash Gubba, Yasmine Idriss, Forrest Landy, Makhimba Simon&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Advisor: &lt;a href=&quot;http://www.olin.edu/faculty/profile/siddhartan-govindasamy/&quot;&gt;Siddhartan Govindasamy&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;img src=&quot;images/projects/ADE/ADEteam.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
+
+</description>
+        <pubDate>Fri, 13 May 2016 00:00:00 -0400</pubDate>
+        <link>http://jamiegorson.com/Project16.html</link>
+        <guid isPermaLink="true">http://jamiegorson.com/Project16.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>15: Current Project: Mobile Design App for Kids</title>
+        <description>&lt;center&gt;&lt;img src=&quot;images/projects/scopeTeamPhoto.jpg&quot; width=&quot;70%&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;For my capstone project in engineering, I am building a design application for children aged six to fourteen in conjunction with DS SolidWorks. Along with developing software, I am leading the user research and managing the collaboration with the company. We conducted the user studies to aid us in developing a product which will better target a young audience, not currently reached by SolidWorks. While the details of the product are confidential, I can reveal that it will expose students to the creative aspects of engineering and the design process. Working on this project is a small step to realizing my goals as I am developing an application to prepare users to tackle their own projects. My capstone experience implements research theories into practical applications and brings the project-based learning models a step closer to the average classroom. &lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -26,38 +61,6 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 12 May 2016 00:00:00 -0400</pubDate>
-        <link>http://jamiegorson.com/Project16.html</link>
-        <guid isPermaLink="true">http://jamiegorson.com/Project16.html</guid>
-        
-        
-        <category>projects</category>
-        
-      </item>
-    
-      <item>
-        <title>15: Current Project: Hands-on Learning for Rural India</title>
-        <description>&lt;p&gt;I’m currently working on a project in an Affordable Design and Entrepreneurship course to increase hands-on learning and curiosity in STEM fields in India and Ghana with business and engineering students and professors. We are working with two partners, &lt;a href=&quot;http://www.agastya.org/&quot;&gt;Agastya International Foundation&lt;/a&gt; and &lt;a href=&quot;http://www.africanwomenadvocacyproject.org/&quot;&gt;African Women’s Advocacy Project&lt;/a&gt;. We are developing a ray projector, called the Bright Box, and curriculum as material for the teaching of optics. In January, we will be going to India to deliver the first iteration of this product. This project is going to be included in Agastya’s Lab in a Box program, which brings hands-on science curriculum to rural, underserved schools in India.  In the Lab in a Box program, a trainer brings the curriculum and projector to the teacher and instructs them on how to run the labs.  Our eventual goal is to send 600 boxes to the Lab in a Box program reaching across India, as well as a few hundred to African Women’s Advocacy Group in Ghana. &lt;/p&gt;
-
-&lt;p&gt;We have made great progress this semester both in development of the box and curriculum. I am the Project Manager of the team, so part of my role is to coordinate the three other engineering students, the three business students, two advisors and the class. I have been working on the electrical circuit and spend most of my effort developing the curriculum.&lt;/p&gt;
-
-&lt;p&gt;Our first prototype went to Ghana in October and was tested by the African Women’s Advocacy Project&lt;/p&gt;
-&lt;center&gt;&lt;img src=&quot;images/projects/ADE/ADEinGhana.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
-
-&lt;p&gt;In the middle of November and the beginning of December, we brought the BrightBox to local classrooms to observe the students interacting with the box as well as the completeness of the teacher instructions.&lt;/p&gt;
-&lt;center&gt;&lt;img src=&quot;images/projects/ADE/framingham.jpeg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
-
-&lt;p&gt;We will be launching our Fundraising Campaign to raise funds for this project soon!
-&lt;!-- * [Check out our product site](http://brightbox1.weebly.com/) --&gt;&lt;/p&gt;
-
-&lt;p&gt;Teammates: Mary Morse, Kiki Chandra, Subhash Gubba, Yasmine Idriss, Forrest Landy, Makhimba Simon&lt;/p&gt;
-
-&lt;p&gt;Advisor: &lt;a href=&quot;http://www.olin.edu/faculty/profile/siddhartan-govindasamy/&quot;&gt;Siddhartan Govindasamy&lt;/a&gt;&lt;/p&gt;
-&lt;center&gt;&lt;img src=&quot;images/projects/ADE/ADEteam.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
-
-</description>
-        <pubDate>Wed, 11 May 2016 00:00:00 -0400</pubDate>
         <link>http://jamiegorson.com/Project15.html</link>
         <guid isPermaLink="true">http://jamiegorson.com/Project15.html</guid>
         
@@ -158,7 +161,7 @@ I ran workshops for the teaching team where they used the design process to deve
     
       <item>
         <title>10: Discrete Math Evaluation of the Enigma Machine</title>
-        <description>&lt;p&gt;For a discrete mathmatics course, my team and I evaluated the Enigma machine. The Enigma machine was used by the Germans to encode messages that were to be sent via radio in World War Two. WW2 may have ended differently if the code was not cracked. The code was impressive, but the Germans made mistakes in implementing it, which led to its downfall. We calculated the total possible encodings that was possible with the Enigma machine and then compared it to the number of encodings possibe with all of the mistakes the Germans made using discrete math principles.&lt;/p&gt;
+        <description>&lt;p&gt;For a discrete mathmatics course, my team and I evaluated the Enigma machine. The Enigma machine was used by the Germans to encode messages that were to be sent via radio in World War Two. WWII may have ended differently if the code was not cracked. The code was impressive, but the Germans made mistakes in implementing it, which led to its downfall. We calculated the total  encodings that was possible with the Enigma machine and then compared it to the number of encodings possibe with all of the mistakes the Germans made using discrete math principles.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/s/8bddzbijhv4uj9j/Enigma_Machine.pdf?dl=0&quot;&gt;See an explanation of our work!&lt;/a&gt;&lt;/li&gt;
@@ -182,7 +185,7 @@ I ran workshops for the teaching team where they used the design process to deve
 &lt;p&gt;&lt;br /&gt; &lt;/p&gt;
 
 &lt;p&gt;For Olin’s User Oriented Collaborative Design course, I worked on a team to understand and design for volunteer physicians. In a semester, we were tasked to design something which would make a significant impact on the lives of Volunteer Physicians. The team, four other students and myself, engaged in a User Centered Design process where we challenged ourselves to epathize and understand our users. We visited clinics and hospitals, interviewed physicians and met with anyone who could be related. We identified areas of opportunities, which helped us build personas and journeys to extract deeper meaning. Once we had a full understanding of the values and needs of our users, ferociously ideated and strategically codesigned.
-In the end, we developed the S2, an intellegent note-taking add-on to a stethosocope. Volunteer physicians resent the overhaul of their field by technology and reject doctors who spend their appointment time glued to the computer instead of interacting with patients. We were able to turn their apprehension towards technology into an asset by designing a device which would help the physicians increase time interacting with their patient.&lt;/p&gt;
+In the end, we developed the S2, an intelligent note-taking add-on to a stethoscope. Many volunteer physicians resent the overhaul of their field by technology and reject doctors who spend their appointment time glued to the computer instead of interacting with patients. We were able to turn their apprehension towards technology into an asset by designing a device which would help the physicians increase time interacting with their patient.&lt;/p&gt;
 
 &lt;h4&gt; Below is our slide deck which details the design processes we went through &lt;/h4&gt;
 
@@ -498,7 +501,7 @@ In the end, we developed the S2, an intellegent note-taking add-on to a stethoso
 &lt;/div&gt;
 
 &lt;!-- Add carusel of images from slide deck --&gt;
-&lt;p&gt;Teammates: &lt;a href=&quot;eqwang.weebly.com&quot;&gt;Emily Wang&lt;/a&gt;, Justin Poh, &lt;a href=&quot;http://linkedin.com/in/mcieminski&quot;&gt;Mitchell Cieminski&lt;/a&gt;, Jack Fan&lt;/p&gt;
+&lt;p&gt;Teammates: &lt;a href=&quot;http://eqwang.weebly.com&quot;&gt;Emily Wang&lt;/a&gt;, Justin Poh, &lt;a href=&quot;http://linkedin.com/in/mcieminski&quot;&gt;Mitchell Cieminski&lt;/a&gt;, Jack Fan&lt;/p&gt;
 </description>
         <pubDate>Tue, 20 May 2014 00:00:00 -0400</pubDate>
         <link>http://jamiegorson.com/Project8.html</link>
@@ -537,13 +540,13 @@ In the end, we developed the S2, an intellegent note-taking add-on to a stethoso
       <item>
         <title>6: Robotic Player Guitar</title>
         <description>&lt;p&gt;&lt;img src=&quot;images/projects/newGuitar.jpg&quot; width=&quot;40%&quot; align=&quot;right&quot; /&gt;
-I, along with a group of mechanical and electrical engineers, decided to take a class project to the next level. We began this project for a Principles of Engineering course, which required us to create something with an electrical, mechanical and software component. We decided to make a Robotic Player Guitar. I am the software lead on the team and in charge of the interface, backend and embedded system. Before even starting the project, our professor warned us that we were taking on a task much greater than the class required or that he thought we could handle in this time period. But, we were driven to make this work. This may be why after it successfully worked for the class, we are still improving it (two years later) for permanent display at Olin College.&lt;/p&gt;
+I, along with a group of mechanical and electrical engineers, decided to take a class project to the next level. We began this project for a Principles of Engineering course, which required us to create something with an electrical, mechanical and software component. We decided to make a Robotic Player Guitar. I am the software lead on the team and in charge of the interface, backend and embedded system. Before even starting the project, our professor warned us that we were taking on a task much greater than the class required. He was even unsure that the task was feasible in the time period allotted. But, we were motivated by the potential of the product and decided to face the challenge. After a greuling eight weeks, the result impressed the student body and faculty. Because of this drive, we are still improving on it (two years later) for permanent display at Olin College.&lt;/p&gt;
 
-&lt;p&gt;Our first iteration was driven by an Arduino Uno and controlled by a python backend. I wrote code to interpret Guitar Tablature, communicate across a serial port to an Arduino, convert it into a binary string and control the actuators and solinoids via SPI.&lt;/p&gt;
+&lt;p&gt;Our first iteration (for the class project) was driven by an Arduino Uno and controlled by a python backend. I wrote code to interpret Guitar Tablature, communicate across a serial port to an Arduino, convert it into a binary string and control the actuators and solinoids via SPI.&lt;/p&gt;
 
-&lt;p&gt;The second iteration takes MIDI files as inputs and uses an Arduino Due to provide more power.&lt;/p&gt;
+&lt;p&gt;The second iteration (first improvement after the class) ongoing takes MIDI files as inputs and uses an Arduino Due to provide more power.&lt;/p&gt;
 
-&lt;p&gt;The current iteration uses a NodeJS Web App and is controlled by a RaspberryPi. &lt;/p&gt;
+&lt;p&gt;The current iteration (once completed, will be on display at Olin) uses a NodeJS Web App and is controlled by a RaspberryPi. &lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.rockin-robot.com&quot;&gt;Check out our website for all of the details&lt;/a&gt;&lt;/li&gt;
@@ -574,16 +577,14 @@ I, along with a group of mechanical and electrical engineers, decided to take a 
         <description>&lt;center&gt;&lt;img src=&quot;images/projects/EMMotor.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt; &lt;/p&gt;
 
-&lt;p&gt;For a ‘Physics: Electricity and Magnetism’ course, my partner and I designed and executed a classroom lesson and activity for third graders. Through easily comprehendible demonstrations, we showed them the principles of electricity and magnetism in order to explain how a motor worked.  Then students then each built their own motor by putting the principles they just learned into action. We ran this curricula for three classes. By the end of the lesson, the students had a basic understanding of the workings of a motor. Above, you can see and example of the motor that they built using the activity instructions, below. Below, you can see my partner Rahil working with students at the school.&lt;/p&gt;
+&lt;p&gt;For a ‘Physics: Electricity and Magnetism’ course, my partner and I designed and executed a classroom lesson and activity for third graders. Through easily comprehendible demonstrations, we showed them the principles of electricity and magnetism in order to explain how a motor worked.  Then each student built their own motor by putting the principles they just learned into action. By the end of the lesson, the students had a basic understanding of the workings of a motor. We ran this curricula for three classes. Above, you can see an example of the motor that students built using the activity instructions, linked below.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/s/cfb0ia273m1k4q5/EMLessonPlan.pdf?dl=0&quot;&gt;See our lesson plan&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/s/1ve2jb65aaeil5o/lab_instructions.pdf?dl=0&quot;&gt;See our activity instructions&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;center&gt;&lt;img src=&quot;images/projects/EMRahilHelping.jpg&quot; width=&quot;30%&quot; /&gt;&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
-&lt;center&gt;&lt;img src=&quot;images/thumbnails/5.jpg&quot; width=&quot;30%&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;images/projects/EMRahilHelping.jpg&quot; width=&quot;30%&quot; /&gt;&lt;img src=&quot;images/thumbnails/5.jpg&quot; width=&quot;30%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt; &lt;/p&gt;
 
 &lt;p&gt;Teammate: Rahil Dedhia&lt;/p&gt;
@@ -599,7 +600,7 @@ I, along with a group of mechanical and electrical engineers, decided to take a 
     
       <item>
         <title>4: FPGA Piano</title>
-        <description>&lt;p&gt;For a computer architecture coure, we made and FPGA piano. We programed an FPGA to play simple music. We attempted to implement two different kinds of modes: a free-play mode where the user was able to play a combination of seven different notes in a major scale and a song mode where a predetermined song would play. In order to produce different notes, we divided the FPGA’s clock by different values which yielded the various notes we wanted. We opted to use seven separate GPIO pins on the FPGA to produce notes, and we were able to play all the notes using a single speaker by building a simple analog signal adder. &lt;/p&gt;
+        <description>&lt;p&gt;For a computer architecture coure, we made an FPGA piano. We programmed an FPGA to play simple music. We attempted to implement two different kinds of modes: a free-play mode where the user was able to play a combination of seven different notes in a major scale and a song mode where a predetermined song would play. In order to produce different notes, we divided the FPGA’s clock by different values which yielded the various notes we wanted. We opted to use seven separate GPIO pins on the FPGA to produce notes, and we were able to play all the notes using a single speaker by building a simple analog signal adder. &lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://wikis.olin.edu/ca/doku.php?id=projects:fpga_piano&quot;&gt;Check out our Wiki with complete project details&lt;/a&gt;&lt;/li&gt;

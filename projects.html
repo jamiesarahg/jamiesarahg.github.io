@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-<h1 class="pageTitle"> Current Projects </h1>
+<h1 class="pageTitle"> Projects </h1>
+
+<h3> Current Projects </h3>
 
 {% for post in site.posts %}
   {% if post.current == "True" %}
@@ -19,7 +21,7 @@ layout: default
 {% endfor %}
 <br>
 
-<h1 class="pageTitle"> Past Projects </h1>
+<h3> Past Projects </h3>
 
 
 {% for post in site.posts %}
