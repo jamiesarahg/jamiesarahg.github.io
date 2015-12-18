@@ -5,8 +5,8 @@
     <description>My Portfolio</description>
     <link>http://jamiegorson.com/</link>
     <atom:link href="http://jamiegorson.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 16 Dec 2015 15:48:41 -0500</pubDate>
-    <lastBuildDate>Wed, 16 Dec 2015 15:48:41 -0500</lastBuildDate>
+    <pubDate>Thu, 17 Dec 2015 19:00:15 -0500</pubDate>
+    <lastBuildDate>Thu, 17 Dec 2015 19:00:15 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -161,7 +161,7 @@ I ran workshops for the teaching team where they used the design process to deve
     
       <item>
         <title>10: Discrete Math Evaluation of the Enigma Machine</title>
-        <description>&lt;p&gt;For a discrete mathmatics course, my team and I evaluated the Enigma machine. The Enigma machine was used by the Germans to encode messages that were to be sent via radio in World War Two. WWII may have ended differently if the code was not cracked. The code was impressive, but the Germans made mistakes in implementing it, which led to its downfall. We calculated the total  encodings that was possible with the Enigma machine and then compared it to the number of encodings possibe with all of the mistakes the Germans made using discrete math principles.&lt;/p&gt;
+        <description>&lt;p&gt;For a discrete mathmatics course, my team and I evaluated the Enigma machine. The Enigma machine was used by the Germans to encode messages that were to be sent via radio in World War II. WWII may have ended differently if the code was not cracked. The code was impressive, but the Germans made mistakes in implementing it, which led to its downfall. We calculated the total number of encodings that were possible with the Enigma machine and then compared it to the number of encodings possibe with all of the mistakes the Germans made using discrete math principles.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/s/8bddzbijhv4uj9j/Enigma_Machine.pdf?dl=0&quot;&gt;See an explanation of our work!&lt;/a&gt;&lt;/li&gt;
@@ -184,14 +184,14 @@ I ran workshops for the teaching team where they used the design process to deve
         <description>&lt;center&gt;&lt;img src=&quot;images/projects/UOCDposter.png&quot; width=&quot;95%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt; &lt;/p&gt;
 
-&lt;p&gt;For Olin’s User Oriented Collaborative Design course, I worked on a team to understand and design for volunteer physicians. In a semester, we were tasked to design something which would make a significant impact on the lives of Volunteer Physicians. The team, four other students and myself, engaged in a User Centered Design process where we challenged ourselves to epathize and understand our users. We visited clinics and hospitals, interviewed physicians and met with anyone who could be related. We identified areas of opportunities, which helped us build personas and journeys to extract deeper meaning. Once we had a full understanding of the values and needs of our users, ferociously ideated and strategically codesigned.
-In the end, we developed the S2, an intelligent note-taking add-on to a stethoscope. Many volunteer physicians resent the overhaul of their field by technology and reject doctors who spend their appointment time glued to the computer instead of interacting with patients. We were able to turn their apprehension towards technology into an asset by designing a device which would help the physicians increase time interacting with their patient.&lt;/p&gt;
+&lt;p&gt;For Olin’s User Oriented Collaborative Design course, I worked on a team to understand and design for volunteer physicians. In a semester, we were tasked to design something which would make a significant impact on the lives of Volunteer Physicians. The team, four other students and myself, engaged in a User Centered Design process where we challenged ourselves to epathize and understand our users. We visited clinics and hospitals, interviewed physicians and investigated other stakeholders. We identified areas of opportunities, which helped us build frameworks, like personas and journeys, to extract deeper meaning. Once we had a full understanding of the values and needs of our users, we ferociously ideated and strategically codesigned.
+In the end, we developed the S2, an intelligent note-taking add-on to a stethoscope. Many volunteer physicians resent the overhaul of their field by technology and reject doctors who spend their appointment time glued to the computer instead of interacting with patients. We were able to turn their apprehension towards technology into an asset by designing a device which would help the physicians increase time interacting with their patients.&lt;/p&gt;
 
 &lt;h4&gt; Below is our slide deck which details the design processes we went through &lt;/h4&gt;
 
 &lt;div id=&quot;featuredProjectsCarousel&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
   &lt;!-- Indicators --&gt;
-  &lt;ol class=&quot;carousel-indicators&quot;&gt;
+&lt;!--   &lt;ol class=&quot;carousel-indicators&quot;&gt;
     &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
     
       &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
@@ -290,202 +290,299 @@ In the end, we developed the S2, an intelligent note-taking add-on to a stethosc
     
       &lt;li data-target=&quot;#featuredProjectsCarousel&quot; data-slide-to=&quot;48&quot;&gt;&lt;/li&gt;
     
-  &lt;/ol&gt;
+  &lt;/ol&gt; --&gt;
   &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;
     &lt;div class=&quot;item active&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_1.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_1.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;p&gt; Slide 1 of 49 &lt;/p&gt;
+&lt;/center&gt;
     &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_2.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_2.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 2 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_3.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_3.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 3 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_4.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_4.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 4 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_5.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_5.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 5 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_6.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_6.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 6 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_7.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_7.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 7 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_8.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_8.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 8 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_9.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_9.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 9 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_10.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_10.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 10 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_11.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_11.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 11 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_12.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_12.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 12 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_13.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_13.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 13 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_14.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_14.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 14 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_15.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_15.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 15 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_16.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_16.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 16 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_17.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_17.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 17 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_18.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_18.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 18 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_19.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_19.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 19 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_20.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_20.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 20 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_21.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_21.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 21 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_22.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_22.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 22 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_23.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_23.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 23 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_24.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_24.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 24 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_25.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_25.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 25 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_26.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_26.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 26 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_27.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_27.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 27 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_28.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_28.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 28 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_29.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_29.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 29 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_30.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_30.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 30 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_31.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_31.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 31 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_32.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_32.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 32 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_33.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_33.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 33 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_34.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_34.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 34 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_35.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_35.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 35 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_36.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_36.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 36 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_37.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_37.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 37 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_38.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_38.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 38 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_39.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_39.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 39 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_40.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_40.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 40 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_41.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_41.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 41 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_42.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_42.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 42 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_43.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_43.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 43 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_44.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_44.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 44 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_45.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_45.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 45 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_46.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_46.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 46 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_47.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_47.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 47 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_48.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_48.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 48 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
       &lt;div class=&quot;item&quot;&gt;
-      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_49.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt; &lt;/center&gt;
+      &lt;center&gt; &lt;img src=&quot;images/projects/UOCD/Final_Reflection_Slide_Deck_49.jpg&quot; class=&quot;featuredProjectCarouselImgUOCD&quot; /&gt;&lt;p&gt; Slide 49 of 49 &lt;/p&gt; &lt;/center&gt;
+            
+
       &lt;/div&gt;
     
   &lt;/div&gt;
@@ -540,13 +637,13 @@ In the end, we developed the S2, an intelligent note-taking add-on to a stethosc
       <item>
         <title>6: Robotic Player Guitar</title>
         <description>&lt;p&gt;&lt;img src=&quot;images/projects/newGuitar.jpg&quot; width=&quot;40%&quot; align=&quot;right&quot; /&gt;
-I, along with a group of mechanical and electrical engineers, decided to take a class project to the next level. We began this project for a Principles of Engineering course, which required us to create something with an electrical, mechanical and software component. We decided to make a Robotic Player Guitar. I am the software lead on the team and in charge of the interface, backend and embedded system. Before even starting the project, our professor warned us that we were taking on a task much greater than the class required. He was even unsure that the task was feasible in the time period allotted. But, we were motivated by the potential of the product and decided to face the challenge. After a greuling eight weeks, the result impressed the student body and faculty. Because of this drive, we are still improving on it (two years later) for permanent display at Olin College.&lt;/p&gt;
+I, along with a group of mechanical and electrical engineers, decided to take a class project to the next level. We began this project for a Principles of Engineering course, which required us to create something with an electrical, mechanical and software component. We decided to make a Robotic Player Guitar. I am the software lead on the team and in charge of the interface, backend and embedded system. Before even starting the project, our professor warned us that we were taking on a task much greater than the class required. He was even unsure that the task was feasible in the time period allotted. But, we were motivated by the potential of the product and decided to face the challenge. After a grueling eight weeks, the result impressed the student body and faculty. Because of this drive, we are still improving on it (two years later) for permanent display at Olin College.&lt;/p&gt;
 
 &lt;p&gt;Our first iteration (for the class project) was driven by an Arduino Uno and controlled by a python backend. I wrote code to interpret Guitar Tablature, communicate across a serial port to an Arduino, convert it into a binary string and control the actuators and solinoids via SPI.&lt;/p&gt;
 
 &lt;p&gt;The second iteration (first improvement after the class) ongoing takes MIDI files as inputs and uses an Arduino Due to provide more power.&lt;/p&gt;
 
-&lt;p&gt;The current iteration (once completed, will be on display at Olin) uses a NodeJS Web App and is controlled by a RaspberryPi. &lt;/p&gt;
+&lt;p&gt;The current iteration upon completion, will be on display at Olin. It uses a NodeJS Web App and is controlled by a RaspberryPi. &lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.rockin-robot.com&quot;&gt;Check out our website for all of the details&lt;/a&gt;&lt;/li&gt;
