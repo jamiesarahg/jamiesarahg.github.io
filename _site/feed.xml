@@ -5,15 +5,15 @@
     <description>My Portfolio</description>
     <link>http://jamiegorson.com/</link>
     <atom:link href="http://jamiegorson.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 17 Dec 2015 19:06:57 -0500</pubDate>
-    <lastBuildDate>Thu, 17 Dec 2015 19:06:57 -0500</lastBuildDate>
+    <pubDate>Fri, 18 Dec 2015 17:53:51 -0500</pubDate>
+    <lastBuildDate>Fri, 18 Dec 2015 17:53:51 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>16: Current Project: Hands-on Learning for Rural India</title>
         <description>&lt;p&gt;I’m currently working on a project in an Affordable Design and Entrepreneurship course to increase hands-on learning and curiosity in STEM fields in India and Ghana with business and engineering students and professors. We are working with two partners, &lt;a href=&quot;http://www.agastya.org/&quot;&gt;Agastya International Foundation&lt;/a&gt; and &lt;a href=&quot;http://www.africanwomenadvocacyproject.org/&quot;&gt;African Women Advocacy Project&lt;/a&gt;. We are developing a ray projector, called the Brightbox, and curriculum as material for the teaching of optics. In January, we will be going to India to deliver the first iteration of this product. This project is going to be included in Agastya’s &lt;i&gt;Lab in a Box&lt;/i&gt; program, which brings hands-on science curriculum to rural, underserved schools in India.  In the Lab in a Box program, a trainer brings the curriculum and projector to the teacher and instructs them on how to run the labs.  Our eventual goal is to send 600 boxes to be deployed in the Lab in a Box program, to be distributed across India, as well as a few hundred to African Women Advocacy Group in Ghana. &lt;/p&gt;
 
-&lt;p&gt;We have made great progress this semester both in development of the box and curriculum. My role on the team is the Project Manager. I keep the team on track to succeed and balance communication amongst the three other engineering students, three business students, two advisors and our partners. I also focus on curriculum development and help on the electrical team. Our first prototype went to Ghana in October and was tested by the African Women Advocacy Project&lt;/p&gt;
+&lt;p&gt;We have made great progress this semester both in development of the box and curriculum. My role on the team is the Project Manager. I keep the team on track to succeed and balance communication amongst the three other engineering students, three business students, two advisors and our partners. I also focus on curriculum development and help on the electrical team. Our first prototype went to Ghana in October and was tested by the African Women Advocacy Project.&lt;/p&gt;
 &lt;center&gt;&lt;img src=&quot;images/projects/ADE/ADEinGhana.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt; &lt;/p&gt;
 
@@ -75,9 +75,10 @@
 
 &lt;h2&gt; AudioDog - Machine Learning and Localization from Audio Data &lt;/h2&gt;
 
-&lt;p&gt;For our final, we are making a robot which recognizes different commands based on the emotion in the voice and follows different actions based on the command, as a dog would. One of those actions is localizing the direction of the noise and moving towards it. &lt;/p&gt;
+&lt;p&gt;For our final, we are making a robot which recognizes different commands based on the emotion in the voice and follows different actions based on the command, as a dog would. One of those actions is localizing the direction of the noise and moving towards it. &lt;a href=&quot;https://teamaudiodog.weebly.com&quot;&gt;Check out our website!&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://teamaudiodog.weebly.com&quot;&gt;Check out our website!&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;video-container&quot;&gt;
+&lt;iframe width=&quot;854&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/GRAciQu0_no&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/jamiesarahg/AudioDog&quot;&gt;GitHub repo&lt;/a&gt;&lt;/p&gt;
 
