@@ -5,24 +5,25 @@
     <description>My Portfolio</description>
     <link>http://jamiegorson.com/</link>
     <atom:link href="http://jamiegorson.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 18 Dec 2015 17:53:51 -0500</pubDate>
-    <lastBuildDate>Fri, 18 Dec 2015 17:53:51 -0500</lastBuildDate>
+    <pubDate>Sat, 23 Jan 2016 13:55:17 -0500</pubDate>
+    <lastBuildDate>Sat, 23 Jan 2016 13:55:17 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>16: Current Project: Hands-on Learning for Rural India</title>
-        <description>&lt;p&gt;I’m currently working on a project in an Affordable Design and Entrepreneurship course to increase hands-on learning and curiosity in STEM fields in India and Ghana with business and engineering students and professors. We are working with two partners, &lt;a href=&quot;http://www.agastya.org/&quot;&gt;Agastya International Foundation&lt;/a&gt; and &lt;a href=&quot;http://www.africanwomenadvocacyproject.org/&quot;&gt;African Women Advocacy Project&lt;/a&gt;. We are developing a ray projector, called the Brightbox, and curriculum as material for the teaching of optics. In January, we will be going to India to deliver the first iteration of this product. This project is going to be included in Agastya’s &lt;i&gt;Lab in a Box&lt;/i&gt; program, which brings hands-on science curriculum to rural, underserved schools in India.  In the Lab in a Box program, a trainer brings the curriculum and projector to the teacher and instructs them on how to run the labs.  Our eventual goal is to send 600 boxes to be deployed in the Lab in a Box program, to be distributed across India, as well as a few hundred to African Women Advocacy Group in Ghana. &lt;/p&gt;
+        <description>&lt;center&gt;&lt;img src=&quot;images/projects/ADE/IMG_1632.JPG&quot; width=&quot;35%&quot; /&gt;&lt;img src=&quot;images/projects/ADE/IMG_1791.JPG&quot; width=&quot;35%&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;We have made great progress this semester both in development of the box and curriculum. My role on the team is the Project Manager. I keep the team on track to succeed and balance communication amongst the three other engineering students, three business students, two advisors and our partners. I also focus on curriculum development and help on the electrical team. Our first prototype went to Ghana in October and was tested by the African Women Advocacy Project.&lt;/p&gt;
-&lt;center&gt;&lt;img src=&quot;images/projects/ADE/ADEinGhana.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
+&lt;p&gt;I’m currently working on a project in an Affordable Design and Entrepreneurship program to increase the education standard in India and Ghana through developing a hands-on learning educational technology and accompanying curriculum.  My team of engineering and business students and professors are working with two partners, &lt;a href=&quot;http://www.agastya.org/&quot;&gt;Agastya International Foundation&lt;/a&gt; and &lt;a href=&quot;http://www.africanwomenadvocacyproject.org/&quot;&gt;African Women Advocacy Project&lt;/a&gt;. We are developing a ray projector, called the Brightbox, for teaching  optics. I recently returned from a trip to India where worked with manufacturers on the design of the ray projector and tested our device and curriculum in village classrooms. Above left, you can see students in village school working with the Brightbox. Above right, you can see students at Agastya in a lesson with the Brightbox. At the bottom, you can see me working with the team on the manufacturing. Our goal is to supply Agastya with the first 500 Brightboxes. We will then pass off the manufacturing to Agastya and they will continue to build 500 every year.&lt;/p&gt;
 
-&lt;p&gt;In the middle of November and the beginning of December, I tested our prototypes and curriculum in two Massachusetts classrooms and observed as each teacher taught our lesson and students interacted with the technology. &lt;/p&gt;
-&lt;center&gt;&lt;img src=&quot;images/projects/ADE/framingham.jpeg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
+&lt;center&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Soon, we will be launching our fundraising campaign to raise funds for this project soon.
 &lt;!-- * [Check out our product site](http://brightbox1.weebly.com/) --&gt;&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;images/projects/ADE/DSC01009.JPG&quot; width=&quot;70%&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -32,8 +33,6 @@
     &lt;p&gt;Advisor: &lt;a href=&quot;http://www.olin.edu/faculty/profile/siddhartan-govindasamy/&quot;&gt;Siddhartan Govindasamy&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
-&lt;center&gt;&lt;img src=&quot;images/projects/ADE/ADEteam.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
-
 </description>
         <pubDate>Fri, 13 May 2016 00:00:00 -0400</pubDate>
         <link>http://jamiegorson.com/Project16.html</link>
@@ -53,7 +52,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;Teammates: Ben Kahle, Nicole Rifkin, Thomas Chen&lt;/p&gt;
+    &lt;p&gt;Teammates: Ben Kahle, Nicole Rifkin, Thomas Chen, Alison Berkowitz&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Advisor: &lt;a href=&quot;http://www.olin.edu/faculty/profile/c-jason-woodard/&quot;&gt;Jason Woodard&lt;/a&gt;&lt;/p&gt;
