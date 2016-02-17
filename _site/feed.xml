@@ -5,8 +5,8 @@
     <description>My Portfolio</description>
     <link>http://jamiegorson.com/</link>
     <atom:link href="http://jamiegorson.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 23 Jan 2016 13:55:17 -0500</pubDate>
-    <lastBuildDate>Sat, 23 Jan 2016 13:55:17 -0500</lastBuildDate>
+    <pubDate>Wed, 17 Feb 2016 09:41:34 -0500</pubDate>
+    <lastBuildDate>Wed, 17 Feb 2016 09:41:34 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -48,7 +48,9 @@
         <description>&lt;center&gt;&lt;img src=&quot;images/projects/scopeTeamPhoto.jpg&quot; width=&quot;70%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;For my capstone project in engineering, I am building a design application for children aged six to fourteen in conjunction with DS SolidWorks. Along with developing software, I am leading the user research and managing the collaboration with the company. We conducted the user studies to aid us in developing a product which will better target a young audience, not currently reached by SolidWorks. While the details of the product are confidential, I can reveal that it will expose students to the creative aspects of engineering and the design process. Working on this project is a small step to realizing my goals as I am developing an application to prepare users to tackle their own projects. My capstone experience implements research theories into practical applications and brings the project-based learning models a step closer to the average classroom. &lt;/p&gt;
+&lt;p&gt;For my capstone project in engineering, I am building a design application for children aged six to fourteen in conjunction with DS SolidWorks. Along with developing the software, I am leading the user research and managing the collaboration with the company. We conducted the user studies to aid us in developing a product which will better target a young audience, not currently reached by SolidWorks. My capstone experience implements research theories into practical applications and brings the project-based learning models a step closer to the average classroom. &lt;/p&gt;
+
+&lt;p&gt;At Solidworks World in January, Dassaut announced our project. We are creating Capture It, the brainstorming application in Apps for Kids. &lt;a href=&quot;http://appsforkids.solidworks.com/&quot;&gt;Check it out here!&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -656,9 +658,8 @@ I, along with a group of mechanical and electrical engineers, decided to take a 
 
 &lt;p&gt;The current iteration upon completion, will be on display at Olin. It uses a NodeJS Web App and is controlled by a RaspberryPi. &lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.rockin-robot.com&quot;&gt;Check out our website for all of the details&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;!-- * [Check out our website for all of the details](http://www.rockin-robot.com)
+ --&gt;
 
 &lt;div class=&quot;video-container&quot;&gt;
 &lt;iframe class=&quot;video&quot; width=&quot;854&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/KJzecia7yO0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
