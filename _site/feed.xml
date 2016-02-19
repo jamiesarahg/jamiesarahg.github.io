@@ -5,8 +5,8 @@
     <description>My Portfolio</description>
     <link>http://jamiegorson.com/</link>
     <atom:link href="http://jamiegorson.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 17 Feb 2016 09:41:34 -0500</pubDate>
-    <lastBuildDate>Wed, 17 Feb 2016 09:41:34 -0500</lastBuildDate>
+    <pubDate>Fri, 19 Feb 2016 11:55:25 -0500</pubDate>
+    <lastBuildDate>Fri, 19 Feb 2016 11:55:25 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -658,8 +658,7 @@ I, along with a group of mechanical and electrical engineers, decided to take a 
 
 &lt;p&gt;The current iteration upon completion, will be on display at Olin. It uses a NodeJS Web App and is controlled by a RaspberryPi. &lt;/p&gt;
 
-&lt;!-- * [Check out our website for all of the details](http://www.rockin-robot.com)
- --&gt;
+&lt;!-- * [Check out our website for all of the details](http://www.rockin-robot.com) --&gt;
 
 &lt;div class=&quot;video-container&quot;&gt;
 &lt;iframe class=&quot;video&quot; width=&quot;854&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/KJzecia7yO0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
