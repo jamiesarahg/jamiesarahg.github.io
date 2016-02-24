@@ -55,11 +55,11 @@
               <a href="/projects" role="button" aria-haspopup="true" aria-expanded="false">Projects <span class="caret"></span></a>
               <ul class="dropdown-menu">
                 
-                  <li><a href="/Project16.html"> Hands-on Learning for Rural India</a></li>
+                  <li><a href="/Project13.html"> Computational Robotics</a></li>
+                
+                  <li><a href="/5Project16.html"> Hands-on Learning for Rural India</a></li>
                 
                   <li><a href="/Project15.html"> Mobile Design App for Kids</a></li>
-                
-                  <li><a href="/Project13.html"> Computational Robotics</a></li>
                 
                   <li><a href="/Project11.html"> Bringing Design Thinking to Belgium</a></li>
                 
@@ -177,6 +177,27 @@
           return http.status;
       }
       
+          var proj_num = "17";
+          var proj_id = "#"+proj_num
+          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
+          var blank_img_url = "images/blank.jpg";
+
+        if(urlExists(proj_img_url) == 200) {
+            $(proj_id+'-img').attr("src", proj_img_url);
+        }
+        else {
+            $(proj_id+'-img').attr("src", blank_img_url);
+        }
+
+        $(".tile-container").hover(function(){
+          $(this).find(".tile-text").style.display = "block";
+        });
+          $(proj_id+'-img').width(200);
+          $(proj_id+'-img').height(150);
+          $(proj_id+'-text').hover(function(){
+            $( this ).find( ".tile-para" ).toggle();
+          });
+        
           var proj_num = "16";
           var proj_id = "#"+proj_num
           var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
@@ -199,27 +220,6 @@
           });
         
           var proj_num = "15";
-          var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
-          var blank_img_url = "images/blank.jpg";
-
-        if(urlExists(proj_img_url) == 200) {
-            $(proj_id+'-img').attr("src", proj_img_url);
-        }
-        else {
-            $(proj_id+'-img').attr("src", blank_img_url);
-        }
-
-        $(".tile-container").hover(function(){
-          $(this).find(".tile-text").style.display = "block";
-        });
-          $(proj_id+'-img').width(200);
-          $(proj_id+'-img').height(150);
-          $(proj_id+'-text').hover(function(){
-            $( this ).find( ".tile-para" ).toggle();
-          });
-        
-          var proj_num = "13";
           var proj_id = "#"+proj_num
           var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
