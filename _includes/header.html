@@ -12,13 +12,13 @@
       </div>
       <div class="collapse navbar-collapse navbar-ex1-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav navbar-right">
-          {% if page.url == "/index" %}
+          {% if page.url == "" %}
             <li class="navBarItem active">
           {% endif %}
-          {% if page.url != "/index" %}
+          {% if page.url != "" %}
             <li class="navBarItem">
           {% endif %}
-            <a href="/index">About</a></li>
+            <a href="">About</a></li>
           
           {% if page.url == "/projects" %}
            <li class="dropdown navBarItem active">
