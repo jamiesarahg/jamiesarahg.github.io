@@ -5,12 +5,45 @@
     <description>My Portfolio</description>
     <link>http://jamiegorson.com/</link>
     <atom:link href="http://jamiegorson.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 24 Feb 2016 17:15:21 -0500</pubDate>
-    <lastBuildDate>Wed, 24 Feb 2016 17:15:21 -0500</lastBuildDate>
+    <pubDate>Wed, 24 Feb 2016 17:17:47 -0500</pubDate>
+    <lastBuildDate>Wed, 24 Feb 2016 17:17:47 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>17: Computational Robotics</title>
+        <title>16: Current Project: Hands-on Learning for Rural India</title>
+        <description>&lt;center&gt;&lt;img src=&quot;images/projects/ADE/IMG_1632.JPG&quot; width=&quot;35%&quot; /&gt;&lt;img src=&quot;images/projects/ADE/IMG_1791.JPG&quot; width=&quot;35%&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m currently working on a project in an Affordable Design and Entrepreneurship program to increase the education standard in India and Ghana through developing a hands-on learning educational technology and accompanying curriculum.  My team of engineering and business students and professors are working with two partners, &lt;a href=&quot;http://www.agastya.org/&quot;&gt;Agastya International Foundation&lt;/a&gt; and &lt;a href=&quot;http://www.africanwomenadvocacyproject.org/&quot;&gt;African Women Advocacy Project&lt;/a&gt;. We are developing a ray projector, called the Brightbox, for teaching  optics. I recently returned from a trip to India where worked with manufacturers on the design of the ray projector and tested our device and curriculum in village classrooms. Above left, you can see students in village school working with the Brightbox. Above right, you can see students at Agastya in a lesson with the Brightbox. At the bottom, you can see me working with the team on the manufacturing. Our goal is to supply Agastya with the first 500 Brightboxes. We will then pass off the manufacturing to Agastya and they will continue to build 500 every year.&lt;/p&gt;
+
+&lt;center&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Soon, we will be launching our fundraising campaign to raise funds for this project soon.&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;images/projects/ADE/DSC01009.JPG&quot; width=&quot;70%&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Teammates: Mary Morse, Kiki Chandra, Subhash Gubba, Yasmine Idriss, Forrest Landy, Makhimba Simon&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Advisor: &lt;a href=&quot;http://www.olin.edu/faculty/profile/siddhartan-govindasamy/&quot;&gt;Siddhartan Govindasamy&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 13 Feb 2016 00:00:00 -0500</pubDate>
+        <link>http://jamiegorson.com/Project16.html</link>
+        <guid isPermaLink="true">http://jamiegorson.com/Project16.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>13: Computational Robotics</title>
         <description>&lt;p&gt;Below are two projects featured from a Computational Robotics Course.&lt;/p&gt;
 
 &lt;h2&gt; AudioDog - Machine Learning and Localization from Audio Data &lt;/h2&gt;
@@ -41,41 +74,8 @@
 
 </description>
         <pubDate>Sun, 20 Dec 2015 00:00:00 -0500</pubDate>
-        <link>http://jamiegorson.com/Project17.html</link>
-        <guid isPermaLink="true">http://jamiegorson.com/Project17.html</guid>
-        
-        
-        <category>projects</category>
-        
-      </item>
-    
-      <item>
-        <title>16: Current Project: Hands-on Learning for Rural India</title>
-        <description>&lt;center&gt;&lt;img src=&quot;images/projects/ADE/IMG_1632.JPG&quot; width=&quot;35%&quot; /&gt;&lt;img src=&quot;images/projects/ADE/IMG_1791.JPG&quot; width=&quot;35%&quot; /&gt;&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;I’m currently working on a project in an Affordable Design and Entrepreneurship program to increase the education standard in India and Ghana through developing a hands-on learning educational technology and accompanying curriculum.  My team of engineering and business students and professors are working with two partners, &lt;a href=&quot;http://www.agastya.org/&quot;&gt;Agastya International Foundation&lt;/a&gt; and &lt;a href=&quot;http://www.africanwomenadvocacyproject.org/&quot;&gt;African Women Advocacy Project&lt;/a&gt;. We are developing a ray projector, called the Brightbox, for teaching  optics. I recently returned from a trip to India where worked with manufacturers on the design of the ray projector and tested our device and curriculum in village classrooms. Above left, you can see students in village school working with the Brightbox. Above right, you can see students at Agastya in a lesson with the Brightbox. At the bottom, you can see me working with the team on the manufacturing. Our goal is to supply Agastya with the first 500 Brightboxes. We will then pass off the manufacturing to Agastya and they will continue to build 500 every year.&lt;/p&gt;
-
-&lt;center&gt;&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Soon, we will be launching our fundraising campaign to raise funds for this project soon.&lt;/p&gt;
-
-&lt;center&gt;&lt;img src=&quot;images/projects/ADE/DSC01009.JPG&quot; width=&quot;70%&quot; /&gt;&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Teammates: Mary Morse, Kiki Chandra, Subhash Gubba, Yasmine Idriss, Forrest Landy, Makhimba Simon&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Advisor: &lt;a href=&quot;http://www.olin.edu/faculty/profile/siddhartan-govindasamy/&quot;&gt;Siddhartan Govindasamy&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 13 May 2015 00:00:00 -0400</pubDate>
-        <link>http://jamiegorson.com/Project16.html</link>
-        <guid isPermaLink="true">http://jamiegorson.com/Project16.html</guid>
+        <link>http://jamiegorson.com/Project13.html</link>
+        <guid isPermaLink="true">http://jamiegorson.com/Project13.html</guid>
         
         
         <category>projects</category>
