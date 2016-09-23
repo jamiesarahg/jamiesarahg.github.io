@@ -5,35 +5,33 @@
     <description>My Portfolio</description>
     <link>http://jamiegorson.com/</link>
     <atom:link href="http://jamiegorson.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 24 Feb 2016 17:17:47 -0500</pubDate>
-    <lastBuildDate>Wed, 24 Feb 2016 17:17:47 -0500</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <pubDate>Fri, 23 Sep 2016 08:31:50 -0700</pubDate>
+    <lastBuildDate>Fri, 23 Sep 2016 08:31:50 -0700</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>16: Current Project: Hands-on Learning for Rural India</title>
         <description>&lt;center&gt;&lt;img src=&quot;images/projects/ADE/IMG_1632.JPG&quot; width=&quot;35%&quot; /&gt;&lt;img src=&quot;images/projects/ADE/IMG_1791.JPG&quot; width=&quot;35%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;I’m currently working on a project in an Affordable Design and Entrepreneurship program to increase the education standard in India and Ghana through developing a hands-on learning educational technology and accompanying curriculum.  My team of engineering and business students and professors are working with two partners, &lt;a href=&quot;http://www.agastya.org/&quot;&gt;Agastya International Foundation&lt;/a&gt; and &lt;a href=&quot;http://www.africanwomenadvocacyproject.org/&quot;&gt;African Women Advocacy Project&lt;/a&gt;. We are developing a ray projector, called the Brightbox, for teaching  optics. I recently returned from a trip to India where worked with manufacturers on the design of the ray projector and tested our device and curriculum in village classrooms. Above left, you can see students in village school working with the Brightbox. Above right, you can see students at Agastya in a lesson with the Brightbox. At the bottom, you can see me working with the team on the manufacturing. Our goal is to supply Agastya with the first 500 Brightboxes. We will then pass off the manufacturing to Agastya and they will continue to build 500 every year.&lt;/p&gt;
+&lt;p&gt;In an Affordable Design and Entrepreneurship program I worked on a project to increase the education standard in India and Ghana through developing a hands-on learning educational technology and accompanying curriculum.  My team of engineering and business students and professors are working with two partners, &lt;a href=&quot;http://www.agastya.org/&quot;&gt;Agastya International Foundation&lt;/a&gt; and &lt;a href=&quot;http://www.africanwomenadvocacyproject.org/&quot;&gt;African Women Advocacy Project&lt;/a&gt;. We developed a ray projector, called the Brightbox, to encourage exploration and curiousity in students when teaching optics in middle-aged science classrooms. In the winter of 2016 I went  to India to work with manufacturers on the design of the ray projector and test our device and curriculum in village classrooms. Above left, you can see students in village school working with the Brightbox. Above right, you can see students at Agastya in a lesson with the Brightbox. At the bottom, you can see me working with the team on the manufacturing. The project is still ongoing at Olin with a goal to supply Agastya with the first 500 Brightboxes and provide the ability for Agastya to build 500 more every year.&lt;/p&gt;
 
 &lt;center&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Soon, we will be launching our fundraising campaign to raise funds for this project soon.&lt;/p&gt;
 
 &lt;center&gt;&lt;img src=&quot;images/projects/ADE/DSC01009.JPG&quot; width=&quot;70%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;Teammates: Mary Morse, Kiki Chandra, Subhash Gubba, Yasmine Idriss, Forrest Landy, Makhimba Simon&lt;/p&gt;
+    &lt;p&gt;Teammates: Molly Ronan, Mary Morse, Kiki Chandra, Alexis Kane, Revant Khullar, Xi Xi, Subhash Gubba, Anderson Ang, Eugene Goh, Yasmine Idriss, Forrest Landy, Makhimba Simon&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Advisor: &lt;a href=&quot;http://www.olin.edu/faculty/profile/siddhartan-govindasamy/&quot;&gt;Siddhartan Govindasamy&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Sat, 13 Feb 2016 00:00:00 -0500</pubDate>
+        <pubDate>Sat, 13 Feb 2016 00:00:00 -0800</pubDate>
         <link>http://jamiegorson.com/Project16.html</link>
         <guid isPermaLink="true">http://jamiegorson.com/Project16.html</guid>
         
@@ -73,7 +71,7 @@
 &lt;p&gt;Teammate: Nicole Rifkin&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 20 Dec 2015 00:00:00 -0500</pubDate>
+        <pubDate>Sun, 20 Dec 2015 00:00:00 -0800</pubDate>
         <link>http://jamiegorson.com/Project13.html</link>
         <guid isPermaLink="true">http://jamiegorson.com/Project13.html</guid>
         
@@ -87,9 +85,7 @@
         <description>&lt;center&gt;&lt;img src=&quot;images/projects/scopeTeamPhoto.jpg&quot; width=&quot;70%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;For my capstone project in engineering, I am building a design application for children aged six to fourteen in conjunction with DS SolidWorks. Along with developing the software, I am leading the user research and managing the collaboration with the company. We conducted the user studies to aid us in developing a product which will better target a young audience, not currently reached by SolidWorks. My capstone experience implements research theories into practical applications and brings the project-based learning models a step closer to the average classroom. &lt;/p&gt;
-
-&lt;p&gt;At Solidworks World in January, Dassaut announced our project. We are creating Capture It, the brainstorming application in Apps for Kids. &lt;a href=&quot;http://appsforkids.solidworks.com/&quot;&gt;Check it out here!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For my capstone project in engineering at Olin College, I built a design application for children aged six to fourteen for DS SolidWorks. We conducted user studies to aid us in developing a product to target a young audience, not currently reached by SolidWorks. Capture It is the brainstorming application in DS SolidWorks’s new product: Apps for Kids. It will soon be released in Beta with the other initial apps in Apps for Kids. &lt;a href=&quot;http://appsforkids.solidworks.com/&quot;&gt;Check it out here!&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -100,7 +96,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Tue, 12 May 2015 00:00:00 -0400</pubDate>
+        <pubDate>Tue, 12 May 2015 00:00:00 -0700</pubDate>
         <link>http://jamiegorson.com/Project15.html</link>
         <guid isPermaLink="true">http://jamiegorson.com/Project15.html</guid>
         
@@ -128,41 +124,41 @@ I worked directly with Inge Vervoot and her colleagues on a mission to engage en
 The first program that I worked with is &lt;a href=&quot;http://associatie.kuleuven.be/gezamenlijke-opleidingen/cse/folder_contents&quot;&gt; Community Service Engineering&lt;/a&gt;, or CSE. CSE has been developed by Inge and her colleague Jan to educate recent graduates or professionals as to being socially aware engineers. There is a larger, longer existing program called the Postgraduate Programme in Innovation and Entrepreneurship in Engineering which is also in the school of engineering and has a complementary mission. To enhance both programs, they decided to integrate them. As an outsider with experience in curriculum and user centered design, I gave my opinions and perspective to best integrate the programs to attract more students and give them the most beneficial educational opportunities. In order to best accomplish this, I  met with students from both programs who are working on a variety of projects as well as coaches, mentors and administrators of the programs. I attended the CSE classtime to get the best vantage point of the course. You can read my proposal &lt;a href=&quot;https://www.dropbox.com/s/o3n20tam538soha/FINALintegrationReport.pdf?dl=0&quot;&gt; here&lt;/a&gt;.
 &lt;br /&gt;
 &lt;br /&gt;
-The second program that I worked with is the Social Ingenious bachelor&#39;s degree supplement at Thomas Moore. At Thomas Moore University, they value having well rounded graduates. The project directors, Inge and Jan, are working to design a degree supplement for bachelor engineering students of some majors and campuses of Thomas Moore. This degree supplement will fit into their existing degree and only require one extra course of 3 ECTS. I conducted meetings with Jan and the department heads of the respective majors to understand the current curriculum set-up, the goals of the program and the opinions of both parties. I  also met with many students to see what they value and desire for their programs. You can read this proposal &lt;a href=&quot;https://www.dropbox.com/s/6bqx4wtqsdgn9e0/SocialIngeniusReport.pdf?dl=0&quot;&gt;here&lt;/a&gt;.
+The second program that I worked with is the Social Ingenious bachelor's degree supplement at Thomas Moore. At Thomas Moore University, they value having well rounded graduates. The project directors, Inge and Jan, are working to design a degree supplement for bachelor engineering students of some majors and campuses of Thomas Moore. This degree supplement will fit into their existing degree and only require one extra course of 3 ECTS. I conducted meetings with Jan and the department heads of the respective majors to understand the current curriculum set-up, the goals of the program and the opinions of both parties. I  also met with many students to see what they value and desire for their programs. You can read this proposal &lt;a href=&quot;https://www.dropbox.com/s/6bqx4wtqsdgn9e0/SocialIngeniusReport.pdf?dl=0&quot;&gt;here&lt;/a&gt;.
 &lt;br /&gt;
 &lt;br /&gt;
 I ran workshops for the teaching team where they used the design process to develop their curriculum, bringing the theories the professors were attempting to teach into practice.  I converted their office into a design space, with butcher paper and post-its covering the walls, in which user interviews drove the brainstorming content. I provided the professors the exposure to the design process required to internalize how to teach the process to students. This experience helped me realize the importance of exposing STEM and design teachers to innovative learning styles and provided me the opportunity to reflect on the challenges of transforming heavily constrained traditional programs into innovative classrooms.
 
 &lt;/div&gt;
 &lt;center&gt;&lt;img src=&quot;images/projects/placement1.jpg&quot; width=&quot;30%&quot; /&gt;&lt;img src=&quot;images/projects/placement2.jpg&quot; width=&quot;30%&quot; /&gt;&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://jamiesarahg.weebly.com/education-blog&quot;&gt;Throughout my semester, I kept a blog about the work that I was doing.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;script text=&quot;text/javascript&quot;&gt;
-    $(&#39;a.read_more&#39;).click(function(event){ /* find all a.read_more elements and bind the following code to them */
+    $('a.read_more').click(function(event){ /* find all a.read_more elements and bind the following code to them */
 
         event.preventDefault(); /* prevent the a from changing the url */
-        // $(this).parents(&#39;.item&#39;).find(&#39;.more_text&#39;).show(); /* show the .more_text span */
-        $(&#39;.more_text&#39;).show(); /* show the .more_text span */
-        $(&#39;.read_less&#39;).show(); /* show the .more_text span */
-        $(&#39;.read_more&#39;).hide(); /* show the .more_text span */
+        // $(this).parents('.item').find('.more_text').show(); /* show the .more_text span */
+        $('.more_text').show(); /* show the .more_text span */
+        $('.read_less').show(); /* show the .more_text span */
+        $('.read_more').hide(); /* show the .more_text span */
 
     });
-    $(&#39;a.read_less&#39;).click(function(event){ /* find all a.read_more elements and bind the following code to them */
+    $('a.read_less').click(function(event){ /* find all a.read_more elements and bind the following code to them */
 
         event.preventDefault(); /* prevent the a from changing the url */
-        // $(this).parents(&#39;.item&#39;).find(&#39;.more_text&#39;).show(); /* show the .more_text span */
-        $(&#39;.more_text&#39;).hide(); /* show the .more_text span */
-        $(&#39;.read_less&#39;).hide(); /* show the .more_text span */
-        $(&#39;.read_more&#39;).show(); /* show the .more_text span */
+        // $(this).parents('.item').find('.more_text').show(); /* show the .more_text span */
+        $('.more_text').hide(); /* show the .more_text span */
+        $('.read_less').hide(); /* show the .more_text span */
+        $('.read_more').show(); /* show the .more_text span */
     });
 &lt;/script&gt;
 
 </description>
-        <pubDate>Tue, 28 Apr 2015 00:00:00 -0400</pubDate>
+        <pubDate>Tue, 28 Apr 2015 00:00:00 -0700</pubDate>
         <link>http://jamiegorson.com/Project11.html</link>
         <guid isPermaLink="true">http://jamiegorson.com/Project11.html</guid>
         
@@ -182,7 +178,7 @@ I ran workshops for the teaching team where they used the design process to deve
 &lt;!-- Add carusel of images from slide deck --&gt;
 &lt;p&gt;Teammates: Shane Skikne, Cameron Anderson&lt;/p&gt;
 </description>
-        <pubDate>Sat, 20 Dec 2014 00:00:00 -0500</pubDate>
+        <pubDate>Sat, 20 Dec 2014 00:00:00 -0800</pubDate>
         <link>http://jamiegorson.com/Project10.html</link>
         <guid isPermaLink="true">http://jamiegorson.com/Project10.html</guid>
         
@@ -194,7 +190,7 @@ I ran workshops for the teaching team where they used the design process to deve
       <item>
         <title>8: S2 - User Centered Design</title>
         <description>&lt;center&gt;&lt;img src=&quot;images/projects/UOCDposter.png&quot; width=&quot;95%&quot; /&gt;&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;For Olin’s User Oriented Collaborative Design course, I worked on a team to understand and design for volunteer physicians. In a semester, we were tasked to design something which would make a significant impact on the lives of Volunteer Physicians. The team, four other students and myself, engaged in a User Centered Design process where we challenged ourselves to epathize and understand our users. We visited clinics and hospitals, interviewed physicians and investigated other stakeholders. We identified areas of opportunities, which helped us build frameworks, like personas and journeys, to extract deeper meaning. Once we had a full understanding of the values and needs of our users, we ferociously ideated and strategically codesigned.
 In the end, we developed the S2, an intelligent note-taking add-on to a stethoscope. Many volunteer physicians resent the overhaul of their field by technology and reject doctors who spend their appointment time glued to the computer instead of interacting with patients. We were able to turn their apprehension towards technology into an asset by designing a device which would help the physicians increase time interacting with their patients.&lt;/p&gt;
@@ -612,7 +608,7 @@ In the end, we developed the S2, an intelligent note-taking add-on to a stethosc
 &lt;!-- Add carusel of images from slide deck --&gt;
 &lt;p&gt;Teammates: &lt;a href=&quot;http://eqwang.weebly.com&quot;&gt;Emily Wang&lt;/a&gt;, Justin Poh, &lt;a href=&quot;http://linkedin.com/in/mcieminski&quot;&gt;Mitchell Cieminski&lt;/a&gt;, Jack Fan&lt;/p&gt;
 </description>
-        <pubDate>Tue, 20 May 2014 00:00:00 -0400</pubDate>
+        <pubDate>Tue, 20 May 2014 00:00:00 -0700</pubDate>
         <link>http://jamiegorson.com/Project8.html</link>
         <guid isPermaLink="true">http://jamiegorson.com/Project8.html</guid>
         
@@ -624,7 +620,7 @@ In the end, we developed the S2, an intelligent note-taking add-on to a stethosc
       <item>
         <title>7: Prescribing Drugs in UK: A Data Science Project</title>
         <description>&lt;center&gt;&lt;img src=&quot;images/projects/lesspeaks.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;For a data science course, my partner and I evaluated the reactions of doctors to directives published by the National Health Service of the UK. We worked with the National Healh Service’s Open Data that they published in a transparency initiative. Specifically, we analyzed how doctors responded to different actions by the NHS with two specific NSAID’s. We built a &lt;a href=&quot;https://www.dropbox.com/s/eviombgon1jb9ji/NSAIDmapTimeseries.avi?dl=0&quot;&gt;timeseries&lt;/a&gt; which displays how well each of the different regions reacted to the directive.&lt;/p&gt;
 
@@ -633,11 +629,11 @@ In the end, we developed the S2, an intelligent note-taking add-on to a stethosc
 &lt;/ul&gt;
 
 &lt;center&gt;&lt;img src=&quot;images/thumbnails/7.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Teammate: Rachel Boy&lt;/p&gt;
 </description>
-        <pubDate>Tue, 20 May 2014 00:00:00 -0400</pubDate>
+        <pubDate>Tue, 20 May 2014 00:00:00 -0700</pubDate>
         <link>http://jamiegorson.com/Project7.html</link>
         <guid isPermaLink="true">http://jamiegorson.com/Project7.html</guid>
         
@@ -653,9 +649,7 @@ I, along with a group of mechanical and electrical engineers, decided to take a 
 
 &lt;p&gt;Our first iteration (for the class project) was driven by an Arduino Uno and controlled by a python backend. I wrote code to interpret Guitar Tablature, communicate across a serial port to an Arduino, convert it into a binary string and control the actuators and solinoids via SPI.&lt;/p&gt;
 
-&lt;p&gt;The second iteration (first improvement after the class) ongoing takes MIDI files as inputs and uses an Arduino Due to provide more power.&lt;/p&gt;
-
-&lt;p&gt;The current iteration upon completion, will be on display at Olin. It uses a NodeJS Web App and is controlled by a RaspberryPi. &lt;/p&gt;
+&lt;p&gt;The second iteration (first improvement after the class) ongoing takes MIDI files as inputs and uses an Arduino Due to provide more power. It uses a NodeJS Web App and is controlled by a RaspberryPi.&lt;/p&gt;
 
 &lt;!-- * [Check out our website for all of the details](http://www.rockin-robot.com) --&gt;
 
@@ -670,7 +664,7 @@ I, along with a group of mechanical and electrical engineers, decided to take a 
 
 &lt;p&gt;Contributers in phase two: &lt;a href=&quot;http://evandorsky.github.io&quot;&gt;Evan Dorsky&lt;/a&gt;, Ben Kahle&lt;/p&gt;
 </description>
-        <pubDate>Sun, 22 Dec 2013 00:00:00 -0500</pubDate>
+        <pubDate>Sun, 22 Dec 2013 00:00:00 -0800</pubDate>
         <link>http://jamiegorson.com/Project6.html</link>
         <guid isPermaLink="true">http://jamiegorson.com/Project6.html</guid>
         
@@ -682,7 +676,7 @@ I, along with a group of mechanical and electrical engineers, decided to take a 
       <item>
         <title>5: Teaching the Principles of Motors</title>
         <description>&lt;center&gt;&lt;img src=&quot;images/projects/EMMotor.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;For a ‘Physics: Electricity and Magnetism’ course, my partner and I designed and executed a classroom lesson and activity for third graders. Through easily comprehendible demonstrations, we showed them the principles of electricity and magnetism in order to explain how a motor worked.  Then each student built their own motor by putting the principles they just learned into action. By the end of the lesson, the students had a basic understanding of the workings of a motor. We ran this curricula for three classes. Above, you can see an example of the motor that students built using the activity instructions, linked below.&lt;/p&gt;
 
@@ -692,11 +686,11 @@ I, along with a group of mechanical and electrical engineers, decided to take a 
 &lt;/ul&gt;
 
 &lt;center&gt;&lt;img src=&quot;images/projects/EMRahilHelping.jpg&quot; width=&quot;30%&quot; /&gt;&lt;img src=&quot;images/thumbnails/5.jpg&quot; width=&quot;30%&quot; /&gt;&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Teammate: Rahil Dedhia&lt;/p&gt;
 </description>
-        <pubDate>Sat, 21 Dec 2013 00:00:00 -0500</pubDate>
+        <pubDate>Sat, 21 Dec 2013 00:00:00 -0800</pubDate>
         <link>http://jamiegorson.com/Project5.html</link>
         <guid isPermaLink="true">http://jamiegorson.com/Project5.html</guid>
         
@@ -707,7 +701,7 @@ I, along with a group of mechanical and electrical engineers, decided to take a 
     
       <item>
         <title>4: FPGA Piano</title>
-        <description>&lt;p&gt;For a computer architecture coure, we made an FPGA piano. We programmed an FPGA to play simple music. We attempted to implement two different kinds of modes: a free-play mode where the user was able to play a combination of seven different notes in a major scale and a song mode where a predetermined song would play. In order to produce different notes, we divided the FPGA’s clock by different values which yielded the various notes we wanted. We opted to use seven separate GPIO pins on the FPGA to produce notes, and we were able to play all the notes using a single speaker by building a simple analog signal adder. &lt;/p&gt;
+        <description>&lt;p&gt;For a computer architecture coure, we made an FPGA piano. We programmed an FPGA to play simple music. We attempted to implement two different kinds of modes: a free-play mode where the user was able to play a combination of seven different notes in a major scale and a song mode where a predetermined song would play. In order to produce different notes, we divided the FPGA’s clock by different values which yielded the various notes we wanted. We opted to use seven separate GPIO pins on the FPGA to produce notes, and we were able to play all the notes using a single speaker by building a simple analog signal adder.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://wikis.olin.edu/ca/doku.php?id=projects:fpga_piano&quot;&gt;Check out our Wiki with complete project details&lt;/a&gt;&lt;/li&gt;
@@ -715,7 +709,7 @@ I, along with a group of mechanical and electrical engineers, decided to take a 
 
 &lt;p&gt;Teammates: Mason del Rosario, &lt;a href=&quot;http://evandorsky.github.io&quot;&gt;Evan Dorsky&lt;/a&gt;, Rahil Dedhia, Jack Fan&lt;/p&gt;
 </description>
-        <pubDate>Fri, 20 Dec 2013 00:00:00 -0500</pubDate>
+        <pubDate>Fri, 20 Dec 2013 00:00:00 -0800</pubDate>
         <link>http://jamiegorson.com/Project4.html</link>
         <guid isPermaLink="true">http://jamiegorson.com/Project4.html</guid>
         
