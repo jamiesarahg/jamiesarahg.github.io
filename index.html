@@ -2,60 +2,32 @@
 layout: default
 ---
 
-<h1 class="pageTitle">About Me:</h1>
-  <h5>
- I am currently a Ph.D student at <a href="http://northwestern.edu">Northwestern University</a> in <a href="http://tsb.northwestern.edu">Technology and Social Behavior</a>, a combined program in Computer Science and Communications. My goal is to use technology to increase hands-on and project-based learning in classrooms, museums and informal education spaces. I recently graduated from <a href="http://olin.edu">Olin College of Engineering</a> with a degree in Electrical and Computer Engineering. My research is funded by the  <a href="https://www.nsfgrfp.org/"> National Science Foundation Graduate Research Fellowship Program</a>.
-  </h5>
-<br>
-<br>
-<!-- <h3> Featured Projects:</h3>
-
-<div id="featuredProjectsCarousel" class="carousel slide" data-ride="carousel">
-   Indicators
-  <ol class="carousel-indicators">
-    <li data-target="#featuredProjectsCarousel" data-slide-to="0" class="active"></li>
-    <li data-target="#featuredProjectsCarousel" data-slide-to="1"></li>
-    <li data-target="#featuredProjectsCarousel" data-slide-to="2"></li>
-    <li data-target="#featuredProjectsCarousel" data-slide-to="3"></li>
-  </ol>
- Wrapper for slides
-  <div class="carousel-inner" role="listbox" >
-    {% for post in site.posts %}
-     {% if post.featured == "First" %}
-        <div class="item active">
-          <a class="tile-link" href="{{ post.url | remove_first: "/" }}">
-          <center> <img src="" id="{{ post.title | split:": " | first | split: " " | last }}-img" class="featuredProjectCarouselImg"> <h4 class = 'featuredCarouselText'> {{ post.title | split:": " | last}} </h4> </center> </a>
-          
-        </div>
-      {% endif %}
-      {% if post.featured == "True" %}
-        <div class="item">
-         <a class="tile-link" href="{{ post.url | remove_first: "/" }}">
-          <center> 
-            <img src="" id="{{ post.title | split:": " | first | split: " " | last }}-img" class="featuredProjectCarouselImg">
-            <h4> {{ post.title | split:": " | last}} </h4>
-          </center>
-        </a>
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-4">
+      <div class="contact-card">
+        <img src="images/headshot.jpg" width="100%">
+        <br><br>
+        <span>
+          Email: <a href="mailto:jamie@gorsonfamily.com"> jamie@gorsonfamily.com </a>
+          <br>
+          Resume: <a href="https://www.dropbox.com/s/e6r284a6g5klgse/Resume.pdf?dl=0">View / Download</a>
+        </span>
       </div>
-      {% endif %}
-    {% endfor %}
-
-
-  </div> -->
-  <div> 
+    </div>
+    <div class="col-sm-8">
+      <h5>
+        I am currently a Ph.D student at <a href="http://northwestern.edu">Northwestern University</a> in <a href="http://tsb.northwestern.edu">Technology and Social Behavior</a>, a combined program in Computer Science and Communications. My goal is to use technology to increase hands-on and project-based learning in classrooms, museums and informal education spaces. I recently graduated from <a href="http://olin.edu">Olin College of Engineering</a> with a degree in Electrical and Computer Engineering. My research is funded by the  <a href="https://www.nsfgrfp.org/"> National Science Foundation Graduate Research Fellowship Program</a>.
+      </h5>
+      <br>
+        <div> 
     <p style="text-align:center">
-    <button onclick="location.href = '/projects.html'" type="button" class="btn-lg btn-default" style="text-align:center">Portfolio of Projects</button>
-    <button onclick="location.href = '/experience.html'" type="button" class="btn-lg btn-default" style="text-align:center">Professional Experiences</button>
+      <button onclick="location.href = '/projects.html'" type="button" class="btn-lg btn-default" style="text-align:center">Portfolio of Projects</button>
+      <br>
+      <button onclick="location.href = '/experience.html'" type="button" class="btn-lg btn-default" style="text-align:center">Professional Experiences</button>
     </p>
   </div>
+    </div>
+  </div>
 
-<!--    Left and right controls 
-  <a class="left carousel-control" href="#featuredProjectsCarousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#featuredProjectsCarousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a> -->
 </div>
