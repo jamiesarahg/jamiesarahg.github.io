@@ -38,7 +38,7 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <span id="topName"><a class="navbar-brand" href="/index.html">Jamie Gorson</a></span>
+        <span id="topName"><a class="navbar-brand" href="/index">Jamie Gorson</a></span>
       </div>
       <div class="collapse navbar-collapse navbar-ex1-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav navbar-right">
@@ -46,45 +46,17 @@
           
             <li class="navBarItem">
           
-            <a href="/index">About</a></li>
+            <a href="/">About</a></li>
           
           
           
-            <li class="dropdown navBarItem">
+            <li class="navBarItem">
           
-              <a href="/projects" role="button" aria-haspopup="true" aria-expanded="false">Projects <span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                
-                  <li><a href="/Project16.html"> Hands-on Learning for Rural India</a></li>
-                
-                  <li><a href="/Project13.html"> Computational Robotics</a></li>
-                
-                  <li><a href="/Project15.html"> Mobile Design App for Kids</a></li>
-                
-                  <li><a href="/Project11.html"> Bringing Design Thinking to Belgium</a></li>
-                
-                  <li><a href="/Project10.html"> Discrete Math Evaluation of the Enigma Machine</a></li>
-                
-                  <li><a href="/Project8.html"> S2 - User Centered Design</a></li>
-                
-                  <li><a href="/Project7.html"> A Data Science Project</a></li>
-                
-                  <li><a href="/Project6.html"> Robotic Player Guitar</a></li>
-                
-                  <li><a href="/Project5.html"> Teaching the Principles of Motors</a></li>
-                
-                  <li><a href="/Project4.html"> FPGA Piano</a></li>
-                
-                  <li><a href="/Project2.html"> 3D Competitive Snake Game</a></li>
-                
-                  <li><a href="/Project1.html"> Design Nature Transporter</a></li>
-                
-              </ul>
-            </li>
+            <a href="/projects">Projects</a>
 
           
           
-          <li class="navBarItem">
+            <li class="navBarItem">
           
             <a href="/experience">Experience</a></li>
         </ul>          
@@ -109,10 +81,10 @@
 
 <h2> AudioDog - Machine Learning and Localization from Audio Data </h2>
 
-<p>For our final, we are making a robot which recognizes different commands based on the emotion in the voice and follows different actions based on the command, as a dog would. One of those actions is localizing the direction of the noise and moving towards it. <a href="https://teamaudiodog.weebly.com">Check out our website!</a></p>
+<p>My team and I made a robot which recognized different commands based on the emotion detected in a voice and then completed the respective action, as a dog would. One of those actions was localizing the direction of the noise and moving towards it. <a href="https://teamaudiodog.weebly.com">Check out our website!</a></p>
 
 <div class="video-container">
-<iframe width="854" height="480" src="https://www.youtube.com/embed/GRAciQu0_no" frameborder="0" allowfullscreen=""></iframe></div>
+<iframe width="427" height="240" src="https://www.youtube.com/embed/GRAciQu0_no" frameborder="0" allowfullscreen=""></iframe></div>
 
 <p><a href="https://github.com/jamiesarahg/AudioDog">GitHub repo</a></p>
 
@@ -121,12 +93,12 @@
 
 <h2> Robot guided by head tilt and pan - Computer Vision Project </h2>
 
-<p>For a Computational Robotics course, we developed a dataset, model and software to interpret the head tilt and pan of any user. The head tilt determined how fast the robot moved and the head pan determined angular velocity.</p>
+<p>We developed a dataset, model and software to interpret the head tilt and pan of any user. The head tilt determined how fast the robot moved and the head pan determined angular velocity.</p>
 
 <p>Here is the video of our project in action:</p>
 
 <div class="video-container">
-<iframe width="854" height="480" src="https://www.youtube.com/embed/S-CmvTUCd8c" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="427" height="240" src="https://www.youtube.com/embed/S-CmvTUCd8c" frameborder="0" allowfullscreen=""></iframe>
 </div>
 
 <p><a href="https://github.com/jamiesarahg/CVFaceDetection">GitHub repo</a></p>
@@ -190,6 +162,27 @@
           return http.status;
       }
       
+          var proj_num = "17";
+          var proj_id = "#"+proj_num
+          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
+          var blank_img_url = "images/blank.jpg";
+
+        if(urlExists(proj_img_url) == 200) {
+            $(proj_id+'-img').attr("src", proj_img_url);
+        }
+        else {
+            $(proj_id+'-img').attr("src", blank_img_url);
+        }
+
+        $(".tile-container").hover(function(){
+          $(this).find(".tile-text").style.display = "block";
+        });
+          $(proj_id+'-img').width(200);
+          $(proj_id+'-img').height(150);
+          $(proj_id+'-text').hover(function(){
+            $( this ).find( ".tile-para" ).toggle();
+          });
+        
           var proj_num = "16";
           var proj_id = "#"+proj_num
           var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";

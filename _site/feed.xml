@@ -5,9 +5,22 @@
     <description>My Portfolio</description>
     <link>http://jamiegorson.com/</link>
     <atom:link href="http://jamiegorson.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 25 Sep 2016 08:09:49 -0700</pubDate>
-    <lastBuildDate>Sun, 25 Sep 2016 08:09:49 -0700</lastBuildDate>
+    <pubDate>Mon, 26 Sep 2016 08:56:11 -0700</pubDate>
+    <lastBuildDate>Mon, 26 Sep 2016 08:56:11 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>17: Tune Table</title>
+        <description>&lt;p&gt;Work in progress. More information coming shortly.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 Sep 2016 00:00:00 -0700</pubDate>
+        <link>http://jamiegorson.com/Project17.html</link>
+        <guid isPermaLink="true">http://jamiegorson.com/Project17.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
     
       <item>
         <title>16: Current Project: Hands-on Learning for Rural India</title>
@@ -46,10 +59,10 @@
 
 &lt;h2&gt; AudioDog - Machine Learning and Localization from Audio Data &lt;/h2&gt;
 
-&lt;p&gt;For our final, we are making a robot which recognizes different commands based on the emotion in the voice and follows different actions based on the command, as a dog would. One of those actions is localizing the direction of the noise and moving towards it. &lt;a href=&quot;https://teamaudiodog.weebly.com&quot;&gt;Check out our website!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;My team and I made a robot which recognized different commands based on the emotion detected in a voice and then completed the respective action, as a dog would. One of those actions was localizing the direction of the noise and moving towards it. &lt;a href=&quot;https://teamaudiodog.weebly.com&quot;&gt;Check out our website!&lt;/a&gt;&lt;/p&gt;
 
 &lt;div class=&quot;video-container&quot;&gt;
-&lt;iframe width=&quot;854&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/GRAciQu0_no&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe width=&quot;427&quot; height=&quot;240&quot; src=&quot;https://www.youtube.com/embed/GRAciQu0_no&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/jamiesarahg/AudioDog&quot;&gt;GitHub repo&lt;/a&gt;&lt;/p&gt;
 
@@ -58,12 +71,12 @@
 
 &lt;h2&gt; Robot guided by head tilt and pan - Computer Vision Project &lt;/h2&gt;
 
-&lt;p&gt;For a Computational Robotics course, we developed a dataset, model and software to interpret the head tilt and pan of any user. The head tilt determined how fast the robot moved and the head pan determined angular velocity.&lt;/p&gt;
+&lt;p&gt;We developed a dataset, model and software to interpret the head tilt and pan of any user. The head tilt determined how fast the robot moved and the head pan determined angular velocity.&lt;/p&gt;
 
 &lt;p&gt;Here is the video of our project in action:&lt;/p&gt;
 
 &lt;div class=&quot;video-container&quot;&gt;
-&lt;iframe width=&quot;854&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/S-CmvTUCd8c&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;427&quot; height=&quot;240&quot; src=&quot;https://www.youtube.com/embed/S-CmvTUCd8c&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/jamiesarahg/CVFaceDetection&quot;&gt;GitHub repo&lt;/a&gt;&lt;/p&gt;
@@ -107,7 +120,7 @@
     
       <item>
         <title>11: Bringing Design Thinking to Belgium</title>
-        <description>&lt;p&gt;This past spring, I traveled to Belgium to do a semester-long independent study in engineering education and to incorporate design thinking and collaboration into university engineering programs. I used qualitative research techniques to study the current state of the bachelors and postgraduate programs at two renowned universities in Belgium, KU Leuven and Thomas Moore. At my first classroom visit, the students gave a mid-year update on their project. Although they were supposed to have a component of user centered design, one of the students failed to even articulate who his users were! The professors were lost, arguing that they provided the students readings on the method. In this moment, I realized that since the professors themselves had never experienced the design process, they were not able to effectively teach it. In response, I ran workshops for the teaching team where they used the design process to develop their curriculum, bringing the theories the professors were attempting to teach into practice.  I converted their office into a design space, with butcher paper and post-its covering the walls, in which user interviews drove the brainstorming content. I provided the professors the exposure to the design process required to internalize how to teach the process to students. This experience helped me realize the importance of exposing STEM and design teachers to innovative learning styles and provided me the opportunity to reflect on the challenges of transforming heavily constrained traditional programs into innovative classrooms. In the end, the experience allowed me to impact the programs in two Belgian universities, as well as learn about conducting independent research, gathering and processing data, writing proposals, and developing workshops.&lt;/p&gt;
+        <description>&lt;p&gt;In the Spring of 2015, I traveled to Belgium to do a semester-long independent study in engineering education and to incorporate design thinking and collaboration into university engineering programs. I used qualitative research techniques to study the current state of the bachelors and postgraduate programs at two renowned universities in Belgium, KU Leuven and Thomas Moore. At my first classroom visit, the students gave a mid-year update on their project. Although they were supposed to have a component of user centered design, one of the students failed to even articulate who his users were! The professors were lost, arguing that they provided the students readings on the method. In this moment, I realized that since the professors themselves had never experienced the design process, they were not able to effectively teach it. In response, I ran workshops for the teaching team where they used the design process to develop their curriculum, bringing the theories the professors were attempting to teach into practice.  I converted their office into a design space, with butcher paper and post-its covering the walls, in which user interviews drove the brainstorming content. I provided the professors the exposure to the design process required to internalize how to teach the process to students. This experience helped me realize the importance of exposing STEM and design teachers to innovative learning styles and provided me the opportunity to reflect on the challenges of transforming heavily constrained traditional programs into innovative classrooms. In the end, the experience allowed me to impact the programs in two Belgian universities, as well as learn about conducting independent research, gathering and processing data, writing proposals, and developing workshops.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#&quot; class=&quot;read_more&quot;&gt;Show More&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;#&quot; class=&quot;read_less&quot; style=&quot;display:none&quot;&gt;Show Less&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
@@ -121,7 +134,7 @@
 I worked directly with Inge Vervoot and her colleagues on a mission to engage engineering students in real world experiences and expose them to the social sector. In order to accomplish this, the programs emphasizes user centered design, design thinking, real world experiences and societal awareness and the social profit sector. This group works on a number of projects, some of which in partnerships which span the European Union. As a student of Olin College, I assisted this team on two of their programs, explained below. I used my experience as a student at Olin College, my design and education courses, and the knowledge I’ve acquired while working for the Collaboratory to write recommendations and proposals to the group. 
 &lt;br /&gt;
 &lt;br /&gt;
-The first program that I worked with is &lt;a href=&quot;http://associatie.kuleuven.be/gezamenlijke-opleidingen/cse/folder_contents&quot;&gt; Community Service Engineering&lt;/a&gt;, or CSE. CSE has been developed by Inge and her colleague Jan to educate recent graduates or professionals as to being socially aware engineers. There is a larger, longer existing program called the Postgraduate Programme in Innovation and Entrepreneurship in Engineering which is also in the school of engineering and has a complementary mission. To enhance both programs, they decided to integrate them. As an outsider with experience in curriculum and user centered design, I gave my opinions and perspective to best integrate the programs to attract more students and give them the most beneficial educational opportunities. In order to best accomplish this, I  met with students from both programs who are working on a variety of projects as well as coaches, mentors and administrators of the programs. I attended the CSE classtime to get the best vantage point of the course. You can read my proposal &lt;a href=&quot;https://www.dropbox.com/s/o3n20tam538soha/FINALintegrationReport.pdf?dl=0&quot;&gt; here&lt;/a&gt;.
+The first program that I worked with is &lt;a href=&quot;https://onderwijsaanbod.kuleuven.be/2015/opleidingen/e/CQ_52973286.htm#activetab=diploma_omschrijving&quot;&gt; Community Service Engineering&lt;/a&gt;, or CSE. CSE has been developed by Inge and her colleague Jan to educate recent graduates or professionals as to being socially aware engineers. There is a larger, longer existing program called the Postgraduate Programme in Innovation and Entrepreneurship in Engineering which is also in the school of engineering and has a complementary mission. To enhance both programs, they decided to integrate them. As an outsider with experience in curriculum and user centered design, I gave my opinions and perspective to best integrate the programs to attract more students and give them the most beneficial educational opportunities. In order to best accomplish this, I  met with students from both programs who are working on a variety of projects as well as coaches, mentors and administrators of the programs. I attended the CSE classtime to get the best vantage point of the course. You can read my proposal &lt;a href=&quot;https://www.dropbox.com/s/o3n20tam538soha/FINALintegrationReport.pdf?dl=0&quot;&gt; here&lt;/a&gt;.
 &lt;br /&gt;
 &lt;br /&gt;
 The second program that I worked with is the Social Ingenious bachelor's degree supplement at Thomas Moore. At Thomas Moore University, they value having well rounded graduates. The project directors, Inge and Jan, are working to design a degree supplement for bachelor engineering students of some majors and campuses of Thomas Moore. This degree supplement will fit into their existing degree and only require one extra course of 3 ECTS. I conducted meetings with Jan and the department heads of the respective majors to understand the current curriculum set-up, the goals of the program and the opinions of both parties. I  also met with many students to see what they value and desire for their programs. You can read this proposal &lt;a href=&quot;https://www.dropbox.com/s/6bqx4wtqsdgn9e0/SocialIngeniusReport.pdf?dl=0&quot;&gt;here&lt;/a&gt;.
@@ -693,25 +706,6 @@ I, along with a group of mechanical and electrical engineers, decided to take a 
         <pubDate>Sat, 21 Dec 2013 00:00:00 -0800</pubDate>
         <link>http://jamiegorson.com/Project5.html</link>
         <guid isPermaLink="true">http://jamiegorson.com/Project5.html</guid>
-        
-        
-        <category>projects</category>
-        
-      </item>
-    
-      <item>
-        <title>4: FPGA Piano</title>
-        <description>&lt;p&gt;For a computer architecture coure, we made an FPGA piano. We programmed an FPGA to play simple music. We attempted to implement two different kinds of modes: a free-play mode where the user was able to play a combination of seven different notes in a major scale and a song mode where a predetermined song would play. In order to produce different notes, we divided the FPGA’s clock by different values which yielded the various notes we wanted. We opted to use seven separate GPIO pins on the FPGA to produce notes, and we were able to play all the notes using a single speaker by building a simple analog signal adder.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://wikis.olin.edu/ca/doku.php?id=projects:fpga_piano&quot;&gt;Check out our Wiki with complete project details&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Teammates: Mason del Rosario, &lt;a href=&quot;http://evandorsky.github.io&quot;&gt;Evan Dorsky&lt;/a&gt;, Rahil Dedhia, Jack Fan&lt;/p&gt;
-</description>
-        <pubDate>Fri, 20 Dec 2013 00:00:00 -0800</pubDate>
-        <link>http://jamiegorson.com/Project4.html</link>
-        <guid isPermaLink="true">http://jamiegorson.com/Project4.html</guid>
         
         
         <category>projects</category>
