@@ -218,7 +218,7 @@ ul.nav li.dropdown:hover ul.dropdown-menu {
   color: #838483;
 }
 
-ul{
+/*ul{
   border-bottom: 1px solid #e7e7e7;
   border-top: 1px solid #e7e7e7;
   list-style-type: none;
@@ -229,7 +229,7 @@ ul{
 
 ul li{
   font-weight: bold;
-}
+}*/
 
 .tile-container.caption{
   text-align: left;
@@ -258,4 +258,20 @@ ul li{
 .video {
   margin-top: 10px;
   margin-bottom: 10px;
+}
+
+.cv_header {
+  border-bottom: none;
+  margin-bottom: 0px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  margin-top: 20px;
+}
+
+.cv_title {
+  border-bottom: none;
+  margin-bottom: 0px;
+  padding-bottom: 5px;
+  padding-top: 10px;
+  margin-top: 0px;
 }
