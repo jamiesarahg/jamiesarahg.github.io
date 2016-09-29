@@ -5,8 +5,8 @@
     <description>My Portfolio</description>
     <link>http://jamiegorson.com/</link>
     <atom:link href="http://jamiegorson.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 29 Sep 2016 10:55:29 -0700</pubDate>
-    <lastBuildDate>Thu, 29 Sep 2016 10:55:29 -0700</lastBuildDate>
+    <pubDate>Thu, 29 Sep 2016 13:35:07 -0700</pubDate>
+    <lastBuildDate>Thu, 29 Sep 2016 13:35:07 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -98,7 +98,9 @@
         <description>&lt;center&gt;&lt;img src=&quot;images/projects/scopeTeamPhoto.jpg&quot; width=&quot;70%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;For my capstone project in engineering at Olin College, I built a design application for children aged six to fourteen for DS SolidWorks. We conducted user studies to aid us in developing a product to target a young audience, not currently reached by SolidWorks. Capture It is the brainstorming application in DS SolidWorks’s new product: Apps for Kids. It will soon be released in Beta with the other initial apps in Apps for Kids. &lt;a href=&quot;http://appsforkids.solidworks.com/&quot;&gt;Check it out here!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For my &lt;a href=&quot;http://www.olin.edu/collaborate/scope/projects/2015-16/Dassault/&quot;&gt;SCOPE&lt;/a&gt; capstone project in engineering at Olin College, I built a design application for children aged six to fourteen for &lt;a href=&quot;http://www.3ds.com//&quot;&gt;DS Solidwork’s&lt;/a&gt;. We conducted user studies to aid us in developing a product to target a young audience, not currently reached by SolidWorks. Capture It is the brainstorming application in DS SolidWorks’s new product: Apps for Kids. It will soon be released in Beta with the other initial apps in Apps for Kids. &lt;a href=&quot;http://appsforkids.solidworks.com/&quot;&gt;Check it out here!&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/a6VIWL35mvo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img width=&quot;427&quot; height=&quot;240&quot; src=&quot;images/projects/capture-img.png&quot; /&gt;&lt;/center&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -641,7 +643,7 @@ In the end, we developed the S2, an intelligent note-taking add-on to a stethosc
   &lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/s/z354fimlei0zgcu/NHS___Data_Science.pdf?dl=0&quot;&gt;See our final report&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;center&gt;&lt;img src=&quot;images/thumbnails/7.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;images/projects/discreteHeatMap.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Teammate: Rachel Boy&lt;/p&gt;
@@ -698,7 +700,7 @@ I, along with a group of mechanical and electrical engineers, decided to take a 
   &lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/s/1ve2jb65aaeil5o/lab_instructions.pdf?dl=0&quot;&gt;See our activity instructions&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;center&gt;&lt;img src=&quot;images/projects/EMRahilHelping.jpg&quot; width=&quot;30%&quot; /&gt;&lt;img src=&quot;images/thumbnails/5.jpg&quot; width=&quot;30%&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;images/projects/EMRahilHelping.jpg&quot; width=&quot;30%&quot; /&gt;&lt;img src=&quot;images/projects/EMkids.jpg&quot; width=&quot;30%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Teammate: Rahil Dedhia&lt;/p&gt;
