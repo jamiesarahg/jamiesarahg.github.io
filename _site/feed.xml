@@ -5,8 +5,8 @@
     <description>My Portfolio</description>
     <link>http://jamiegorson.com/</link>
     <atom:link href="http://jamiegorson.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 29 Sep 2016 13:35:07 -0700</pubDate>
-    <lastBuildDate>Thu, 29 Sep 2016 13:35:07 -0700</lastBuildDate>
+    <pubDate>Thu, 13 Oct 2016 09:10:54 -0700</pubDate>
+    <lastBuildDate>Thu, 13 Oct 2016 09:10:54 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -27,7 +27,13 @@
         <description>&lt;center&gt;&lt;img src=&quot;images/projects/ADE/IMG_1632.JPG&quot; width=&quot;35%&quot; /&gt;&lt;img src=&quot;images/projects/ADE/IMG_1791.JPG&quot; width=&quot;35%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;In an Affordable Design and Entrepreneurship program I worked on a project to increase the education standard in India and Ghana through developing a hands-on learning educational technology and accompanying curriculum.  My team of engineering and business students and professors are working with two partners, &lt;a href=&quot;http://www.agastya.org/&quot;&gt;Agastya International Foundation&lt;/a&gt; and &lt;a href=&quot;http://www.africanwomenadvocacyproject.org/&quot;&gt;African Women Advocacy Project&lt;/a&gt;. We developed a ray projector, called the Brightbox, to encourage exploration and curiousity in students when teaching optics in middle-aged science classrooms. In the winter of 2016 I went  to India to work with manufacturers on the design of the ray projector and test our device and curriculum in village classrooms. Above left, you can see students in village school working with the Brightbox. Above right, you can see students at Agastya in a lesson with the Brightbox. At the bottom, you can see me working with the team on the manufacturing. The project is still ongoing at Olin with a goal to supply Agastya with the first 500 Brightboxes and provide the ability for Agastya to build 500 more every year.&lt;/p&gt;
+&lt;p&gt;Many traditional science educational systems are based on root memorization, discouraging many students from an interest in science and math. By providing exploratory and tangible experiences in science classrooms, students will relate more to the field and could develop a strong curiosity for science.&lt;/p&gt;
+
+&lt;p&gt;My team of engineering and business students and professors worked with two partners, &lt;a href=&quot;http://www.agastya.org/&quot;&gt;Agastya International Foundation&lt;/a&gt; and &lt;a href=&quot;http://www.africanwomenadvocacyproject.org/&quot;&gt;African Women Advocacy Project&lt;/a&gt; to develop the Brightbox. The Brightbox is a tangible projector that emitted light rays which students can manipulate with accessories to discover the principles of optics. We created an exploratory and hands-on curriculum to accompany this Brightbox in middle-aged science classrooms. In the winter of 2016 I went to India to work with manufacturers on the design of the ray projector and test our device and curriculum in village classrooms. The Brightboxes will travel between classrooms in rural India to allow a large quantity of children to access them. I project-managed this endeavor and was the lead in developing the accompanying curriculum.&lt;/p&gt;
+
+&lt;p&gt;Above left, you can see students in village school working with the Brightbox. Above right, you can see students at Agastya in a lesson with the Brightbox. At the bottom, you can see me working with the team on the manufacturing.&lt;/p&gt;
+
+&lt;p&gt;The project is still ongoing at Olin with a goal to supply Agastya with the first 500 Brightboxes and provide the ability for Agastya to build 500 more every year.&lt;/p&gt;
 
 &lt;center&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -55,7 +61,7 @@
     
       <item>
         <title>13: Computational Robotics</title>
-        <description>&lt;p&gt;Below are two projects featured from a Computational Robotics Course.&lt;/p&gt;
+        <description>&lt;p&gt;Below are two projects featured from a Computational Robotics Course at Olin College.&lt;/p&gt;
 
 &lt;h2&gt; AudioDog - Machine Learning and Localization from Audio Data &lt;/h2&gt;
 
@@ -643,7 +649,7 @@ In the end, we developed the S2, an intelligent note-taking add-on to a stethosc
   &lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/s/z354fimlei0zgcu/NHS___Data_Science.pdf?dl=0&quot;&gt;See our final report&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;center&gt;&lt;img src=&quot;images/projects/discreteHeatMap.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;images/projects/dataScienceHeatMap.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Teammate: Rachel Boy&lt;/p&gt;
