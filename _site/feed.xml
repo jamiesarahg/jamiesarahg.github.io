@@ -5,13 +5,15 @@
     <description>My Portfolio</description>
     <link>http://jamiegorson.com/</link>
     <atom:link href="http://jamiegorson.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 25 Mar 2017 09:04:39 -0700</pubDate>
-    <lastBuildDate>Sat, 25 Mar 2017 09:04:39 -0700</lastBuildDate>
+    <pubDate>Sat, 25 Mar 2017 09:22:34 -0700</pubDate>
+    <lastBuildDate>Sat, 25 Mar 2017 09:22:34 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>17: TunePad - A Sound Composition Tablet App for Introducing Computational Thinking</title>
         <description>&lt;!-- &lt;h2&gt; A Sound Composition Tablet App for Introducing Computational Thinking &lt;/h2&gt; --&gt;
+&lt;center&gt;&lt;img src=&quot;images/projects/TunePadScreenShot.PNG&quot; width=&quot;30%&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;TunePad is a tablet-based application that uses computational techniques to compose music. The intention is to introduce computational thinking to middle aged students (9-14). The project is a collaboration between the &lt;a href=&quot;http://adamlab.gatech.edu/&quot;&gt;Adam Lab&lt;/a&gt; at Georgia Tech University and the &lt;a href=&quot;http://tidal.northwestern.edu/&quot;&gt; TIDAL lab &lt;/a&gt; at Northwestern University. Our goal is to make the application to allow for repetitive uses so that it prepares students for more formal programming environments, like &lt;a href=&quot;http://earsketch.gatech.edu/landing/#/&quot;&gt;Earsketch&lt;/a&gt;, a computational music remixing tool. We are working on a couple of designs and testing with students at a music school. We are also considering the advantages of including tangible aspects to the project.&lt;/p&gt;
 </description>
