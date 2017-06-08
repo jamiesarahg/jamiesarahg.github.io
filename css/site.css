@@ -41,27 +41,6 @@ h1{
   color: #4a3970;
 }
 
-.navbar{
-  /*background-color: #cccbe5;*/
-}
-.navbar-brand {
-  margin-top: 10px;
-  font-size: 40px;
-}
-
-#topName {
-  color: #C9E4FF;
-}
-
-.navBarItem:hover {
-  background-color: #b4ace2;
-}
-
-/*not overridding... :/*/
-.navBarItem.active {
-  background-color: #b4ace2;
-}
-
 ul.nav li.dropdown:hover ul.dropdown-menu {
             display: block;
         }
@@ -93,13 +72,6 @@ ul.nav li.dropdown:hover ul.dropdown-menu {
   padding-left: 15px;
 }
 
-.top-nav-link:hover{
-  color: blue;
-}
-
-.top-nav{
-  padding-top: 21px;
-}
 
 .wrapper{
   background-color: #fff;
@@ -110,40 +82,6 @@ ul.nav li.dropdown:hover ul.dropdown-menu {
   padding-left: 0px;
   overflow: hidden; 
   margin-bottom: 60px;
-}
-
-.sidebar{
-  padding-top: 20px;
-  background-color: #b4ace2;
-  border-left: 1px solid #cccbe5;
-  border-radius: 0 0 5px 0;
-  bottom: 0;
-  box-shadow: 1px 0 1px rgba(0,0,0,0.1) inset;
-  float: left;
-  margin-bottom: -99999px;
-  padding-bottom: 99999px;
-}
-
-.sidebar ul {
-  list-style-type: none;
-  padding-left: 10px;
-  padding-bottom: 20px;
-}
-
-.sidebar ul li{
-  font-size: 12px;
-  padding: 10px;
-  font-weight: bold;
-}
-
-.sidebar ul li a{
-  color: #838483;
-  text-decoration: none;
-
-}
-
-.sidebar ul li a:hover{
-  color: #912CEE;
 }
 
 .content{
@@ -165,7 +103,7 @@ ul.nav li.dropdown:hover ul.dropdown-menu {
   margin: 0px;
 }
 
-.tile{
+./*tile{
   margin-bottom: 8px;
   position: relative;
 }
@@ -185,7 +123,7 @@ ul.nav li.dropdown:hover ul.dropdown-menu {
 .tile-container:hover .tile-text {
     display: inherit;
 }
-
+*/
 .color-filter:hover{
     background: #999;
     background: rgba(0,0,0,0.3);
@@ -200,23 +138,7 @@ ul.nav li.dropdown:hover ul.dropdown-menu {
   font-size: 35px;
 }
 
-.contact-card{
-  padding: 10px;
-  background-color: white;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  font-size: 12px;
-  font-weight: bold;
-  color: #4a3970;
-}
 
-.contact-card a{
-  color: black;
-}
-
-.contact-card a:hover{
-  color: #838483;
-}
 
 /*ul{
   border-bottom: 1px solid #e7e7e7;
@@ -230,6 +152,21 @@ ul.nav li.dropdown:hover ul.dropdown-menu {
 ul li{
   font-weight: bold;
 }*/
+
+.center-table {
+    /*border-radius: 5px;*/
+    /*width: 90%;*/
+    margin: auto !important;
+    float: none !important;
+}
+.project-cell {
+  padding: 10px 10px 10px 10px;
+}
+
+.project-img{
+  max-height: 200px;
+  width: auto;
+}
 
 .tile-container.caption{
   text-align: left;
@@ -274,4 +211,4 @@ ul li{
   padding-bottom: 5px;
   padding-top: 10px;
   margin-top: 0px;
-}
+}*/*/*/
