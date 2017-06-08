@@ -13,6 +13,7 @@
                   <span class="icon-bar"></span>
                   <span class="icon-bar"></span>
                   <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
                 </button>
               </div>
               <div class="collapse navbar-collapse navbar-ex1-collapse" id="bs-example-navbar-collapse-1">
@@ -40,6 +41,15 @@
                     <li class="navBarItem">
                   {% endif %}
                     <a href="/cv">CV</a></li>
+
+
+                  {% if page.url == "/contact" %}
+                    <li class="active navBarItem">
+                  {% endif %}
+                  {% if page.url != "/contact" %}
+                    <li class="navBarItem">
+                  {% endif %}
+                    <a href="/contact">Contact</a></li>
                 </ul>          
               </div>
 

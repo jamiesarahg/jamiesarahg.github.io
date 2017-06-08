@@ -165,9 +165,10 @@ ul li{
 
 .project-img{
   max-height: 200px;
-  width: auto;
 }
-
+.past-project-img{
+  max-height: 150px;
+}
 .tile-container.caption{
   text-align: left;
 }
