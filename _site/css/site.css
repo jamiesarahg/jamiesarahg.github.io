@@ -12,15 +12,51 @@ very light #cccbe5
 #91a1dc #5f7bd3 dark blue#3a58b2*/
 
 body{
-    background-color: #400040;
+    background-color: #d0f0ff;
+
     padding-top: 50px;
     font-family: "HelveticaNeue","Helvetica Neue","HelveticaNeueRoman","HelveticaNeue-Roman","Helvetica Neue Roman","Helvetica","Tahoma","Geneva","Arial",sans-serif;
     margin-top: 30px;
 }
 
+
+
+p {
+  font-family: Questrial;
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 20px;
+}
+blockquote {
+  font-family: Questrial;
+  font-size: 21px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 30px;
+}
+pre {
+  font-family: Questrial;
+  font-size: 13px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 18.5667px;
+}
+
+.backgroundImage {
+   /* opacity: 0.5;*/
+    height: 100%;
+}
+.mainy {
+  opacity: 1 !important;
+}
+
 a {
   text-decoration: none;
-  color: #912CEE;
+  color: #394470;
 }
 
 a:hover{
@@ -32,15 +68,41 @@ h3{
   margin-bottom: 18px;
   border-bottom: 1px solid #e7e7e7;
   color: #4a3970;
-  font-size: 18px;
+  /*font-size: 18px;*/
   font-weight: 700;
   padding-bottom: 10px;
+
+  font-family: Questrial;
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  line-height: 15.4px;
+}
+h4 {
+  color: #4a3970;
+  font-family: Questrial;
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 15.4px;
 }
 
 h1{
+    font-family: Questrial;
+  font-size: 24px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26.4px;
   color: #4a3970;
 }
-
+.titleName {
+  font-size: 36px;
+}
+.titleRole {
+  margin-top: 0px;
+}
 ul.nav li.dropdown:hover ul.dropdown-menu {
             display: block;
         }
@@ -164,10 +226,10 @@ ul li{
 }
 
 .project-img{
-  max-height: 200px;
+  height: 200px;
 }
 .past-project-img{
-  max-height: 150px;
+  height: 150px;
 }
 .tile-container.caption{
   text-align: left;

@@ -10,7 +10,7 @@
 
   <!-- Bootstrap -->
   <link rel="stylesheet" href="css/bootstrap.min.css" >
-
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Questrial" />
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
   <!--[if lt IE 9]>
@@ -27,7 +27,8 @@
     <script src="/node_modules/bootstrap/js/collapse.js"></script>
 </head>
   <body>
-    <div class="container-fluid">
+  	<div class="backgroundImage">
+    <div class="container-fluid mainy">
       <!-- <header>
   <nav class="navbar navbar-default navbar-fixed-top">
     <div class="container">
@@ -69,9 +70,8 @@
       <div class="row">
   <div class="wrapper col-sm-10 col-sm-offset-1">
   	<div clas="content" style="padding: 0px 50px 50px 50px">
-      <h1> Jamie Gorson </h1>
-      <h3> Ph.D. Student in Computer Science and Learning Sciences </h3>
-  		<div class="container">
+      <h1 class="titleName"> Jamie Gorson </h1>
+      <h4 class="titleRole"> Ph.D. Student in Computer Science and Learning Sciences </h4>
         <nav class="navbar navbar-default">
             <div class="navbar-header">
               <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
@@ -107,13 +107,14 @@
               </ul>          
             </div>
           </nav>
-        </div>
+            <!-- <div class="container"> -->
+
    	 <div class="container-fluid">
   <div class="row">
     
     <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
       <h5>
-        I am a PhD student at  <a href="http://northwestern.edu">Northwestern University</a> in <a href="http://tsb.northwestern.edu">Technology and Social Behavior</a>, a combined program in Computer Science and Communications. My interest is in designing and building technology to increase hands-on and project-based learning for formal and informal educational spaces. I am currently working in the <a href="http://delta.northwestern.edu/">Delta Lab</a> with <a href="http://matteasterday.com/">Professor Matthew Easterday</a>  and in the <a href="http://tidal.northwestern.edu/">TIDAL Lab</a> with<a href="http://tidal.northwestern.edu/people/mikehorn/"> Professor Michael Horn</a>. In the labs, I work with students in both Computer Sciences and Learning Sciences disciplines. I received my B.S. from <a href="http://olin.edu">Olin College of Engineering</a> in Electrical and Computer Engineering with a concentration in Innovative Education. My research is funded by the<a href="https://www.nsfgrfp.org/"> National Science Foundation Graduate Research Fellowship Program</a> in the field of STEM Ed.
+        I am a PhD student in Computer Science and Learning Sciences, a joint Ph.D. program at  <a href="http://northwestern.edu">Northwestern University</a>. My interest is in designing and building technology to increase teacher's access hands-on and project-based learning. I am currently working in the <a href="http://delta.northwestern.edu/">Delta Lab</a> with <a href="http://matteasterday.com/">Professor Matthew Easterday</a>  and in the <a href="http://tidal.northwestern.edu/">TIDAL Lab</a> with<a href="http://tidal.northwestern.edu/people/mikehorn/"> Professor Michael Horn</a>. I received my B.S. from <a href="http://olin.edu">Olin College of Engineering</a> in Electrical and Computer Engineering with a concentration in Innovative Education. My research is funded by the<a href="https://www.nsfgrfp.org/"> National Science Foundation Graduate Research Fellowship Program</a> in the field of STEM Ed.
       </h5>
     </div>
     <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
@@ -133,6 +134,7 @@
 
 </script>
 
+    <!-- </div> -->
 	</div>
   </div>
 </div>
@@ -159,6 +161,27 @@
           return http.status;
       }
       
+          var proj_num = "18";
+          var proj_id = "#"+proj_num
+          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
+          var blank_img_url = "images/blank.jpg";
+
+        if(urlExists(proj_img_url) == 200) {
+            $(proj_id+'-img').attr("src", proj_img_url);
+        }
+        else {
+            $(proj_id+'-img').attr("src", blank_img_url);
+        }
+
+        $(".tile-container").hover(function(){
+          $(this).find(".tile-text").style.display = "block";
+        });
+          $(proj_id+'-img').width(200);
+          $(proj_id+'-img').height(150);
+          $(proj_id+'-text').hover(function(){
+            $( this ).find( ".tile-para" ).toggle();
+          });
+        
           var proj_num = "17";
           var proj_id = "#"+proj_num
           var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
@@ -438,6 +461,7 @@
     
 </footer>
 
+    </div>
     </div>
   </body>
 </html>

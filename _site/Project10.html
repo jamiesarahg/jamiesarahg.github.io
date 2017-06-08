@@ -10,7 +10,7 @@
 
   <!-- Bootstrap -->
   <link rel="stylesheet" href="css/bootstrap.min.css" >
-
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Questrial" />
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
   <!--[if lt IE 9]>
@@ -27,7 +27,8 @@
     <script src="/node_modules/bootstrap/js/collapse.js"></script>
 </head>
   <body>
-    <div class="container-fluid">
+  	<div class="backgroundImage">
+    <div class="container-fluid mainy">
       <!-- <header>
   <nav class="navbar navbar-default navbar-fixed-top">
     <div class="container">
@@ -69,9 +70,8 @@
       <div class="row">
   <div class="wrapper col-sm-10 col-sm-offset-1">
   	<div clas="content" style="padding: 0px 50px 50px 50px">
-      <h1> Jamie Gorson </h1>
-      <h3> Ph.D. Student in Computer Science and Learning Sciences </h3>
-  		<div class="container">
+      <h1 class="titleName"> Jamie Gorson </h1>
+      <h4 class="titleRole"> Ph.D. Student in Computer Science and Learning Sciences </h4>
         <nav class="navbar navbar-default">
             <div class="navbar-header">
               <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
@@ -107,7 +107,8 @@
               </ul>          
             </div>
           </nav>
-        </div>
+            <!-- <div class="container"> -->
+
    	 <div class="post">
     <header class="post-header">
         <span style="float:right"><a href="/projects.html"> Back to Project List </a></span>
@@ -143,6 +144,7 @@
 </div>
 
 
+    <!-- </div> -->
 	</div>
   </div>
 </div>
@@ -169,6 +171,27 @@
           return http.status;
       }
       
+          var proj_num = "18";
+          var proj_id = "#"+proj_num
+          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
+          var blank_img_url = "images/blank.jpg";
+
+        if(urlExists(proj_img_url) == 200) {
+            $(proj_id+'-img').attr("src", proj_img_url);
+        }
+        else {
+            $(proj_id+'-img').attr("src", blank_img_url);
+        }
+
+        $(".tile-container").hover(function(){
+          $(this).find(".tile-text").style.display = "block";
+        });
+          $(proj_id+'-img').width(200);
+          $(proj_id+'-img').height(150);
+          $(proj_id+'-text').hover(function(){
+            $( this ).find( ".tile-para" ).toggle();
+          });
+        
           var proj_num = "17";
           var proj_id = "#"+proj_num
           var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
@@ -448,6 +471,7 @@
     
 </footer>
 
+    </div>
     </div>
   </body>
 </html>

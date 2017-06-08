@@ -5,17 +5,38 @@
     <description>My Portfolio</description>
     <link>http://jamiegorson.com/</link>
     <atom:link href="http://jamiegorson.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 08 Jun 2017 08:14:59 -0700</pubDate>
-    <lastBuildDate>Thu, 08 Jun 2017 08:14:59 -0700</lastBuildDate>
+    <pubDate>Thu, 08 Jun 2017 09:22:14 -0700</pubDate>
+    <lastBuildDate>Thu, 08 Jun 2017 09:22:14 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>18: Coaching in Design Problem-based Learning</title>
+        <description>&lt;!-- &lt;h2&gt; A Sound Composition Tablet App for Introducing Computational Thinking &lt;/h2&gt; --&gt;
+&lt;center&gt;&lt;img src=&quot;images/projects/loft.jpg&quot; width=&quot;30%&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;We are studying the challenges and the process of being a coach in ill-structured problem-based learning environments. Currently, we are working on a design intervention for &lt;a href=&quot;http://designforamerica.com/&quot;&gt;Design for America&lt;/a&gt; coaches.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Jan 2017 00:00:00 -0800</pubDate>
+        <link>http://jamiegorson.com/Project18.html</link>
+        <guid isPermaLink="true">http://jamiegorson.com/Project18.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
     
       <item>
         <title>17: TunePad - A Sound Composition Tablet App for Introducing Computational Thinking</title>
         <description>&lt;!-- &lt;h2&gt; A Sound Composition Tablet App for Introducing Computational Thinking &lt;/h2&gt; --&gt;
-&lt;center&gt;&lt;img src=&quot;images/projects/TunePadScreenShot.PNG&quot; width=&quot;30%&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;images/projects/tangibleTunepad.PNG&quot; width=&quot;30%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;TunePad is a tablet-based application that uses computational techniques to compose music. The intention is to introduce computational thinking to middle aged students (9-14). The project is a collaboration between the &lt;a href=&quot;http://adamlab.gatech.edu/&quot;&gt;Adam Lab&lt;/a&gt; at Georgia Tech University and the &lt;a href=&quot;http://tidal.northwestern.edu/&quot;&gt; TIDAL lab &lt;/a&gt; at Northwestern University. Our goal is to make the application to allow for repetitive uses so that it prepares students for more formal programming environments, like &lt;a href=&quot;http://earsketch.gatech.edu/landing/#/&quot;&gt;Earsketch&lt;/a&gt;, a computational music remixing tool. We are working on a couple of designs and testing with students at a music school. We are also considering the advantages of including tangible aspects to the project.&lt;/p&gt;
+&lt;p&gt;A WIP poster of TunePad will be presented at Interaction Design and Children Conference at Stanford University in June 2017.&lt;/p&gt;
+
+&lt;p&gt;Computational thinking skills will be important for the next generation of students. However, there is a disparity in the populations joining the field. Integrating computational thinking into artistic fields has shown to increase participation in computer science. In this paper, we present our initial design prototype for TunePad,  From our preliminary testing, with children ages 7-14, we observed that our design actively engages learners and communicates how the programming blocks control the sounds being played. This testing is a prelude to more formal studies as we continue to improve the design and interface of TunePad. With this work, we intend to engage students in computational thinking who may not have otherwise been exposed, giving the opportunity to more people to enter the computer science field.&lt;/p&gt;
+
+&lt;p&gt;TunePad is a a sound composition tablet application controlled by a block-based programming environment. TunePad is designed to introduce middle-school aged learners to computational thinking and to prepare them for text-based coding environments. The project is a collaboration between the &lt;a href=&quot;http://adamlab.gatech.edu/&quot;&gt;Adam Lab&lt;/a&gt; at Georgia Tech University and the &lt;a href=&quot;http://tidal.northwestern.edu/&quot;&gt; TIDAL lab &lt;/a&gt; at Northwestern University.  With this work, we intend to engage students in computational thinking who may not have otherwise been exposed, giving the opportunity to more people to enter the computer science field.  We hope to  balance playful, informal learning while also preparing learners for formal computing environments, like &lt;a href=&quot;https://earsketch.gatech.edu/landing/&quot;&gt;EarSketch&lt;/a&gt;, a computational music remixing tool.&lt;/p&gt;
 </description>
         <pubDate>Tue, 20 Sep 2016 00:00:00 -0700</pubDate>
         <link>http://jamiegorson.com/Project17.html</link>
@@ -692,32 +713,6 @@ I, along with a group of mechanical and electrical engineers, decided to take a 
         <pubDate>Sun, 22 Dec 2013 00:00:00 -0800</pubDate>
         <link>http://jamiegorson.com/Project6.html</link>
         <guid isPermaLink="true">http://jamiegorson.com/Project6.html</guid>
-        
-        
-        <category>projects</category>
-        
-      </item>
-    
-      <item>
-        <title>5: Teaching the Principles of Motors</title>
-        <description>&lt;center&gt;&lt;img src=&quot;images/projects/EMMotor.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;For a ‘Physics: Electricity and Magnetism’ course, my partner and I designed and executed a classroom lesson and activity for third graders. Through easily comprehendible demonstrations, we showed them the principles of electricity and magnetism in order to explain how a motor worked.  Then each student built their own motor by putting the principles they just learned into action. By the end of the lesson, the students had a basic understanding of the workings of a motor. We ran this curricula for three classes. Above, you can see an example of the motor that students built using the activity instructions, linked below.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/s/cfb0ia273m1k4q5/EMLessonPlan.pdf?dl=0&quot;&gt;See our lesson plan&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/s/1ve2jb65aaeil5o/lab_instructions.pdf?dl=0&quot;&gt;See our activity instructions&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;center&gt;&lt;img src=&quot;images/projects/EMRahilHelping.jpg&quot; width=&quot;30%&quot; /&gt;&lt;img src=&quot;images/projects/EMkids.jpg&quot; width=&quot;30%&quot; /&gt;&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Teammate: Rahil Dedhia&lt;/p&gt;
-</description>
-        <pubDate>Sat, 21 Dec 2013 00:00:00 -0800</pubDate>
-        <link>http://jamiegorson.com/Project5.html</link>
-        <guid isPermaLink="true">http://jamiegorson.com/Project5.html</guid>
         
         
         <category>projects</category>
