@@ -46,10 +46,10 @@ layout: default
 
 <br />
 <h3> Project Archive </h3>
-<p>
+<p class="archive">
 {% for post in site.posts %}
 {% if post.display == "False" %}
-    <a  href="{{ post.url | remove_first: "/" }}">
+    <a  href="{{ post.url | remove_first: "/" }}" class="archive">
       {{ post.title | split:": " | last}}; 
     </a>
 {% endif %}
