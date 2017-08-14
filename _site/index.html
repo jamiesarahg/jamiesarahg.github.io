@@ -97,7 +97,7 @@
                   <a href="/projects">Projects</a>
 
                 <li class="navBarItem">
-                <a href="/static/GorsonCVJune2017.pdf">CV</a></li>
+                <a href="/static/GorsonCVAug2017.pdf" target="tab">CV</a></li>
 
                 
                 
@@ -114,7 +114,7 @@
     
     <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
       <p>
-        I am a PhD student in Computer Science and Learning Sciences, a joint Ph.D. program at  <a href="http://northwestern.edu">Northwestern University</a>. My interest is in <b>designing and building technology to increase teacher's access to hands-on and project-based learning.</b> I am currently working in the <a href="http://delta.northwestern.edu/">Delta Lab</a> with <a href="http://matteasterday.com/">Professor Matthew Easterday</a>  and in the <a href="http://tidal.northwestern.edu/">TIDAL Lab</a> with<a href="http://tidal.northwestern.edu/people/mikehorn/"> Professor Michael Horn</a>. I received my B.S. from <a href="http://olin.edu">Olin College of Engineering</a> in Electrical and Computer Engineering with a concentration in Innovative Education. My research is funded by the<a href="https://www.nsfgrfp.org/"> National Science Foundation Graduate Research Fellowship Program</a> in the field of STEM Ed.
+        I am a PhD student in Computer Science and Learning Sciences, a joint Ph.D. program at  <a href="http://northwestern.edu">Northwestern University</a>. My interest is in <b>designing and building technology to increase teacher's access to hands-on and project-based learning.</b> I am currently working in the <a href="http://delta.northwestern.edu/">Delta Lab</a> with <a href="http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/orourke-eleanor.html">Professor Eleanor O'Rourke</a>. I received my B.S. from <a href="http://olin.edu">Olin College of Engineering</a> in Electrical and Computer Engineering with a concentration in Innovative Education. My research is funded by the<a href="https://www.nsfgrfp.org/"> National Science Foundation Graduate Research Fellowship Program</a> in the field of STEM Ed.
       </p>
 
       <br />
@@ -122,8 +122,8 @@
       <h2> Recent Updates </h2>
       <p>
       <ul>
-        <li> I am attending CSCL in Philadelphia, PA from June 18-22 and participating in the Digitally-Mediated Design Thinking Workshop. </li>
-        <li> I will present a poster of TunePad at the Work-In-Progress session at Interaction Design and Children in Stanford, CA from June 27-30. </li>
+        <li> I presented TunePad at the Work-In-Progress poster session at Interaction Design and Children in Stanford, CA from June 27-30. </li>
+        <li> I attended CSCL in Philadelphia, PA from June 18-22 and participated in the Digitally-Mediated Design Thinking Workshop. </li>
         <li> "TunePad: Computational Thinking Through Sound Composition" was accepted to IDC (Interaction Design and Children) as Work-In-Progress! </li>
       </ul>
     </p>
@@ -172,9 +172,28 @@
           return http.status;
       }
       
+          var proj_num = "19";
+          var proj_id = "#"+proj_num
+          var blank_img_url = "images/blank.jpg";
+
+        if(urlExists(proj_img_url) == 200) {
+            $(proj_id+'-img').attr("src", proj_img_url);
+        }
+        else {
+            $(proj_id+'-img').attr("src", blank_img_url);
+        }
+
+        $(".tile-container").hover(function(){
+          $(this).find(".tile-text").style.display = "block";
+        });
+          $(proj_id+'-img').width(200);
+          $(proj_id+'-img').height(150);
+          $(proj_id+'-text').hover(function(){
+            $( this ).find( ".tile-para" ).toggle();
+          });
+        
           var proj_num = "18";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -195,7 +214,6 @@
         
           var proj_num = "17";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -216,7 +234,6 @@
         
           var proj_num = "16";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -237,7 +254,6 @@
         
           var proj_num = "13";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -258,7 +274,6 @@
         
           var proj_num = "15";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -279,7 +294,6 @@
         
           var proj_num = "11";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -300,7 +314,6 @@
         
           var proj_num = "10";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -321,7 +334,6 @@
         
           var proj_num = "8";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -342,7 +354,6 @@
         
           var proj_num = "7";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -363,7 +374,6 @@
         
           var proj_num = "6";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -384,7 +394,6 @@
         
           var proj_num = "5";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -405,7 +414,6 @@
         
           var proj_num = "4";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -426,7 +434,6 @@
         
           var proj_num = "2";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -447,7 +454,6 @@
         
           var proj_num = "1";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {

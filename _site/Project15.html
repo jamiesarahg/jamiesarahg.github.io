@@ -97,7 +97,7 @@
                   <a href="/projects">Projects</a>
 
                 <li class="navBarItem">
-                <a href="/static/GorsonCVJune2017.pdf">CV</a></li>
+                <a href="/static/GorsonCVAug2017.pdf" target="tab">CV</a></li>
 
                 
                 
@@ -178,9 +178,28 @@
           return http.status;
       }
       
+          var proj_num = "19";
+          var proj_id = "#"+proj_num
+          var blank_img_url = "images/blank.jpg";
+
+        if(urlExists(proj_img_url) == 200) {
+            $(proj_id+'-img').attr("src", proj_img_url);
+        }
+        else {
+            $(proj_id+'-img').attr("src", blank_img_url);
+        }
+
+        $(".tile-container").hover(function(){
+          $(this).find(".tile-text").style.display = "block";
+        });
+          $(proj_id+'-img').width(200);
+          $(proj_id+'-img').height(150);
+          $(proj_id+'-text').hover(function(){
+            $( this ).find( ".tile-para" ).toggle();
+          });
+        
           var proj_num = "18";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -201,7 +220,6 @@
         
           var proj_num = "17";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -222,7 +240,6 @@
         
           var proj_num = "16";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -243,7 +260,6 @@
         
           var proj_num = "13";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -264,7 +280,6 @@
         
           var proj_num = "15";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -285,7 +300,6 @@
         
           var proj_num = "11";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -306,7 +320,6 @@
         
           var proj_num = "10";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -327,7 +340,6 @@
         
           var proj_num = "8";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -348,7 +360,6 @@
         
           var proj_num = "7";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -369,7 +380,6 @@
         
           var proj_num = "6";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -390,7 +400,6 @@
         
           var proj_num = "5";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -411,7 +420,6 @@
         
           var proj_num = "4";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -432,7 +440,6 @@
         
           var proj_num = "2";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -453,7 +460,6 @@
         
           var proj_num = "1";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {

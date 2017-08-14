@@ -97,7 +97,7 @@
                   <a href="/projects">Projects</a>
 
                 <li class="navBarItem">
-                <a href="/static/GorsonCVJune2017.pdf">CV</a></li>
+                <a href="/static/GorsonCVAug2017.pdf" target="tab">CV</a></li>
 
                 
                 
@@ -109,7 +109,27 @@
           </nav>
             <!-- <div class="container"> -->
 
-   	 <h1> Current Projects </h1>
+   	 <h1>Current Project</h1>
+<div class="container-fluid center-table">
+   <div class="row">
+    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6" >
+      <div class="project-cell">
+        <a href="/Project19"><img src="images/projects/growth.png" class="center-block project-img" /> </a>
+      </div>
+    </div>
+    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6" >
+      <div class="project-cell">
+        <a href="/Project19"><h3> Designing a Growth Mindset Development Environment for Novice Programmers</h3></a>
+        <p> The goal of this work is to design, build and evaluate a new programming environment that increases confidence and motivation in introductory computer science students by encouraging a growth mindset through process praise. </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+<h1>Previous Graduate Research Projects </h1>
 <div class="container-fluid center-table">
    <div class="row">
     <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6" >
@@ -128,7 +148,7 @@
     </div>
   </div>
 </div>
-<h1> Past Projects </h1>
+<h1>More Past Projects </h1>
 
 <div class="container-fluid">
   <div class="row">
@@ -154,6 +174,8 @@
 <br />
 <h3> Project Archive </h3>
 <p class="archive">
+
+
 
 
 
@@ -252,9 +274,28 @@
           return http.status;
       }
       
+          var proj_num = "19";
+          var proj_id = "#"+proj_num
+          var blank_img_url = "images/blank.jpg";
+
+        if(urlExists(proj_img_url) == 200) {
+            $(proj_id+'-img').attr("src", proj_img_url);
+        }
+        else {
+            $(proj_id+'-img').attr("src", blank_img_url);
+        }
+
+        $(".tile-container").hover(function(){
+          $(this).find(".tile-text").style.display = "block";
+        });
+          $(proj_id+'-img').width(200);
+          $(proj_id+'-img').height(150);
+          $(proj_id+'-text').hover(function(){
+            $( this ).find( ".tile-para" ).toggle();
+          });
+        
           var proj_num = "18";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -275,7 +316,6 @@
         
           var proj_num = "17";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -296,7 +336,6 @@
         
           var proj_num = "16";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -317,7 +356,6 @@
         
           var proj_num = "13";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -338,7 +376,6 @@
         
           var proj_num = "15";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -359,7 +396,6 @@
         
           var proj_num = "11";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -380,7 +416,6 @@
         
           var proj_num = "10";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -401,7 +436,6 @@
         
           var proj_num = "8";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -422,7 +456,6 @@
         
           var proj_num = "7";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -443,7 +476,6 @@
         
           var proj_num = "6";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -464,7 +496,6 @@
         
           var proj_num = "5";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -485,7 +516,6 @@
         
           var proj_num = "4";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -506,7 +536,6 @@
         
           var proj_num = "2";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
@@ -527,7 +556,6 @@
         
           var proj_num = "1";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {

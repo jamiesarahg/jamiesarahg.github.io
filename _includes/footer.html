@@ -23,7 +23,6 @@
       {% for post in site.posts  %}
           var proj_num = "{{ post.title | split:": " | first | split: " " | last }}";
           var proj_id = "#"+proj_num
-          var proj_img_url = "images/thumbnails/" + proj_num + ".jpg";
           var blank_img_url = "images/blank.jpg";
 
         if(urlExists(proj_img_url) == 200) {
