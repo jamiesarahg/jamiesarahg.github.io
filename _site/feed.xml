@@ -5,15 +5,15 @@
     <description>My Portfolio</description>
     <link>http://jamiegorson.com/</link>
     <atom:link href="http://jamiegorson.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 06 Sep 2017 09:15:36 -0700</pubDate>
-    <lastBuildDate>Wed, 06 Sep 2017 09:15:36 -0700</lastBuildDate>
+    <pubDate>Sat, 14 Apr 2018 13:00:18 -0500</pubDate>
+    <lastBuildDate>Sat, 14 Apr 2018 13:00:18 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>19: Designing a Growth Mindset Development Environment for Novice Programmers</title>
-        <description>&lt;p&gt;More info availble shortly.&lt;/p&gt;
+        <description>&lt;p&gt;I am working with Professor Eleanor O’Rourke on designing and developing a development environment that promotes growth mindset for novice programmers. We are currently conducting research on how feedback impacts mindset and how different mindsets are enacted in programming behaviors.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 14 Aug 2017 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 14 Aug 2017 00:00:00 -0500</pubDate>
         <link>http://jamiegorson.com/Project19.html</link>
         <guid isPermaLink="true">http://jamiegorson.com/Project19.html</guid>
         
@@ -28,9 +28,15 @@
 &lt;center&gt;&lt;img src=&quot;images/projects/loft.jpg&quot; width=&quot;30%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;We are studying the challenges and the process of being a coach in ill-structured problem-based learning environments. Currently, we are working on a design intervention for &lt;a href=&quot;http://designforamerica.com/&quot;&gt;Design for America&lt;/a&gt; coaches.&lt;/p&gt;
+&lt;p&gt;We are studying the challenges and the process of being a coach in ill-structured problem-based learning environments. During Summer 2017, I worked with a team of researchers on designing learning environments that helps student teams effectively iterate for highly ill-structured design problems. We proposed that we can support iteration by (a) facilitating discussions, guiding the planning process, and encouraging teams to prioritize the riskiest parts of their project; (b) providing and teaching the use of two external representations, the design canvas and iteration plan; and (c) providing and promoting prompts and questions to surface common pitfalls. We found that by using our design, student teams iterated more and conducted more testing with users. This work helps inform designers of learning environments for design education. Additionally, from this work, we better understand the support that students need to learn iteration.&lt;/p&gt;
+
+&lt;p&gt;This work will be presented at the International Conference for the Learning Sciences in London in June 2018:&lt;/p&gt;
+
+&lt;p&gt;Rees Lewis, D., &lt;b&gt;Gorson, J.,&lt;/b&gt; Maliakal, L. V., Carlson, S. E., Gerber, E. M., Riesbeck, C. K., &amp;amp; Easterday, M. W. (2018). &lt;i&gt;Planning to iterate: Supporting iterative practices for real-world ill-structured problem-solving.&lt;/i&gt; Presented at ICLS 2018.&lt;/p&gt;
+
+&lt;p&gt;Carlson, S. E., Maliakal, L. V., Rees Lewis, D., &lt;b&gt;Gorson, J.,&lt;/b&gt; Gerber, E. M., &amp;amp; Easterday, M. W. (2018). &lt;i&gt;Defining and assessing risk analysis: the key to strategic iteration in real-world problem solving.&lt;/i&gt; Presented at ICLS 2018.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 03 Jan 2017 00:00:00 -0800</pubDate>
+        <pubDate>Tue, 03 Jan 2017 00:00:00 -0600</pubDate>
         <link>http://jamiegorson.com/Project18.html</link>
         <guid isPermaLink="true">http://jamiegorson.com/Project18.html</guid>
         
@@ -45,13 +51,20 @@
 &lt;center&gt;&lt;img src=&quot;images/projects/tangibleTunepad.PNG&quot; width=&quot;30%&quot; /&gt;&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;A WIP poster of TunePad will be presented at Interaction Design and Children Conference at Stanford University in June 2017.&lt;/p&gt;
+&lt;h2&gt;Starting in March 2018, I will be rejoining the TunePad team to investigate how we can promote a growth mindset in students learning to program in TunePad.&lt;/h2&gt;
+
+&lt;p&gt;TunePad is preparing for a public release June 30th 2018. I am working with the TunePad team, specifically on error messages, feedback and growth mindset.&lt;/p&gt;
+
+&lt;h2&gt;I started working on TunePad in September 2016 and conducting the initial prototyping for the project.&lt;/h2&gt;
 
 &lt;p&gt;Computational thinking skills will be important for the next generation of students. However, there is a disparity in the populations joining the field. Integrating computational thinking into artistic fields has shown to increase participation in computer science. In this paper, we present our initial design prototype for TunePad,  From our preliminary testing, with children ages 7-14, we observed that our design actively engages learners and communicates how the programming blocks control the sounds being played. This testing is a prelude to more formal studies as we continue to improve the design and interface of TunePad. With this work, we intend to engage students in computational thinking who may not have otherwise been exposed, giving the opportunity to more people to enter the computer science field.&lt;/p&gt;
 
 &lt;p&gt;TunePad is a a sound composition tablet application controlled by a block-based programming environment. TunePad is designed to introduce middle-school aged learners to computational thinking and to prepare them for text-based coding environments. The project is a collaboration between the &lt;a href=&quot;http://adamlab.gatech.edu/&quot;&gt;Adam Lab&lt;/a&gt; at Georgia Tech University and the &lt;a href=&quot;http://tidal.northwestern.edu/&quot;&gt; TIDAL lab &lt;/a&gt; at Northwestern University.  With this work, we intend to engage students in computational thinking who may not have otherwise been exposed, giving the opportunity to more people to enter the computer science field.  We hope to  balance playful, informal learning while also preparing learners for formal computing environments, like &lt;a href=&quot;https://earsketch.gatech.edu/landing/&quot;&gt;EarSketch&lt;/a&gt;, a computational music remixing tool.&lt;/p&gt;
+
+&lt;p&gt;A WIP poster of TunePad was presented at Interaction Design and Children Conference at Stanford University in June 2017.&lt;/p&gt;
+
 </description>
-        <pubDate>Tue, 20 Sep 2016 00:00:00 -0700</pubDate>
+        <pubDate>Tue, 20 Sep 2016 00:00:00 -0500</pubDate>
         <link>http://jamiegorson.com/Project17.html</link>
         <guid isPermaLink="true">http://jamiegorson.com/Project17.html</guid>
         
@@ -88,7 +101,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Sat, 13 Feb 2016 00:00:00 -0800</pubDate>
+        <pubDate>Sat, 13 Feb 2016 00:00:00 -0600</pubDate>
         <link>http://jamiegorson.com/Project16.html</link>
         <guid isPermaLink="true">http://jamiegorson.com/Project16.html</guid>
         
@@ -128,7 +141,7 @@
 &lt;p&gt;Teammate: Nicole Rifkin&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 20 Dec 2015 00:00:00 -0800</pubDate>
+        <pubDate>Sun, 20 Dec 2015 00:00:00 -0600</pubDate>
         <link>http://jamiegorson.com/Project13.html</link>
         <guid isPermaLink="true">http://jamiegorson.com/Project13.html</guid>
         
@@ -155,7 +168,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Tue, 12 May 2015 00:00:00 -0700</pubDate>
+        <pubDate>Tue, 12 May 2015 00:00:00 -0500</pubDate>
         <link>http://jamiegorson.com/Project15.html</link>
         <guid isPermaLink="true">http://jamiegorson.com/Project15.html</guid>
         
@@ -217,7 +230,7 @@ I ran workshops for the teaching team where they used the design process to deve
 &lt;/script&gt;
 
 </description>
-        <pubDate>Tue, 28 Apr 2015 00:00:00 -0700</pubDate>
+        <pubDate>Tue, 28 Apr 2015 00:00:00 -0500</pubDate>
         <link>http://jamiegorson.com/Project11.html</link>
         <guid isPermaLink="true">http://jamiegorson.com/Project11.html</guid>
         
@@ -237,7 +250,7 @@ I ran workshops for the teaching team where they used the design process to deve
 &lt;!-- Add carusel of images from slide deck --&gt;
 &lt;p&gt;Teammates: Shane Skikne, Cameron Anderson&lt;/p&gt;
 </description>
-        <pubDate>Sat, 20 Dec 2014 00:00:00 -0800</pubDate>
+        <pubDate>Sat, 20 Dec 2014 00:00:00 -0600</pubDate>
         <link>http://jamiegorson.com/Project10.html</link>
         <guid isPermaLink="true">http://jamiegorson.com/Project10.html</guid>
         
@@ -667,7 +680,7 @@ In the end, we developed the S2, an intelligent note-taking add-on to a stethosc
 &lt;!-- Add carusel of images from slide deck --&gt;
 &lt;p&gt;Teammates: &lt;a href=&quot;http://eqwang.weebly.com&quot;&gt;Emily Wang&lt;/a&gt;, Justin Poh, &lt;a href=&quot;http://linkedin.com/in/mcieminski&quot;&gt;Mitchell Cieminski&lt;/a&gt;, Jack Fan&lt;/p&gt;
 </description>
-        <pubDate>Tue, 20 May 2014 00:00:00 -0700</pubDate>
+        <pubDate>Tue, 20 May 2014 00:00:00 -0500</pubDate>
         <link>http://jamiegorson.com/Project8.html</link>
         <guid isPermaLink="true">http://jamiegorson.com/Project8.html</guid>
         
@@ -692,7 +705,7 @@ In the end, we developed the S2, an intelligent note-taking add-on to a stethosc
 
 &lt;p&gt;Teammate: Rachel Boy&lt;/p&gt;
 </description>
-        <pubDate>Tue, 20 May 2014 00:00:00 -0700</pubDate>
+        <pubDate>Tue, 20 May 2014 00:00:00 -0500</pubDate>
         <link>http://jamiegorson.com/Project7.html</link>
         <guid isPermaLink="true">http://jamiegorson.com/Project7.html</guid>
         
