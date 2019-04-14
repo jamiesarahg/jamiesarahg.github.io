@@ -5,13 +5,13 @@
     <description>My Portfolio</description>
     <link>http://jamiegorson.com/</link>
     <atom:link href="http://jamiegorson.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 14 Apr 2018 13:00:18 -0500</pubDate>
-    <lastBuildDate>Sat, 14 Apr 2018 13:00:18 -0500</lastBuildDate>
+    <pubDate>Sun, 14 Apr 2019 17:04:00 -0500</pubDate>
+    <lastBuildDate>Sun, 14 Apr 2019 17:04:00 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>19: Designing a Growth Mindset Development Environment for Novice Programmers</title>
-        <description>&lt;p&gt;I am working with Professor Eleanor O’Rourke on designing and developing a development environment that promotes growth mindset for novice programmers. We are currently conducting research on how feedback impacts mindset and how different mindsets are enacted in programming behaviors.&lt;/p&gt;
+        <description>&lt;p&gt;I am working with Professor Eleanor O’Rourke on understanding how mindset is enacted in programming behaviors. We are currently exploring how other psychological constructs may be influencing the measurement and influence of mindset on behaviors. We hope to use our findings to design technology to help the motivation and persistence of novice programmers.&lt;/p&gt;
 </description>
         <pubDate>Mon, 14 Aug 2017 00:00:00 -0500</pubDate>
         <link>http://jamiegorson.com/Project19.html</link>
@@ -30,7 +30,7 @@
 
 &lt;p&gt;We are studying the challenges and the process of being a coach in ill-structured problem-based learning environments. During Summer 2017, I worked with a team of researchers on designing learning environments that helps student teams effectively iterate for highly ill-structured design problems. We proposed that we can support iteration by (a) facilitating discussions, guiding the planning process, and encouraging teams to prioritize the riskiest parts of their project; (b) providing and teaching the use of two external representations, the design canvas and iteration plan; and (c) providing and promoting prompts and questions to surface common pitfalls. We found that by using our design, student teams iterated more and conducted more testing with users. This work helps inform designers of learning environments for design education. Additionally, from this work, we better understand the support that students need to learn iteration.&lt;/p&gt;
 
-&lt;p&gt;This work will be presented at the International Conference for the Learning Sciences in London in June 2018:&lt;/p&gt;
+&lt;p&gt;This work was presented at the International Conference for the Learning Sciences in London in June 2018:&lt;/p&gt;
 
 &lt;p&gt;Rees Lewis, D., &lt;b&gt;Gorson, J.,&lt;/b&gt; Maliakal, L. V., Carlson, S. E., Gerber, E. M., Riesbeck, C. K., &amp;amp; Easterday, M. W. (2018). &lt;i&gt;Planning to iterate: Supporting iterative practices for real-world ill-structured problem-solving.&lt;/i&gt; Presented at ICLS 2018.&lt;/p&gt;
 
