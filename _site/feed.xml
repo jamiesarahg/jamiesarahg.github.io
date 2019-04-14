@@ -3,19 +3,19 @@
   <channel>
     <title>Jamie Gorson</title>
     <description>My Portfolio</description>
-    <link>http://jamiegorson.com/</link>
-    <atom:link href="http://jamiegorson.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 14 Apr 2019 17:04:00 -0500</pubDate>
-    <lastBuildDate>Sun, 14 Apr 2019 17:04:00 -0500</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 14 Apr 2019 17:48:06 -0500</pubDate>
+    <lastBuildDate>Sun, 14 Apr 2019 17:48:06 -0500</lastBuildDate>
+    <generator>Jekyll v3.7.4</generator>
     
       <item>
         <title>19: Designing a Growth Mindset Development Environment for Novice Programmers</title>
         <description>&lt;p&gt;I am working with Professor Eleanor O’Rourke on understanding how mindset is enacted in programming behaviors. We are currently exploring how other psychological constructs may be influencing the measurement and influence of mindset on behaviors. We hope to use our findings to design technology to help the motivation and persistence of novice programmers.&lt;/p&gt;
 </description>
         <pubDate>Mon, 14 Aug 2017 00:00:00 -0500</pubDate>
-        <link>http://jamiegorson.com/Project19.html</link>
-        <guid isPermaLink="true">http://jamiegorson.com/Project19.html</guid>
+        <link>http://localhost:4000/Project19.html</link>
+        <guid isPermaLink="true">http://localhost:4000/Project19.html</guid>
         
         
         <category>projects</category>
@@ -37,8 +37,8 @@
 &lt;p&gt;Carlson, S. E., Maliakal, L. V., Rees Lewis, D., &lt;b&gt;Gorson, J.,&lt;/b&gt; Gerber, E. M., &amp;amp; Easterday, M. W. (2018). &lt;i&gt;Defining and assessing risk analysis: the key to strategic iteration in real-world problem solving.&lt;/i&gt; Presented at ICLS 2018.&lt;/p&gt;
 </description>
         <pubDate>Tue, 03 Jan 2017 00:00:00 -0600</pubDate>
-        <link>http://jamiegorson.com/Project18.html</link>
-        <guid isPermaLink="true">http://jamiegorson.com/Project18.html</guid>
+        <link>http://localhost:4000/Project18.html</link>
+        <guid isPermaLink="true">http://localhost:4000/Project18.html</guid>
         
         
         <category>projects</category>
@@ -65,8 +65,8 @@
 
 </description>
         <pubDate>Tue, 20 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://jamiegorson.com/Project17.html</link>
-        <guid isPermaLink="true">http://jamiegorson.com/Project17.html</guid>
+        <link>http://localhost:4000/Project17.html</link>
+        <guid isPermaLink="true">http://localhost:4000/Project17.html</guid>
         
         
         <category>projects</category>
@@ -102,8 +102,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 13 Feb 2016 00:00:00 -0600</pubDate>
-        <link>http://jamiegorson.com/Project16.html</link>
-        <guid isPermaLink="true">http://jamiegorson.com/Project16.html</guid>
+        <link>http://localhost:4000/Project16.html</link>
+        <guid isPermaLink="true">http://localhost:4000/Project16.html</guid>
         
         
         <category>projects</category>
@@ -142,8 +142,8 @@
 
 </description>
         <pubDate>Sun, 20 Dec 2015 00:00:00 -0600</pubDate>
-        <link>http://jamiegorson.com/Project13.html</link>
-        <guid isPermaLink="true">http://jamiegorson.com/Project13.html</guid>
+        <link>http://localhost:4000/Project13.html</link>
+        <guid isPermaLink="true">http://localhost:4000/Project13.html</guid>
         
         
         <category>projects</category>
@@ -169,8 +169,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 12 May 2015 00:00:00 -0500</pubDate>
-        <link>http://jamiegorson.com/Project15.html</link>
-        <guid isPermaLink="true">http://jamiegorson.com/Project15.html</guid>
+        <link>http://localhost:4000/Project15.html</link>
+        <guid isPermaLink="true">http://localhost:4000/Project15.html</guid>
         
         
         <category>projects</category>
@@ -231,8 +231,8 @@ I ran workshops for the teaching team where they used the design process to deve
 
 </description>
         <pubDate>Tue, 28 Apr 2015 00:00:00 -0500</pubDate>
-        <link>http://jamiegorson.com/Project11.html</link>
-        <guid isPermaLink="true">http://jamiegorson.com/Project11.html</guid>
+        <link>http://localhost:4000/Project11.html</link>
+        <guid isPermaLink="true">http://localhost:4000/Project11.html</guid>
         
         
         <category>projects</category>
@@ -251,8 +251,8 @@ I ran workshops for the teaching team where they used the design process to deve
 &lt;p&gt;Teammates: Shane Skikne, Cameron Anderson&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 Dec 2014 00:00:00 -0600</pubDate>
-        <link>http://jamiegorson.com/Project10.html</link>
-        <guid isPermaLink="true">http://jamiegorson.com/Project10.html</guid>
+        <link>http://localhost:4000/Project10.html</link>
+        <guid isPermaLink="true">http://localhost:4000/Project10.html</guid>
         
         
         <category>projects</category>
@@ -681,8 +681,8 @@ In the end, we developed the S2, an intelligent note-taking add-on to a stethosc
 &lt;p&gt;Teammates: &lt;a href=&quot;http://eqwang.weebly.com&quot;&gt;Emily Wang&lt;/a&gt;, Justin Poh, &lt;a href=&quot;http://linkedin.com/in/mcieminski&quot;&gt;Mitchell Cieminski&lt;/a&gt;, Jack Fan&lt;/p&gt;
 </description>
         <pubDate>Tue, 20 May 2014 00:00:00 -0500</pubDate>
-        <link>http://jamiegorson.com/Project8.html</link>
-        <guid isPermaLink="true">http://jamiegorson.com/Project8.html</guid>
+        <link>http://localhost:4000/Project8.html</link>
+        <guid isPermaLink="true">http://localhost:4000/Project8.html</guid>
         
         
         <category>projects</category>
@@ -706,8 +706,8 @@ In the end, we developed the S2, an intelligent note-taking add-on to a stethosc
 &lt;p&gt;Teammate: Rachel Boy&lt;/p&gt;
 </description>
         <pubDate>Tue, 20 May 2014 00:00:00 -0500</pubDate>
-        <link>http://jamiegorson.com/Project7.html</link>
-        <guid isPermaLink="true">http://jamiegorson.com/Project7.html</guid>
+        <link>http://localhost:4000/Project7.html</link>
+        <guid isPermaLink="true">http://localhost:4000/Project7.html</guid>
         
         
         <category>projects</category>
