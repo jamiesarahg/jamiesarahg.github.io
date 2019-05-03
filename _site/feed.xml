@@ -5,13 +5,13 @@
     <description>My Portfolio</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 02 May 2019 19:46:17 -0500</pubDate>
-    <lastBuildDate>Thu, 02 May 2019 19:46:17 -0500</lastBuildDate>
+    <pubDate>Thu, 02 May 2019 19:51:57 -0500</pubDate>
+    <lastBuildDate>Thu, 02 May 2019 19:51:57 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
-        <title>19: Designing a Growth Mindset Development Environment for Novice Programmers</title>
-        <description>&lt;p&gt;I am working with Professor Eleanor O’Rourke on understanding how mindset is enacted in programming behaviors. We are currently exploring how other psychological constructs may be influencing the measurement and influence of mindset on behaviors. We hope to use our findings to design technology to help the motivation and persistence of novice programmers.&lt;/p&gt;
+        <title>19: Novice Programmers Talk About Intelligence</title>
+        <description>&lt;p&gt;I am working with Professor Eleanor O’Rourke on understanding how novice programming students percieve programming intellience. We are trying to understand how mindset interacts with students’ criteria for evaluating their intelligence. We are currently exploring how other psychological constructs may be influencing the measurement and influence of mindset on behaviors. We hope to use our findings to design technology to help the motivation and persistence of novice programmers.&lt;/p&gt;
 </description>
         <pubDate>Mon, 14 Aug 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/Project19.html</link>
