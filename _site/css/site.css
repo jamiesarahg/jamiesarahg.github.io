@@ -10,7 +10,6 @@ darker blue: 003d84
 /*dark purple #4a3970 #7f6aa0 #b4ace2 
 very light #cccbe5 
 #91a1dc #5f7bd3 dark blue#3a58b2*/
-
 body{
     background-color: #4a3970;
     font-size: 18px;
@@ -201,7 +200,8 @@ ul.nav li.dropdown:hover ul.dropdown-menu {
   height: 200px;
 }
 .past-project-img{
-  height: 150px;
+  width:100%;
+
 }
 .tile-container.caption{
   text-align: left;
