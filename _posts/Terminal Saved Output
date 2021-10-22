@@ -1,0 +1,1915 @@
+Last login: Mon Oct 11 12:50:26 on ttys000
+-bash: $'\E[01': command not found
+-bash: 31mWarning: command not found
+-bash: 00m: command not found
+-bash: $'\E[01': command not found
+-bash: 31mPlease: command not found
+-bash: 00m: command not found
+-bash: $'\E[01': command not found
+-bash: 31m: command not found
+-bash: 00m: command not found
+-bash: $'\E[01': command not found
+-bash: 31meval: command not found
+-bash: 00m: command not found
+jamies:Reconstructor jamie$ ls
+Data		README.md	Tests		src
+DataCleaning	Reformatter	__init__.py	test
+jamies:Reconstructor jamie$ cd ..
+jamies:Reconstructor jamie$ cd ..'
+> \
+> cd.^C
+jamies:Reconstructor jamie$ cd ..
+jamies:Detection jamie$ cd ..
+jamies:DeltaLab jamie$ cd ..
+jamies:GradSchoolDocs jamie$ cd ..
+jamies:Documents jamie$ cd ..
+jamies:OneDrive - Northwestern University jamie$ cd ..
+jamies:~ jamie$ cd .grasp_settings/extensions/tools/
+jamies:tools jamie$ git status
+On branch issue7
+Your branch is up to date with 'origin/issue7'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   DataCollectionTool.java
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.DS_Store
+	DataCollectionTool$1.class
+	DataCollectionTool$2.class
+	DataCollectionTool$3.class
+	DataCollectionTool$4.class
+	DataCollectionTool$5.class
+	DataCollectionTool$6.class
+	DataCollectionTool$7.class
+	DataCollectionTool$8.class
+	DataCollectionTool$MyTask.class
+	DataCollectionTool.class
+
+no changes added to commit (use "git add" and/or "git commit -a")
+jamies:tools jamie$ git diff
+diff --git a/DataCollectionTool.java b/DataCollectionTool.java
+index 847e769..7228ae5 100644
+--- a/DataCollectionTool.java
++++ b/DataCollectionTool.java
+@@ -236,7 +236,7 @@ public class DataCollectionTool implements Tool {
+               long lastScrollTimeLong = lastScrollTime.get(e.getFilename());
+               if (timestamp - lastScrollTimeLong > 500){
+                 if (timestamp - lastScrollTimeLong < 750){
+-                  log(9, e.getFilename(), "{distance: " +totalScrollV.get(e.getFilename())+"}", timestamp);
++                  log(9, e.getFilename(), "{\"distance\": " +totalScrollV.get(e.getFilename())+"}", timestamp);^M
+                   totalScrollV.put(e.getFilename(),  Long.valueOf(0));
+ 
+                 }
+diff --git a/DataCollectionTool.java b/DataCollectionTool.java
+index 847e769..7228ae5 100644
+--- a/DataCollectionTool.java
++++ b/DataCollectionTool.java
+@@ -236,7 +236,7 @@ public class DataCollectionTool implements Tool {
+               long lastScrollTimeLong = lastScrollTime.get(e.getFilename());
+               if (timestamp - lastScrollTimeLong > 500){
+                 if (timestamp - lastScrollTimeLong < 750){
+-                  log(9, e.getFilename(), "{distance: " +totalScrollV.get(e.get
+Filename())+"}", timestamp);
++                  log(9, e.getFilename(), "{\"distance\": " +totalScrollV.get(e
+.getFilename())+"}", timestamp);^M
+                   totalScrollV.put(e.getFilename(),  Long.valueOf(0));
+ 
+                 }
+@@ -265,7 +265,7 @@ public class DataCollectionTool implements Tool {
+         public void run() {
+           if (totalScrollV.get(timerFilename) != 0){
+             long timestamp = new Timestamp(System.currentTimeMillis()).getTime();
+-            log(9, timerFilename, "{distance: " +totalScrollV.get(timerFilename)+"}", timestamp-500);
++            log(9, timerFilename, "{\"distance\": " +totalScrollV.get(timerFilename)+"}", timestamp-500);^M
+             totalScrollV.put(timerFilename,  Long.valueOf(0));
+             lastScrollTime.put(timerFilename, timestamp);
+           }
+@@ -411,7 +411,7 @@ public class DataCollectionTool implements Tool {
+           public void eventDispatched(AWTEvent event) {
+           if (event.getID() == MouseEvent.MOUSE_PRESSED){
+               long timestamp = new Timestamp(System.currentTimeMillis()).getTime();
+-              log(10, "N/A", "{\"details\": \""+ event.toString() + "\"}", timestamp);
++              log(10, "N/A", "{\"details\": \""+ encodeString(event.toString()) + "\"}", timestamp);^M
+           }
+       }
+     };
+jamies:tools jamie$ 
+jamies:tools jamie$ git commit -am "update scrolling recording"
+[issue7 cf76edc] update scrolling recording
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+jamies:tools jamie$ git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 352 bytes | 352.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/jamiesarahg/jGRASP_dataCollection.git
+   cb553a5..cf76edc  issue7 -> issue7
+jamies:tools jamie$ git status
+On branch issue7
+Your branch is up to date with 'origin/issue7'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.DS_Store
+	DataCollectionTool$1.class
+	DataCollectionTool$2.class
+	DataCollectionTool$3.class
+	DataCollectionTool$4.class
+	DataCollectionTool$5.class
+	DataCollectionTool$6.class
+	DataCollectionTool$7.class
+	DataCollectionTool$8.class
+	DataCollectionTool$MyTask.class
+	DataCollectionTool.class
+
+nothing added to commit but untracked files present (use "git add" to track)
+jamies:tools jamie$ git checkout master
+Switched to branch 'master'
+Your branch is behind 'origin/master' by 2 commits, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+jamies:tools jamie$ git pull
+hint: Pulling without specifying how to reconcile divergent branches is
+hint: discouraged. You can squelch this message by running one of the following
+hint: commands sometime before your next pull:
+hint: 
+hint:   git config pull.rebase false  # merge (the default strategy)
+hint:   git config pull.rebase true   # rebase
+hint:   git config pull.ff only       # fast-forward only
+hint: 
+hint: You can replace "git config" with "git config --global" to set a default
+hint: preference for all repositories. You can also pass --rebase, --no-rebase,
+hint: or --ff-only on the command line to override the configured default per
+hint: invocation.
+remote: Enumerating objects: 1, done.
+remote: Counting objects: 100% (1/1), done.
+remote: Total 1 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (1/1), 626 bytes | 626.00 KiB/s, done.
+From https://github.com/jamiesarahg/jGRASP_dataCollection
+   c7fd69f..b92a2a7  master     -> origin/master
+Updating 9b83913..b92a2a7
+Fast-forward
+ DataCollectionTool.java | 174 +++++++++++++++++++++++++++++++++++++++---------
+ 1 file changed, 141 insertions(+), 33 deletions(-)
+jamies:tools jamie$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.DS_Store
+	DataCollectionTool$1.class
+	DataCollectionTool$2.class
+	DataCollectionTool$3.class
+	DataCollectionTool$4.class
+	DataCollectionTool$5.class
+	DataCollectionTool$6.class
+	DataCollectionTool$7.class
+	DataCollectionTool$8.class
+	DataCollectionTool$MyTask.class
+	DataCollectionTool.class
+
+nothing added to commit but untracked files present (use "git add" to track)
+jamies:tools jamie$ ggit status
+-bash: ggit: command not found
+jamies:tools jamie$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   DataCollectionTool.java
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.DS_Store
+	DataCollectionTool$1.class
+	DataCollectionTool$2.class
+	DataCollectionTool$3.class
+	DataCollectionTool$4.class
+	DataCollectionTool$5.class
+	DataCollectionTool$6.class
+	DataCollectionTool$7.class
+	DataCollectionTool$8.class
+	DataCollectionTool$MyTask.class
+	DataCollectionTool.class
+
+no changes added to commit (use "git add" and/or "git commit -a")
+jamies:tools jamie$ git checkout -b updateLongOutputs
+Switched to a new branch 'updateLongOutputs'
+jamies:tools jamie$ git commit -am "ensure last few lines of output are recorded"
+[updateLongOutputs 374b27a] ensure last few lines of output are recorded
+ 1 file changed, 23 insertions(+), 21 deletions(-)
+jamies:tools jamie$ git push
+fatal: The current branch updateLongOutputs has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin updateLongOutputs
+
+jamies:tools jamie$ git push --set-upstream origin updateLongOutputs
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 467 bytes | 467.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+remote: 
+remote: Create a pull request for 'updateLongOutputs' on GitHub by visiting:
+remote:      https://github.com/jamiesarahg/jGRASP_dataCollection/pull/new/updateLongOutputs
+remote: 
+To https://github.com/jamiesarahg/jGRASP_dataCollection.git
+ * [new branch]      updateLongOutputs -> updateLongOutputs
+Branch 'updateLongOutputs' set up to track remote branch 'updateLongOutputs' from 'origin'.
+jamies:tools jamie$ javac DataCollectionTool
+error: Class names, 'DataCollectionTool', are only accepted if annotation processing is explicitly requested
+1 error
+jamies:tools jamie$ javac DataCollectionTool.java 
+DataCollectionTool.java:358: error: '(' expected
+               if i < 100 or i > io.size()-5 {
+                 ^
+DataCollectionTool.java:358: error: ')' expected
+               if i < 100 or i > io.size()-5 {
+                         ^
+DataCollectionTool.java:358: error: ';' expected
+               if i < 100 or i > io.size()-5 {
+                              ^
+DataCollectionTool.java:358: error: variable declaration not allowed here
+               if i < 100 or i > io.size()-5 {
+                             ^
+DataCollectionTool.java:358: error: not a statement
+               if i < 100 or i > io.size()-5 {
+                                          ^
+DataCollectionTool.java:358: error: ';' expected
+               if i < 100 or i > io.size()-5 {
+                                            ^
+6 errors
+jamies:tools jamie$ javac DataCollectionTool.java 
+DataCollectionTool.java:358: error: ')' expected
+               if (i < 100 or i > io.size()-5) {
+                          ^
+DataCollectionTool.java:358: error: ';' expected
+               if (i < 100 or i > io.size()-5) {
+                               ^
+DataCollectionTool.java:358: error: variable declaration not allowed here
+               if (i < 100 or i > io.size()-5) {
+                              ^
+DataCollectionTool.java:358: error: not a statement
+               if (i < 100 or i > io.size()-5) {
+                                           ^
+DataCollectionTool.java:358: error: ';' expected
+               if (i < 100 or i > io.size()-5) {
+                                             ^
+5 errors
+jamies:tools jamie$ javac DataCollectionTool.java 
+DataCollectionTool.java:358: error: ')' expected
+               if (i < 100 OR i > io.size()-5) {
+                          ^
+DataCollectionTool.java:358: error: ';' expected
+               if (i < 100 OR i > io.size()-5) {
+                               ^
+DataCollectionTool.java:358: error: variable declaration not allowed here
+               if (i < 100 OR i > io.size()-5) {
+                              ^
+DataCollectionTool.java:358: error: not a statement
+               if (i < 100 OR i > io.size()-5) {
+                                           ^
+DataCollectionTool.java:358: error: ';' expected
+               if (i < 100 OR i > io.size()-5) {
+                                             ^
+5 errors
+jamies:tools jamie$ javac DataCollectionTool.java 
+DataCollectionTool.java:9: error: package jgrasp does not exist
+import jgrasp.ResizableFlexWidthIcon;
+             ^
+DataCollectionTool.java:10: error: package jgrasp does not exist
+import jgrasp.Tool;
+             ^
+DataCollectionTool.java:11: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.CursorEvent;
+                             ^
+DataCollectionTool.java:12: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.CursorListener;
+                             ^
+DataCollectionTool.java:13: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.DataCollection;
+                             ^
+DataCollectionTool.java:14: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.Edit;
+                             ^
+DataCollectionTool.java:15: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.EditEvent;
+                             ^
+DataCollectionTool.java:16: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.EditListener;
+                             ^
+DataCollectionTool.java:17: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.EditType;
+                             ^
+DataCollectionTool.java:18: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.FileActivationEvent;
+                             ^
+DataCollectionTool.java:19: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.FileEvent;
+                             ^
+DataCollectionTool.java:20: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.FileListener;
+                             ^
+DataCollectionTool.java:21: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.FileRenamingEvent;
+                             ^
+DataCollectionTool.java:22: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.IOBlock;
+                             ^
+DataCollectionTool.java:23: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.SetTextEvent;
+                             ^
+DataCollectionTool.java:24: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.UserActionEvent;
+                             ^
+DataCollectionTool.java:25: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.UserActionListener;
+                             ^
+DataCollectionTool.java:26: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.UserActionType;
+                             ^
+DataCollectionTool.java:28: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.ScrollEvent;
+                             ^
+DataCollectionTool.java:29: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.ScrollListener;
+                             ^
+DataCollectionTool.java:30: error: package jgrasp.tool does not exist
+import jgrasp.tool.AbstractToolAction;
+                  ^
+DataCollectionTool.java:31: error: package jgrasp.tool does not exist
+import jgrasp.tool.ActionContext;
+                  ^
+DataCollectionTool.java:32: error: package jgrasp.tool does not exist
+import jgrasp.tool.Conditions;
+                  ^
+DataCollectionTool.java:33: error: package jgrasp.tool does not exist
+import jgrasp.tool.Highlightable;
+                  ^
+DataCollectionTool.java:34: error: package jgrasp.tool does not exist
+import jgrasp.tool.ProjectState;
+                  ^
+DataCollectionTool.java:35: error: package jgrasp.tool does not exist
+import jgrasp.tool.ToolAction;
+                  ^
+DataCollectionTool.java:36: error: package jgrasp.tool does not exist
+import jgrasp.tool.ToolCreateData;
+                  ^
+DataCollectionTool.java:37: error: package jgrasp.tool does not exist
+import jgrasp.tool.ToolState;
+                  ^
+DataCollectionTool.java:67: error: cannot find symbol
+public class DataCollectionTool implements Tool {
+                                           ^
+  symbol: class Tool
+DataCollectionTool.java:71: error: cannot find symbol
+   private ToolAction aboutAction = 
+           ^
+  symbol:   class ToolAction
+  location: class DataCollectionTool
+DataCollectionTool.java:81: error: cannot find symbol
+   private ToolCreateData creationData;
+           ^
+  symbol:   class ToolCreateData
+  location: class DataCollectionTool
+DataCollectionTool.java:87: error: cannot find symbol
+   private FileListener fileListener = 
+           ^
+  symbol:   class FileListener
+  location: class DataCollectionTool
+DataCollectionTool.java:134: error: cannot find symbol
+   private EditListener editListener = 
+           ^
+  symbol:   class EditListener
+  location: class DataCollectionTool
+DataCollectionTool.java:195: error: cannot find symbol
+   private CursorListener cursorListener = 
+           ^
+  symbol:   class CursorListener
+  location: class DataCollectionTool
+DataCollectionTool.java:223: error: cannot find symbol
+ private ScrollListener scrollListener = 
+         ^
+  symbol:   class ScrollListener
+  location: class DataCollectionTool
+DataCollectionTool.java:282: error: cannot find symbol
+   private UserActionListener userActionListener = 
+           ^
+  symbol:   class UserActionListener
+  location: class DataCollectionTool
+DataCollectionTool.java:425: error: cannot find symbol
+   public DataCollectionTool(ToolCreateData tcd) {
+                             ^
+  symbol:   class ToolCreateData
+  location: class DataCollectionTool
+DataCollectionTool.java:447: error: cannot find symbol
+   public ToolAction[] getToolActions() {
+          ^
+  symbol:   class ToolAction
+  location: class DataCollectionTool
+DataCollectionTool.java:457: error: cannot find symbol
+   private void configure(final ActionContext context) {
+                                ^
+  symbol:   class ActionContext
+  location: class DataCollectionTool
+DataCollectionTool.java:465: error: cannot find symbol
+   private void about(final ActionContext context) {
+                            ^
+  symbol:   class ActionContext
+  location: class DataCollectionTool
+DataCollectionTool.java:473: error: cannot find symbol
+   public void applyConditions(final Conditions conditions) {
+                                     ^
+  symbol:   class Conditions
+  location: class DataCollectionTool
+DataCollectionTool.java:478: error: cannot find symbol
+   public ResizableFlexWidthIcon getStateIcon(final ProjectState ps,
+                                                    ^
+  symbol:   class ProjectState
+  location: class DataCollectionTool
+DataCollectionTool.java:478: error: cannot find symbol
+   public ResizableFlexWidthIcon getStateIcon(final ProjectState ps,
+          ^
+  symbol:   class ResizableFlexWidthIcon
+  location: class DataCollectionTool
+DataCollectionTool.java:498: error: cannot find symbol
+   public ToolState createState() {
+          ^
+  symbol:   class ToolState
+  location: class DataCollectionTool
+DataCollectionTool.java:504: error: cannot find symbol
+   public void fileRemoved(final Conditions conditions, final File fl,
+                                 ^
+  symbol:   class Conditions
+  location: class DataCollectionTool
+DataCollectionTool.java:72: error: cannot find symbol
+      new AbstractToolAction("About") {
+          ^
+  symbol:   class AbstractToolAction
+  location: class DataCollectionTool
+DataCollectionTool.java:74: error: cannot find symbol
+         public void execute(final ActionContext context,
+                                   ^
+  symbol: class ActionContext
+DataCollectionTool.java:75: error: cannot find symbol
+               final Highlightable h) {
+                     ^
+  symbol: class Highlightable
+DataCollectionTool.java:88: error: cannot find symbol
+      new FileListener() {
+          ^
+  symbol:   class FileListener
+  location: class DataCollectionTool
+DataCollectionTool.java:89: error: cannot find symbol
+         public Tool getTool() {
+                ^
+  symbol: class Tool
+DataCollectionTool.java:93: error: cannot find symbol
+         public void fileOpened(FileEvent e) {
+                                ^
+  symbol: class FileEvent
+DataCollectionTool.java:107: error: cannot find symbol
+         public void fileClosed(FileEvent e) {
+                                ^
+  symbol: class FileEvent
+DataCollectionTool.java:113: error: cannot find symbol
+         public void fileRenamed(FileRenamingEvent e) {
+                                 ^
+  symbol: class FileRenamingEvent
+DataCollectionTool.java:126: error: cannot find symbol
+          public void fileActivationChanged(FileActivationEvent e) {
+                                            ^
+  symbol: class FileActivationEvent
+DataCollectionTool.java:99: error: cannot find symbol
+              filetext = DataCollection.getFileText(e.getFilename());
+                         ^
+  symbol: variable DataCollection
+DataCollectionTool.java:119: error: cannot find symbol
+              filetext = DataCollection.getFileText(e.getFilename());
+                         ^
+  symbol: variable DataCollection
+DataCollectionTool.java:135: error: cannot find symbol
+         new EditListener() {
+             ^
+  symbol:   class EditListener
+  location: class DataCollectionTool
+DataCollectionTool.java:136: error: cannot find symbol
+            public Tool getTool() {
+                   ^
+  symbol: class Tool
+DataCollectionTool.java:140: error: cannot find symbol
+            public void edited(EditEvent e) {
+                               ^
+  symbol: class EditEvent
+DataCollectionTool.java:186: error: cannot find symbol
+            public void textSet(SetTextEvent e) {
+                                ^
+  symbol: class SetTextEvent
+DataCollectionTool.java:141: error: cannot find symbol
+               List<Edit> edits = e.getEdits();
+                    ^
+  symbol: class Edit
+DataCollectionTool.java:148: error: cannot find symbol
+                  Edit ed = edits.get(0);  
+                  ^
+  symbol: class Edit
+DataCollectionTool.java:150: error: cannot find symbol
+                  if (ed.getType() == EditType.INSERT) {
+                                      ^
+  symbol: variable EditType
+DataCollectionTool.java:154: error: cannot find symbol
+                  else if (ed.getType() == EditType.REPLACE) {
+                                           ^
+  symbol: variable EditType
+DataCollectionTool.java:167: error: cannot find symbol
+                  for (Edit ed : edits) {
+                       ^
+  symbol: class Edit
+DataCollectionTool.java:169: error: cannot find symbol
+                     if (ed.getType() == EditType.INSERT) {
+                                         ^
+  symbol: variable EditType
+DataCollectionTool.java:173: error: cannot find symbol
+                      else if (ed.getType() == EditType.REPLACE) {
+                                               ^
+  symbol: variable EditType
+DataCollectionTool.java:196: error: cannot find symbol
+      new CursorListener() {
+          ^
+  symbol:   class CursorListener
+  location: class DataCollectionTool
+DataCollectionTool.java:197: error: cannot find symbol
+         public Tool getTool() {
+                ^
+  symbol: class Tool
+DataCollectionTool.java:201: error: cannot find symbol
+         public void cursorMoved(CursorEvent e) {
+                                 ^
+  symbol: class CursorEvent
+DataCollectionTool.java:224: error: cannot find symbol
+     new ScrollListener() {
+         ^
+  symbol:   class ScrollListener
+  location: class DataCollectionTool
+DataCollectionTool.java:225: error: cannot find symbol
+        public Tool getTool() {
+               ^
+  symbol: class Tool
+DataCollectionTool.java:229: error: cannot find symbol
+        public void scrolled(ScrollEvent e) {
+                             ^
+  symbol: class ScrollEvent
+DataCollectionTool.java:283: error: cannot find symbol
+      new UserActionListener() {
+          ^
+  symbol:   class UserActionListener
+  location: class DataCollectionTool
+DataCollectionTool.java:284: error: cannot find symbol
+         public Tool getTool() {
+                ^
+  symbol: class Tool
+DataCollectionTool.java:288: error: cannot find symbol
+         public void userAction(UserActionEvent e) {
+                                ^
+  symbol: class UserActionEvent
+DataCollectionTool.java:294: error: cannot find symbol
+                if (e.getType() == UserActionType.COMPILE) {
+                                   ^
+  symbol: variable UserActionType
+DataCollectionTool.java:298: error: cannot find symbol
+                       filetext = DataCollection.getFileText(e.getFilename());
+                                  ^
+  symbol: variable DataCollection
+DataCollectionTool.java:306: error: cannot find symbol
+               else if (e.getType() == UserActionType.DEBUG) {
+                                       ^
+  symbol: variable UserActionType
+DataCollectionTool.java:310: error: cannot find symbol
+                else if (e.getType() ==UserActionType.INTERACTIONS) {
+                                       ^
+  symbol: variable UserActionType
+DataCollectionTool.java:326: error: cannot find symbol
+               if (e.getType() == UserActionType.COMPILE) {
+                                  ^
+  symbol: variable UserActionType
+DataCollectionTool.java:331: error: cannot find symbol
+                       filetext = DataCollection.getFileText(e.getFilename());
+                                  ^
+  symbol: variable DataCollection
+DataCollectionTool.java:339: error: cannot find symbol
+               else if (e.getType() == UserActionType.DEBUG) {
+                                       ^
+  symbol: variable UserActionType
+DataCollectionTool.java:343: error: cannot find symbol
+               else if (e.getType() ==UserActionType.INTERACTIONS) {
+                                      ^
+  symbol: variable UserActionType
+DataCollectionTool.java:355: error: cannot find symbol
+            List<IOBlock> io = e.getIO();
+                 ^
+  symbol: class IOBlock
+DataCollectionTool.java:360: error: cannot find symbol
+                  IOBlock b = io.get(i);
+                  ^
+  symbol: class IOBlock
+DataCollectionTool.java:427: error: cannot find symbol
+      if (!DataCollection.requestUse(this)) {
+           ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:430: error: cannot find symbol
+      DataCollection.addFileListener(fileListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:431: error: cannot find symbol
+      DataCollection.addEditListener(editListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:432: error: cannot find symbol
+      DataCollection.addCursorListener(cursorListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:433: error: cannot find symbol
+      DataCollection.addScrollListener(scrollListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:434: error: cannot find symbol
+      DataCollection.addUserActionListener(userActionListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:450: error: cannot find symbol
+      return new ToolAction[] { aboutAction };
+                 ^
+  symbol:   class ToolAction
+  location: class DataCollectionTool
+DataCollectionTool.java:573: error: cannot find symbol
+      DataCollection.removeFileListener(fileListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:574: error: cannot find symbol
+      DataCollection.removeEditListener(editListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:575: error: cannot find symbol
+      DataCollection.removeCursorListener(cursorListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:576: error: cannot find symbol
+      DataCollection.removeUserActionListener(userActionListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:577: error: cannot find symbol
+      DataCollection.removeScrollListener(scrollListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+98 errors
+jamies:tools jamie$ javac DataCollectionTool.java 
+DataCollectionTool.java:9: error: package jgrasp does not exist
+import jgrasp.ResizableFlexWidthIcon;
+             ^
+DataCollectionTool.java:10: error: package jgrasp does not exist
+import jgrasp.Tool;
+             ^
+DataCollectionTool.java:11: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.CursorEvent;
+                             ^
+DataCollectionTool.java:12: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.CursorListener;
+                             ^
+DataCollectionTool.java:13: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.DataCollection;
+                             ^
+DataCollectionTool.java:14: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.Edit;
+                             ^
+DataCollectionTool.java:15: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.EditEvent;
+                             ^
+DataCollectionTool.java:16: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.EditListener;
+                             ^
+DataCollectionTool.java:17: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.EditType;
+                             ^
+DataCollectionTool.java:18: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.FileActivationEvent;
+                             ^
+DataCollectionTool.java:19: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.FileEvent;
+                             ^
+DataCollectionTool.java:20: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.FileListener;
+                             ^
+DataCollectionTool.java:21: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.FileRenamingEvent;
+                             ^
+DataCollectionTool.java:22: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.IOBlock;
+                             ^
+DataCollectionTool.java:23: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.SetTextEvent;
+                             ^
+DataCollectionTool.java:24: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.UserActionEvent;
+                             ^
+DataCollectionTool.java:25: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.UserActionListener;
+                             ^
+DataCollectionTool.java:26: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.UserActionType;
+                             ^
+DataCollectionTool.java:28: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.ScrollEvent;
+                             ^
+DataCollectionTool.java:29: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.ScrollListener;
+                             ^
+DataCollectionTool.java:30: error: package jgrasp.tool does not exist
+import jgrasp.tool.AbstractToolAction;
+                  ^
+DataCollectionTool.java:31: error: package jgrasp.tool does not exist
+import jgrasp.tool.ActionContext;
+                  ^
+DataCollectionTool.java:32: error: package jgrasp.tool does not exist
+import jgrasp.tool.Conditions;
+                  ^
+DataCollectionTool.java:33: error: package jgrasp.tool does not exist
+import jgrasp.tool.Highlightable;
+                  ^
+DataCollectionTool.java:34: error: package jgrasp.tool does not exist
+import jgrasp.tool.ProjectState;
+                  ^
+DataCollectionTool.java:35: error: package jgrasp.tool does not exist
+import jgrasp.tool.ToolAction;
+                  ^
+DataCollectionTool.java:36: error: package jgrasp.tool does not exist
+import jgrasp.tool.ToolCreateData;
+                  ^
+DataCollectionTool.java:37: error: package jgrasp.tool does not exist
+import jgrasp.tool.ToolState;
+                  ^
+DataCollectionTool.java:67: error: cannot find symbol
+public class DataCollectionTool implements Tool {
+                                           ^
+  symbol: class Tool
+DataCollectionTool.java:71: error: cannot find symbol
+   private ToolAction aboutAction = 
+           ^
+  symbol:   class ToolAction
+  location: class DataCollectionTool
+DataCollectionTool.java:81: error: cannot find symbol
+   private ToolCreateData creationData;
+           ^
+  symbol:   class ToolCreateData
+  location: class DataCollectionTool
+DataCollectionTool.java:87: error: cannot find symbol
+   private FileListener fileListener = 
+           ^
+  symbol:   class FileListener
+  location: class DataCollectionTool
+DataCollectionTool.java:134: error: cannot find symbol
+   private EditListener editListener = 
+           ^
+  symbol:   class EditListener
+  location: class DataCollectionTool
+DataCollectionTool.java:195: error: cannot find symbol
+   private CursorListener cursorListener = 
+           ^
+  symbol:   class CursorListener
+  location: class DataCollectionTool
+DataCollectionTool.java:223: error: cannot find symbol
+ private ScrollListener scrollListener = 
+         ^
+  symbol:   class ScrollListener
+  location: class DataCollectionTool
+DataCollectionTool.java:282: error: cannot find symbol
+   private UserActionListener userActionListener = 
+           ^
+  symbol:   class UserActionListener
+  location: class DataCollectionTool
+DataCollectionTool.java:425: error: cannot find symbol
+   public DataCollectionTool(ToolCreateData tcd) {
+                             ^
+  symbol:   class ToolCreateData
+  location: class DataCollectionTool
+DataCollectionTool.java:447: error: cannot find symbol
+   public ToolAction[] getToolActions() {
+          ^
+  symbol:   class ToolAction
+  location: class DataCollectionTool
+DataCollectionTool.java:457: error: cannot find symbol
+   private void configure(final ActionContext context) {
+                                ^
+  symbol:   class ActionContext
+  location: class DataCollectionTool
+DataCollectionTool.java:465: error: cannot find symbol
+   private void about(final ActionContext context) {
+                            ^
+  symbol:   class ActionContext
+  location: class DataCollectionTool
+DataCollectionTool.java:473: error: cannot find symbol
+   public void applyConditions(final Conditions conditions) {
+                                     ^
+  symbol:   class Conditions
+  location: class DataCollectionTool
+DataCollectionTool.java:478: error: cannot find symbol
+   public ResizableFlexWidthIcon getStateIcon(final ProjectState ps,
+                                                    ^
+  symbol:   class ProjectState
+  location: class DataCollectionTool
+DataCollectionTool.java:478: error: cannot find symbol
+   public ResizableFlexWidthIcon getStateIcon(final ProjectState ps,
+          ^
+  symbol:   class ResizableFlexWidthIcon
+  location: class DataCollectionTool
+DataCollectionTool.java:498: error: cannot find symbol
+   public ToolState createState() {
+          ^
+  symbol:   class ToolState
+  location: class DataCollectionTool
+DataCollectionTool.java:504: error: cannot find symbol
+   public void fileRemoved(final Conditions conditions, final File fl,
+                                 ^
+  symbol:   class Conditions
+  location: class DataCollectionTool
+DataCollectionTool.java:72: error: cannot find symbol
+      new AbstractToolAction("About") {
+          ^
+  symbol:   class AbstractToolAction
+  location: class DataCollectionTool
+DataCollectionTool.java:74: error: cannot find symbol
+         public void execute(final ActionContext context,
+                                   ^
+  symbol: class ActionContext
+DataCollectionTool.java:75: error: cannot find symbol
+               final Highlightable h) {
+                     ^
+  symbol: class Highlightable
+DataCollectionTool.java:88: error: cannot find symbol
+      new FileListener() {
+          ^
+  symbol:   class FileListener
+  location: class DataCollectionTool
+DataCollectionTool.java:89: error: cannot find symbol
+         public Tool getTool() {
+                ^
+  symbol: class Tool
+DataCollectionTool.java:93: error: cannot find symbol
+         public void fileOpened(FileEvent e) {
+                                ^
+  symbol: class FileEvent
+DataCollectionTool.java:107: error: cannot find symbol
+         public void fileClosed(FileEvent e) {
+                                ^
+  symbol: class FileEvent
+DataCollectionTool.java:113: error: cannot find symbol
+         public void fileRenamed(FileRenamingEvent e) {
+                                 ^
+  symbol: class FileRenamingEvent
+DataCollectionTool.java:126: error: cannot find symbol
+          public void fileActivationChanged(FileActivationEvent e) {
+                                            ^
+  symbol: class FileActivationEvent
+DataCollectionTool.java:99: error: cannot find symbol
+              filetext = DataCollection.getFileText(e.getFilename());
+                         ^
+  symbol: variable DataCollection
+DataCollectionTool.java:119: error: cannot find symbol
+              filetext = DataCollection.getFileText(e.getFilename());
+                         ^
+  symbol: variable DataCollection
+DataCollectionTool.java:135: error: cannot find symbol
+         new EditListener() {
+             ^
+  symbol:   class EditListener
+  location: class DataCollectionTool
+DataCollectionTool.java:136: error: cannot find symbol
+            public Tool getTool() {
+                   ^
+  symbol: class Tool
+DataCollectionTool.java:140: error: cannot find symbol
+            public void edited(EditEvent e) {
+                               ^
+  symbol: class EditEvent
+DataCollectionTool.java:186: error: cannot find symbol
+            public void textSet(SetTextEvent e) {
+                                ^
+  symbol: class SetTextEvent
+DataCollectionTool.java:141: error: cannot find symbol
+               List<Edit> edits = e.getEdits();
+                    ^
+  symbol: class Edit
+DataCollectionTool.java:148: error: cannot find symbol
+                  Edit ed = edits.get(0);  
+                  ^
+  symbol: class Edit
+DataCollectionTool.java:150: error: cannot find symbol
+                  if (ed.getType() == EditType.INSERT) {
+                                      ^
+  symbol: variable EditType
+DataCollectionTool.java:154: error: cannot find symbol
+                  else if (ed.getType() == EditType.REPLACE) {
+                                           ^
+  symbol: variable EditType
+DataCollectionTool.java:167: error: cannot find symbol
+                  for (Edit ed : edits) {
+                       ^
+  symbol: class Edit
+DataCollectionTool.java:169: error: cannot find symbol
+                     if (ed.getType() == EditType.INSERT) {
+                                         ^
+  symbol: variable EditType
+DataCollectionTool.java:173: error: cannot find symbol
+                      else if (ed.getType() == EditType.REPLACE) {
+                                               ^
+  symbol: variable EditType
+DataCollectionTool.java:196: error: cannot find symbol
+      new CursorListener() {
+          ^
+  symbol:   class CursorListener
+  location: class DataCollectionTool
+DataCollectionTool.java:197: error: cannot find symbol
+         public Tool getTool() {
+                ^
+  symbol: class Tool
+DataCollectionTool.java:201: error: cannot find symbol
+         public void cursorMoved(CursorEvent e) {
+                                 ^
+  symbol: class CursorEvent
+DataCollectionTool.java:224: error: cannot find symbol
+     new ScrollListener() {
+         ^
+  symbol:   class ScrollListener
+  location: class DataCollectionTool
+DataCollectionTool.java:225: error: cannot find symbol
+        public Tool getTool() {
+               ^
+  symbol: class Tool
+DataCollectionTool.java:229: error: cannot find symbol
+        public void scrolled(ScrollEvent e) {
+                             ^
+  symbol: class ScrollEvent
+DataCollectionTool.java:283: error: cannot find symbol
+      new UserActionListener() {
+          ^
+  symbol:   class UserActionListener
+  location: class DataCollectionTool
+DataCollectionTool.java:284: error: cannot find symbol
+         public Tool getTool() {
+                ^
+  symbol: class Tool
+DataCollectionTool.java:288: error: cannot find symbol
+         public void userAction(UserActionEvent e) {
+                                ^
+  symbol: class UserActionEvent
+DataCollectionTool.java:294: error: cannot find symbol
+                if (e.getType() == UserActionType.COMPILE) {
+                                   ^
+  symbol: variable UserActionType
+DataCollectionTool.java:298: error: cannot find symbol
+                       filetext = DataCollection.getFileText(e.getFilename());
+                                  ^
+  symbol: variable DataCollection
+DataCollectionTool.java:306: error: cannot find symbol
+               else if (e.getType() == UserActionType.DEBUG) {
+                                       ^
+  symbol: variable UserActionType
+DataCollectionTool.java:310: error: cannot find symbol
+                else if (e.getType() ==UserActionType.INTERACTIONS) {
+                                       ^
+  symbol: variable UserActionType
+DataCollectionTool.java:326: error: cannot find symbol
+               if (e.getType() == UserActionType.COMPILE) {
+                                  ^
+  symbol: variable UserActionType
+DataCollectionTool.java:331: error: cannot find symbol
+                       filetext = DataCollection.getFileText(e.getFilename());
+                                  ^
+  symbol: variable DataCollection
+DataCollectionTool.java:339: error: cannot find symbol
+               else if (e.getType() == UserActionType.DEBUG) {
+                                       ^
+  symbol: variable UserActionType
+DataCollectionTool.java:343: error: cannot find symbol
+               else if (e.getType() ==UserActionType.INTERACTIONS) {
+                                      ^
+  symbol: variable UserActionType
+DataCollectionTool.java:355: error: cannot find symbol
+            List<IOBlock> io = e.getIO();
+                 ^
+  symbol: class IOBlock
+DataCollectionTool.java:360: error: cannot find symbol
+                  IOBlock b = io.get(i);
+                  ^
+  symbol: class IOBlock
+DataCollectionTool.java:427: error: cannot find symbol
+      if (!DataCollection.requestUse(this)) {
+           ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:430: error: cannot find symbol
+      DataCollection.addFileListener(fileListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:431: error: cannot find symbol
+      DataCollection.addEditListener(editListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:432: error: cannot find symbol
+      DataCollection.addCursorListener(cursorListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:433: error: cannot find symbol
+      DataCollection.addScrollListener(scrollListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:434: error: cannot find symbol
+      DataCollection.addUserActionListener(userActionListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:450: error: cannot find symbol
+      return new ToolAction[] { aboutAction };
+                 ^
+  symbol:   class ToolAction
+  location: class DataCollectionTool
+DataCollectionTool.java:573: error: cannot find symbol
+      DataCollection.removeFileListener(fileListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:574: error: cannot find symbol
+      DataCollection.removeEditListener(editListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:575: error: cannot find symbol
+      DataCollection.removeCursorListener(cursorListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:576: error: cannot find symbol
+      DataCollection.removeUserActionListener(userActionListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:577: error: cannot find symbol
+      DataCollection.removeScrollListener(scrollListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+98 errors
+jamies:tools jamie$ javac DataCollectionTool.java 
+DataCollectionTool.java:9: error: package jgrasp does not exist
+import jgrasp.ResizableFlexWidthIcon;
+             ^
+DataCollectionTool.java:10: error: package jgrasp does not exist
+import jgrasp.Tool;
+             ^
+DataCollectionTool.java:11: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.CursorEvent;
+                             ^
+DataCollectionTool.java:12: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.CursorListener;
+                             ^
+DataCollectionTool.java:13: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.DataCollection;
+                             ^
+DataCollectionTool.java:14: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.Edit;
+                             ^
+DataCollectionTool.java:15: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.EditEvent;
+                             ^
+DataCollectionTool.java:16: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.EditListener;
+                             ^
+DataCollectionTool.java:17: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.EditType;
+                             ^
+DataCollectionTool.java:18: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.FileActivationEvent;
+                             ^
+DataCollectionTool.java:19: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.FileEvent;
+                             ^
+DataCollectionTool.java:20: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.FileListener;
+                             ^
+DataCollectionTool.java:21: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.FileRenamingEvent;
+                             ^
+DataCollectionTool.java:22: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.IOBlock;
+                             ^
+DataCollectionTool.java:23: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.SetTextEvent;
+                             ^
+DataCollectionTool.java:24: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.UserActionEvent;
+                             ^
+DataCollectionTool.java:25: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.UserActionListener;
+                             ^
+DataCollectionTool.java:26: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.UserActionType;
+                             ^
+DataCollectionTool.java:28: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.ScrollEvent;
+                             ^
+DataCollectionTool.java:29: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.ScrollListener;
+                             ^
+DataCollectionTool.java:30: error: package jgrasp.tool does not exist
+import jgrasp.tool.AbstractToolAction;
+                  ^
+DataCollectionTool.java:31: error: package jgrasp.tool does not exist
+import jgrasp.tool.ActionContext;
+                  ^
+DataCollectionTool.java:32: error: package jgrasp.tool does not exist
+import jgrasp.tool.Conditions;
+                  ^
+DataCollectionTool.java:33: error: package jgrasp.tool does not exist
+import jgrasp.tool.Highlightable;
+                  ^
+DataCollectionTool.java:34: error: package jgrasp.tool does not exist
+import jgrasp.tool.ProjectState;
+                  ^
+DataCollectionTool.java:35: error: package jgrasp.tool does not exist
+import jgrasp.tool.ToolAction;
+                  ^
+DataCollectionTool.java:36: error: package jgrasp.tool does not exist
+import jgrasp.tool.ToolCreateData;
+                  ^
+DataCollectionTool.java:37: error: package jgrasp.tool does not exist
+import jgrasp.tool.ToolState;
+                  ^
+DataCollectionTool.java:67: error: cannot find symbol
+public class DataCollectionTool implements Tool {
+                                           ^
+  symbol: class Tool
+DataCollectionTool.java:71: error: cannot find symbol
+   private ToolAction aboutAction = 
+           ^
+  symbol:   class ToolAction
+  location: class DataCollectionTool
+DataCollectionTool.java:81: error: cannot find symbol
+   private ToolCreateData creationData;
+           ^
+  symbol:   class ToolCreateData
+  location: class DataCollectionTool
+DataCollectionTool.java:87: error: cannot find symbol
+   private FileListener fileListener = 
+           ^
+  symbol:   class FileListener
+  location: class DataCollectionTool
+DataCollectionTool.java:134: error: cannot find symbol
+   private EditListener editListener = 
+           ^
+  symbol:   class EditListener
+  location: class DataCollectionTool
+DataCollectionTool.java:195: error: cannot find symbol
+   private CursorListener cursorListener = 
+           ^
+  symbol:   class CursorListener
+  location: class DataCollectionTool
+DataCollectionTool.java:223: error: cannot find symbol
+ private ScrollListener scrollListener = 
+         ^
+  symbol:   class ScrollListener
+  location: class DataCollectionTool
+DataCollectionTool.java:282: error: cannot find symbol
+   private UserActionListener userActionListener = 
+           ^
+  symbol:   class UserActionListener
+  location: class DataCollectionTool
+DataCollectionTool.java:425: error: cannot find symbol
+   public DataCollectionTool(ToolCreateData tcd) {
+                             ^
+  symbol:   class ToolCreateData
+  location: class DataCollectionTool
+DataCollectionTool.java:447: error: cannot find symbol
+   public ToolAction[] getToolActions() {
+          ^
+  symbol:   class ToolAction
+  location: class DataCollectionTool
+DataCollectionTool.java:457: error: cannot find symbol
+   private void configure(final ActionContext context) {
+                                ^
+  symbol:   class ActionContext
+  location: class DataCollectionTool
+DataCollectionTool.java:465: error: cannot find symbol
+   private void about(final ActionContext context) {
+                            ^
+  symbol:   class ActionContext
+  location: class DataCollectionTool
+DataCollectionTool.java:473: error: cannot find symbol
+   public void applyConditions(final Conditions conditions) {
+                                     ^
+  symbol:   class Conditions
+  location: class DataCollectionTool
+DataCollectionTool.java:478: error: cannot find symbol
+   public ResizableFlexWidthIcon getStateIcon(final ProjectState ps,
+                                                    ^
+  symbol:   class ProjectState
+  location: class DataCollectionTool
+DataCollectionTool.java:478: error: cannot find symbol
+   public ResizableFlexWidthIcon getStateIcon(final ProjectState ps,
+          ^
+  symbol:   class ResizableFlexWidthIcon
+  location: class DataCollectionTool
+DataCollectionTool.java:498: error: cannot find symbol
+   public ToolState createState() {
+          ^
+  symbol:   class ToolState
+  location: class DataCollectionTool
+DataCollectionTool.java:504: error: cannot find symbol
+   public void fileRemoved(final Conditions conditions, final File fl,
+                                 ^
+  symbol:   class Conditions
+  location: class DataCollectionTool
+DataCollectionTool.java:72: error: cannot find symbol
+      new AbstractToolAction("About") {
+          ^
+  symbol:   class AbstractToolAction
+  location: class DataCollectionTool
+DataCollectionTool.java:74: error: cannot find symbol
+         public void execute(final ActionContext context,
+                                   ^
+  symbol: class ActionContext
+DataCollectionTool.java:75: error: cannot find symbol
+               final Highlightable h) {
+                     ^
+  symbol: class Highlightable
+DataCollectionTool.java:88: error: cannot find symbol
+      new FileListener() {
+          ^
+  symbol:   class FileListener
+  location: class DataCollectionTool
+DataCollectionTool.java:89: error: cannot find symbol
+         public Tool getTool() {
+                ^
+  symbol: class Tool
+DataCollectionTool.java:93: error: cannot find symbol
+         public void fileOpened(FileEvent e) {
+                                ^
+  symbol: class FileEvent
+DataCollectionTool.java:107: error: cannot find symbol
+         public void fileClosed(FileEvent e) {
+                                ^
+  symbol: class FileEvent
+DataCollectionTool.java:113: error: cannot find symbol
+         public void fileRenamed(FileRenamingEvent e) {
+                                 ^
+  symbol: class FileRenamingEvent
+DataCollectionTool.java:126: error: cannot find symbol
+          public void fileActivationChanged(FileActivationEvent e) {
+                                            ^
+  symbol: class FileActivationEvent
+DataCollectionTool.java:99: error: cannot find symbol
+              filetext = DataCollection.getFileText(e.getFilename());
+                         ^
+  symbol: variable DataCollection
+DataCollectionTool.java:119: error: cannot find symbol
+              filetext = DataCollection.getFileText(e.getFilename());
+                         ^
+  symbol: variable DataCollection
+DataCollectionTool.java:135: error: cannot find symbol
+         new EditListener() {
+             ^
+  symbol:   class EditListener
+  location: class DataCollectionTool
+DataCollectionTool.java:136: error: cannot find symbol
+            public Tool getTool() {
+                   ^
+  symbol: class Tool
+DataCollectionTool.java:140: error: cannot find symbol
+            public void edited(EditEvent e) {
+                               ^
+  symbol: class EditEvent
+DataCollectionTool.java:186: error: cannot find symbol
+            public void textSet(SetTextEvent e) {
+                                ^
+  symbol: class SetTextEvent
+DataCollectionTool.java:141: error: cannot find symbol
+               List<Edit> edits = e.getEdits();
+                    ^
+  symbol: class Edit
+DataCollectionTool.java:148: error: cannot find symbol
+                  Edit ed = edits.get(0);  
+                  ^
+  symbol: class Edit
+DataCollectionTool.java:150: error: cannot find symbol
+                  if (ed.getType() == EditType.INSERT) {
+                                      ^
+  symbol: variable EditType
+DataCollectionTool.java:154: error: cannot find symbol
+                  else if (ed.getType() == EditType.REPLACE) {
+                                           ^
+  symbol: variable EditType
+DataCollectionTool.java:167: error: cannot find symbol
+                  for (Edit ed : edits) {
+                       ^
+  symbol: class Edit
+DataCollectionTool.java:169: error: cannot find symbol
+                     if (ed.getType() == EditType.INSERT) {
+                                         ^
+  symbol: variable EditType
+DataCollectionTool.java:173: error: cannot find symbol
+                      else if (ed.getType() == EditType.REPLACE) {
+                                               ^
+  symbol: variable EditType
+DataCollectionTool.java:196: error: cannot find symbol
+      new CursorListener() {
+          ^
+  symbol:   class CursorListener
+  location: class DataCollectionTool
+DataCollectionTool.java:197: error: cannot find symbol
+         public Tool getTool() {
+                ^
+  symbol: class Tool
+DataCollectionTool.java:201: error: cannot find symbol
+         public void cursorMoved(CursorEvent e) {
+                                 ^
+  symbol: class CursorEvent
+DataCollectionTool.java:224: error: cannot find symbol
+     new ScrollListener() {
+         ^
+  symbol:   class ScrollListener
+  location: class DataCollectionTool
+DataCollectionTool.java:225: error: cannot find symbol
+        public Tool getTool() {
+               ^
+  symbol: class Tool
+DataCollectionTool.java:229: error: cannot find symbol
+        public void scrolled(ScrollEvent e) {
+                             ^
+  symbol: class ScrollEvent
+DataCollectionTool.java:283: error: cannot find symbol
+      new UserActionListener() {
+          ^
+  symbol:   class UserActionListener
+  location: class DataCollectionTool
+DataCollectionTool.java:284: error: cannot find symbol
+         public Tool getTool() {
+                ^
+  symbol: class Tool
+DataCollectionTool.java:288: error: cannot find symbol
+         public void userAction(UserActionEvent e) {
+                                ^
+  symbol: class UserActionEvent
+DataCollectionTool.java:294: error: cannot find symbol
+                if (e.getType() == UserActionType.COMPILE) {
+                                   ^
+  symbol: variable UserActionType
+DataCollectionTool.java:298: error: cannot find symbol
+                       filetext = DataCollection.getFileText(e.getFilename());
+                                  ^
+  symbol: variable DataCollection
+DataCollectionTool.java:306: error: cannot find symbol
+               else if (e.getType() == UserActionType.DEBUG) {
+                                       ^
+  symbol: variable UserActionType
+DataCollectionTool.java:310: error: cannot find symbol
+                else if (e.getType() ==UserActionType.INTERACTIONS) {
+                                       ^
+  symbol: variable UserActionType
+DataCollectionTool.java:326: error: cannot find symbol
+               if (e.getType() == UserActionType.COMPILE) {
+                                  ^
+  symbol: variable UserActionType
+DataCollectionTool.java:331: error: cannot find symbol
+                       filetext = DataCollection.getFileText(e.getFilename());
+                                  ^
+  symbol: variable DataCollection
+DataCollectionTool.java:339: error: cannot find symbol
+               else if (e.getType() == UserActionType.DEBUG) {
+                                       ^
+  symbol: variable UserActionType
+DataCollectionTool.java:343: error: cannot find symbol
+               else if (e.getType() ==UserActionType.INTERACTIONS) {
+                                      ^
+  symbol: variable UserActionType
+DataCollectionTool.java:355: error: cannot find symbol
+            List<IOBlock> io = e.getIO();
+                 ^
+  symbol: class IOBlock
+DataCollectionTool.java:360: error: cannot find symbol
+                  IOBlock b = io.get(i);
+                  ^
+  symbol: class IOBlock
+DataCollectionTool.java:427: error: cannot find symbol
+      if (!DataCollection.requestUse(this)) {
+           ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:430: error: cannot find symbol
+      DataCollection.addFileListener(fileListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:431: error: cannot find symbol
+      DataCollection.addEditListener(editListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:432: error: cannot find symbol
+      DataCollection.addCursorListener(cursorListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:433: error: cannot find symbol
+      DataCollection.addScrollListener(scrollListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:434: error: cannot find symbol
+      DataCollection.addUserActionListener(userActionListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:450: error: cannot find symbol
+      return new ToolAction[] { aboutAction };
+                 ^
+  symbol:   class ToolAction
+  location: class DataCollectionTool
+DataCollectionTool.java:573: error: cannot find symbol
+      DataCollection.removeFileListener(fileListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:574: error: cannot find symbol
+      DataCollection.removeEditListener(editListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:575: error: cannot find symbol
+      DataCollection.removeCursorListener(cursorListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:576: error: cannot find symbol
+      DataCollection.removeUserActionListener(userActionListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:577: error: cannot find symbol
+      DataCollection.removeScrollListener(scrollListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+98 errors
+jamies:tools jamie$ javac DataCollectionTool.java 
+DataCollectionTool.java:9: error: package jgrasp does not exist
+import jgrasp.ResizableFlexWidthIcon;
+             ^
+DataCollectionTool.java:10: error: package jgrasp does not exist
+import jgrasp.Tool;
+             ^
+DataCollectionTool.java:11: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.CursorEvent;
+                             ^
+DataCollectionTool.java:12: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.CursorListener;
+                             ^
+DataCollectionTool.java:13: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.DataCollection;
+                             ^
+DataCollectionTool.java:14: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.Edit;
+                             ^
+DataCollectionTool.java:15: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.EditEvent;
+                             ^
+DataCollectionTool.java:16: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.EditListener;
+                             ^
+DataCollectionTool.java:17: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.EditType;
+                             ^
+DataCollectionTool.java:18: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.FileActivationEvent;
+                             ^
+DataCollectionTool.java:19: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.FileEvent;
+                             ^
+DataCollectionTool.java:20: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.FileListener;
+                             ^
+DataCollectionTool.java:21: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.FileRenamingEvent;
+                             ^
+DataCollectionTool.java:22: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.IOBlock;
+                             ^
+DataCollectionTool.java:23: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.SetTextEvent;
+                             ^
+DataCollectionTool.java:24: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.UserActionEvent;
+                             ^
+DataCollectionTool.java:25: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.UserActionListener;
+                             ^
+DataCollectionTool.java:26: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.UserActionType;
+                             ^
+DataCollectionTool.java:28: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.ScrollEvent;
+                             ^
+DataCollectionTool.java:29: error: package jgrasp.data_collection does not exist
+import jgrasp.data_collection.ScrollListener;
+                             ^
+DataCollectionTool.java:30: error: package jgrasp.tool does not exist
+import jgrasp.tool.AbstractToolAction;
+                  ^
+DataCollectionTool.java:31: error: package jgrasp.tool does not exist
+import jgrasp.tool.ActionContext;
+                  ^
+DataCollectionTool.java:32: error: package jgrasp.tool does not exist
+import jgrasp.tool.Conditions;
+                  ^
+DataCollectionTool.java:33: error: package jgrasp.tool does not exist
+import jgrasp.tool.Highlightable;
+                  ^
+DataCollectionTool.java:34: error: package jgrasp.tool does not exist
+import jgrasp.tool.ProjectState;
+                  ^
+DataCollectionTool.java:35: error: package jgrasp.tool does not exist
+import jgrasp.tool.ToolAction;
+                  ^
+DataCollectionTool.java:36: error: package jgrasp.tool does not exist
+import jgrasp.tool.ToolCreateData;
+                  ^
+DataCollectionTool.java:37: error: package jgrasp.tool does not exist
+import jgrasp.tool.ToolState;
+                  ^
+DataCollectionTool.java:67: error: cannot find symbol
+public class DataCollectionTool implements Tool {
+                                           ^
+  symbol: class Tool
+DataCollectionTool.java:71: error: cannot find symbol
+   private ToolAction aboutAction = 
+           ^
+  symbol:   class ToolAction
+  location: class DataCollectionTool
+DataCollectionTool.java:81: error: cannot find symbol
+   private ToolCreateData creationData;
+           ^
+  symbol:   class ToolCreateData
+  location: class DataCollectionTool
+DataCollectionTool.java:87: error: cannot find symbol
+   private FileListener fileListener = 
+           ^
+  symbol:   class FileListener
+  location: class DataCollectionTool
+DataCollectionTool.java:134: error: cannot find symbol
+   private EditListener editListener = 
+           ^
+  symbol:   class EditListener
+  location: class DataCollectionTool
+DataCollectionTool.java:195: error: cannot find symbol
+   private CursorListener cursorListener = 
+           ^
+  symbol:   class CursorListener
+  location: class DataCollectionTool
+DataCollectionTool.java:223: error: cannot find symbol
+ private ScrollListener scrollListener = 
+         ^
+  symbol:   class ScrollListener
+  location: class DataCollectionTool
+DataCollectionTool.java:282: error: cannot find symbol
+   private UserActionListener userActionListener = 
+           ^
+  symbol:   class UserActionListener
+  location: class DataCollectionTool
+DataCollectionTool.java:425: error: cannot find symbol
+   public DataCollectionTool(ToolCreateData tcd) {
+                             ^
+  symbol:   class ToolCreateData
+  location: class DataCollectionTool
+DataCollectionTool.java:447: error: cannot find symbol
+   public ToolAction[] getToolActions() {
+          ^
+  symbol:   class ToolAction
+  location: class DataCollectionTool
+DataCollectionTool.java:457: error: cannot find symbol
+   private void configure(final ActionContext context) {
+                                ^
+  symbol:   class ActionContext
+  location: class DataCollectionTool
+DataCollectionTool.java:465: error: cannot find symbol
+   private void about(final ActionContext context) {
+                            ^
+  symbol:   class ActionContext
+  location: class DataCollectionTool
+DataCollectionTool.java:473: error: cannot find symbol
+   public void applyConditions(final Conditions conditions) {
+                                     ^
+  symbol:   class Conditions
+  location: class DataCollectionTool
+DataCollectionTool.java:478: error: cannot find symbol
+   public ResizableFlexWidthIcon getStateIcon(final ProjectState ps,
+                                                    ^
+  symbol:   class ProjectState
+  location: class DataCollectionTool
+DataCollectionTool.java:478: error: cannot find symbol
+   public ResizableFlexWidthIcon getStateIcon(final ProjectState ps,
+          ^
+  symbol:   class ResizableFlexWidthIcon
+  location: class DataCollectionTool
+DataCollectionTool.java:498: error: cannot find symbol
+   public ToolState createState() {
+          ^
+  symbol:   class ToolState
+  location: class DataCollectionTool
+DataCollectionTool.java:504: error: cannot find symbol
+   public void fileRemoved(final Conditions conditions, final File fl,
+                                 ^
+  symbol:   class Conditions
+  location: class DataCollectionTool
+DataCollectionTool.java:72: error: cannot find symbol
+      new AbstractToolAction("About") {
+          ^
+  symbol:   class AbstractToolAction
+  location: class DataCollectionTool
+DataCollectionTool.java:74: error: cannot find symbol
+         public void execute(final ActionContext context,
+                                   ^
+  symbol: class ActionContext
+DataCollectionTool.java:75: error: cannot find symbol
+               final Highlightable h) {
+                     ^
+  symbol: class Highlightable
+DataCollectionTool.java:88: error: cannot find symbol
+      new FileListener() {
+          ^
+  symbol:   class FileListener
+  location: class DataCollectionTool
+DataCollectionTool.java:89: error: cannot find symbol
+         public Tool getTool() {
+                ^
+  symbol: class Tool
+DataCollectionTool.java:93: error: cannot find symbol
+         public void fileOpened(FileEvent e) {
+                                ^
+  symbol: class FileEvent
+DataCollectionTool.java:107: error: cannot find symbol
+         public void fileClosed(FileEvent e) {
+                                ^
+  symbol: class FileEvent
+DataCollectionTool.java:113: error: cannot find symbol
+         public void fileRenamed(FileRenamingEvent e) {
+                                 ^
+  symbol: class FileRenamingEvent
+DataCollectionTool.java:126: error: cannot find symbol
+          public void fileActivationChanged(FileActivationEvent e) {
+                                            ^
+  symbol: class FileActivationEvent
+DataCollectionTool.java:99: error: cannot find symbol
+              filetext = DataCollection.getFileText(e.getFilename());
+                         ^
+  symbol: variable DataCollection
+DataCollectionTool.java:119: error: cannot find symbol
+              filetext = DataCollection.getFileText(e.getFilename());
+                         ^
+  symbol: variable DataCollection
+DataCollectionTool.java:135: error: cannot find symbol
+         new EditListener() {
+             ^
+  symbol:   class EditListener
+  location: class DataCollectionTool
+DataCollectionTool.java:136: error: cannot find symbol
+            public Tool getTool() {
+                   ^
+  symbol: class Tool
+DataCollectionTool.java:140: error: cannot find symbol
+            public void edited(EditEvent e) {
+                               ^
+  symbol: class EditEvent
+DataCollectionTool.java:186: error: cannot find symbol
+            public void textSet(SetTextEvent e) {
+                                ^
+  symbol: class SetTextEvent
+DataCollectionTool.java:141: error: cannot find symbol
+               List<Edit> edits = e.getEdits();
+                    ^
+  symbol: class Edit
+DataCollectionTool.java:148: error: cannot find symbol
+                  Edit ed = edits.get(0);  
+                  ^
+  symbol: class Edit
+DataCollectionTool.java:150: error: cannot find symbol
+                  if (ed.getType() == EditType.INSERT) {
+                                      ^
+  symbol: variable EditType
+DataCollectionTool.java:154: error: cannot find symbol
+                  else if (ed.getType() == EditType.REPLACE) {
+                                           ^
+  symbol: variable EditType
+DataCollectionTool.java:167: error: cannot find symbol
+                  for (Edit ed : edits) {
+                       ^
+  symbol: class Edit
+DataCollectionTool.java:169: error: cannot find symbol
+                     if (ed.getType() == EditType.INSERT) {
+                                         ^
+  symbol: variable EditType
+DataCollectionTool.java:173: error: cannot find symbol
+                      else if (ed.getType() == EditType.REPLACE) {
+                                               ^
+  symbol: variable EditType
+DataCollectionTool.java:196: error: cannot find symbol
+      new CursorListener() {
+          ^
+  symbol:   class CursorListener
+  location: class DataCollectionTool
+DataCollectionTool.java:197: error: cannot find symbol
+         public Tool getTool() {
+                ^
+  symbol: class Tool
+DataCollectionTool.java:201: error: cannot find symbol
+         public void cursorMoved(CursorEvent e) {
+                                 ^
+  symbol: class CursorEvent
+DataCollectionTool.java:224: error: cannot find symbol
+     new ScrollListener() {
+         ^
+  symbol:   class ScrollListener
+  location: class DataCollectionTool
+DataCollectionTool.java:225: error: cannot find symbol
+        public Tool getTool() {
+               ^
+  symbol: class Tool
+DataCollectionTool.java:229: error: cannot find symbol
+        public void scrolled(ScrollEvent e) {
+                             ^
+  symbol: class ScrollEvent
+DataCollectionTool.java:283: error: cannot find symbol
+      new UserActionListener() {
+          ^
+  symbol:   class UserActionListener
+  location: class DataCollectionTool
+DataCollectionTool.java:284: error: cannot find symbol
+         public Tool getTool() {
+                ^
+  symbol: class Tool
+DataCollectionTool.java:288: error: cannot find symbol
+         public void userAction(UserActionEvent e) {
+                                ^
+  symbol: class UserActionEvent
+DataCollectionTool.java:294: error: cannot find symbol
+                if (e.getType() == UserActionType.COMPILE) {
+                                   ^
+  symbol: variable UserActionType
+DataCollectionTool.java:298: error: cannot find symbol
+                       filetext = DataCollection.getFileText(e.getFilename());
+                                  ^
+  symbol: variable DataCollection
+DataCollectionTool.java:306: error: cannot find symbol
+               else if (e.getType() == UserActionType.DEBUG) {
+                                       ^
+  symbol: variable UserActionType
+DataCollectionTool.java:310: error: cannot find symbol
+                else if (e.getType() ==UserActionType.INTERACTIONS) {
+                                       ^
+  symbol: variable UserActionType
+DataCollectionTool.java:326: error: cannot find symbol
+               if (e.getType() == UserActionType.COMPILE) {
+                                  ^
+  symbol: variable UserActionType
+DataCollectionTool.java:331: error: cannot find symbol
+                       filetext = DataCollection.getFileText(e.getFilename());
+                                  ^
+  symbol: variable DataCollection
+DataCollectionTool.java:339: error: cannot find symbol
+               else if (e.getType() == UserActionType.DEBUG) {
+                                       ^
+  symbol: variable UserActionType
+DataCollectionTool.java:343: error: cannot find symbol
+               else if (e.getType() ==UserActionType.INTERACTIONS) {
+                                      ^
+  symbol: variable UserActionType
+DataCollectionTool.java:355: error: cannot find symbol
+            List<IOBlock> io = e.getIO();
+                 ^
+  symbol: class IOBlock
+DataCollectionTool.java:360: error: cannot find symbol
+                  IOBlock b = io.get(i);
+                  ^
+  symbol: class IOBlock
+DataCollectionTool.java:427: error: cannot find symbol
+      if (!DataCollection.requestUse(this)) {
+           ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:430: error: cannot find symbol
+      DataCollection.addFileListener(fileListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:431: error: cannot find symbol
+      DataCollection.addEditListener(editListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:432: error: cannot find symbol
+      DataCollection.addCursorListener(cursorListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:433: error: cannot find symbol
+      DataCollection.addScrollListener(scrollListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:434: error: cannot find symbol
+      DataCollection.addUserActionListener(userActionListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:450: error: cannot find symbol
+      return new ToolAction[] { aboutAction };
+                 ^
+  symbol:   class ToolAction
+  location: class DataCollectionTool
+DataCollectionTool.java:573: error: cannot find symbol
+      DataCollection.removeFileListener(fileListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:574: error: cannot find symbol
+      DataCollection.removeEditListener(editListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:575: error: cannot find symbol
+      DataCollection.removeCursorListener(cursorListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:576: error: cannot find symbol
+      DataCollection.removeUserActionListener(userActionListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+DataCollectionTool.java:577: error: cannot find symbol
+      DataCollection.removeScrollListener(scrollListener);
+      ^
+  symbol:   variable DataCollection
+  location: class DataCollectionTool
+98 errors
+jamies:tools jamie$ export CLASSPATH=/Applications/jGRASP.app/Contents/Resources/jgrasp/jgrasp.jar 
+jamies:tools jamie$ 
+jamies:tools jamie$ javac DataCollectionTool.java 
+jamies:tools jamie$ javac DataCollectionTool.java 
+jamies:tools jamie$ javac DataCollectionTool.java 
+DataCollectionTool.java:357: error: illegal start of expression
+            for (int i = 0; i < io.size() && i < 100;; i++) {
+                                                     ^
+DataCollectionTool.java:357: error: ';' expected
+            for (int i = 0; i < io.size() && i < 100;; i++) {
+                                                          ^
+2 errors
+jamies:tools jamie$ javac DataCollectionTool.java 
+jamies:tools jamie$ javac DataCollectionTool.java 
+jamies:tools jamie$ javac DataCollectionTool.java 
+DataCollectionTool.java:398: error: variable b is already defined in method userAction(UserActionEvent)
+               IOBlock b = io.get(io.size() - 1);
+                       ^
+DataCollectionTool.java:399: error: variable text is already defined in method userAction(UserActionEvent)
+               String text = b.getText();
+                      ^
+DataCollectionTool.java:404: error: variable b is already defined in method userAction(UserActionEvent)
+              IOBlock b = io.get(io.size());
+                      ^
+DataCollectionTool.java:405: error: variable text is already defined in method userAction(UserActionEvent)
+              String text = b.getText();
+                     ^
+4 errors
+jamies:tools jamie$ 
